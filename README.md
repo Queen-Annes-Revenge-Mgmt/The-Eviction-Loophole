@@ -213,7 +213,8 @@ Once known as 'the group from Woodman Gardens'<br />
 
 <hr style="display:none;"/>
 
-    LAHD's inspection policies allow this pattern to persist, because of two words left dangerously vague: "Significant progress"
+    LAHD's inspection policies allow this pattern to persist, 
+    because of two words left dangerously vague: "Significant progress"
 
 Landlords and property management companies are using this ambiguity
 to exploit and displace vulnerable tenants across income levels. 
