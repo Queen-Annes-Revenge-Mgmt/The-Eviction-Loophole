@@ -142,7 +142,7 @@
 # :link: <span style="color:skyblue">BACKSTORY</span> 
 
 <span style="font-size:1.25em">
-40+ low-income tenants — children, the elderly, the disabled, minorities — all suffered horrendous abuse for years at Woodman Gardens.<br />
+40+ low-income tenants — children, the elderly, the disabled, minorities — all suffered horrendous abuse for years at Woodman Gardens.<br /><br />
 
 A group at Woodman Gardens stood up, fought back. Most who spoke out were silenced, to make it worse, they punished everyone around us.<br />
 
