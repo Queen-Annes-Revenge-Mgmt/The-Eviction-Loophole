@@ -207,7 +207,9 @@ Once known as 'the group from Woodman Gardens'<br />
 
 # :link: <span style="color:skyblue">THE ISSUES OF CONCERN</span>
 
-    LAHD is enabling the oppression of the poor by collaborating with landlords to enforce a pattern of eviction known as "Constructive Eviction" through the use of "Unlimited Implicit Repair Case Extensions".
+    LAHD is enabling the oppression of the poor by collaborating with landlords to enforce a pattern of 
+    eviction known as "Constructive Eviction" through the use of 
+    "Unlimited Implicit Repair Case Extensions".
 
 <hr style="display:none;"/>
 
