@@ -1236,7 +1236,9 @@ Types of Harassment & Abuse We dealt with:
 
     HoneywineArts:
 
-    "Fun fact: in LA your landlord can harass you as much as they want, (pee in your tub, cut off your hot water for weeks at a time, etc) & all they get is this letter! Thats it. No wonder its slumlord city."
+    "Fun fact: in LA your landlord can harass you as much as they want, (pee in your tub, 
+    cut off your hot water for weeks at a time, etc) & all they get is this letter! 
+    Thats it. No wonder its slumlord city."
 
 <div align="center">
   <a href="assets/imgs/anti-harassment-letter.jpg" target="_blank">
@@ -1254,7 +1256,10 @@ Types of Harassment & Abuse We dealt with:
 
     HoneywineArts:
 
-    "Had an inspection today. The property manager came in spewing lies. She told the city officials she was going to have my kids taken away. She laughed at me when I told them the building was unsafe and making us sick. I need to get us somewhere safe so I can rebuild. Please help." 
+    "Had an inspection today. The property manager came in spewing lies. She told the 
+    city officials she was going to have my kids taken away. She laughed at me when 
+    I told them the building was unsafe and making us sick. I need to get us 
+    somewhere safe so I can rebuild. Please help." 
 
 <div align="center">
   <a href="assets/tweets/honeywine-retweet-on-abuse.JPG" target="_blank">
@@ -1273,7 +1278,9 @@ Types of Harassment & Abuse We dealt with:
 
     Bob_Agalloo:
 
-    I can't sleep, it's not the bird call device outside my window. Round 2 starts soon, waiting to see if 40 #tenants will have illegal inspections done by a slumlord looking to illegally evict them.
+    I can't sleep, it's not the bird call device outside my window. Round 2 starts 
+    soon, waiting to see if 40 #tenants will have illegal inspections done 
+    by a slumlord looking to illegally evict them.
 
 <div align="center">
   <a href="assets/tweets/fighting-harassment-with-bird-call-tweet.JPG" target="_blank">
@@ -1286,11 +1293,6 @@ Types of Harassment & Abuse We dealt with:
   </a>
 </div><br /><br />
 
-<hr style="border: none; border-top: 2px dashed gray;" />
-<br />
-
-<!-- !! ADD MORE ABUSE STUFF, STUFF ABOUT THEMM LYING TO POLICE ABOUT THE KNIFE -->
-
 <br />
 <p>
 <a id="SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS"></a>
@@ -1298,7 +1300,7 @@ Types of Harassment & Abuse We dealt with:
 
 ---
 
-# <span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span><br />
+# <span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO <br />TERRORIZE AND REMOVE TENANTS</span><br />
 
 <br />
 <div>
@@ -1377,7 +1379,7 @@ These gangs aren't local to this area, police maps show nobody runs that area. T
 
 <br />
 
-They did this to a Woman with 3 kids because she wanted them to fix flood damage caused from the unit above hers. They did all this to scare her off, to avoid liabity and pay for relocation or fix the damage done.<br /> 
+They did this to a Woman with 3 kids because she wanted them to fix flood damage caused from the unit above hers. They did all this to scare her off, to avoid liabity, avoid paying  for relocation and to fix the damage done.<br /> 
 
 Guess when her breaking point was? Her second car being destroyed, her window was smashed but nothing stolen.<br />
 
@@ -1387,7 +1389,7 @@ Thankfully her car cut the bastard, but she was no longer able to driver her kid
 
 Everyone stopped fighting management after that, as City Officials all turned a blind eye to what happen to that Woman and her kids... We <u>all</u> got the message.<br />
 
-They have <span style="color:yellow"><u>no control</u></span>.<br />
+The City Officials of Los Angeles have <strong>no control</strong>.<br />
 
 <table>
     <tr>
@@ -1421,14 +1423,16 @@ They have <span style="color:yellow"><u>no control</u></span>.<br />
 <a id="MIKE_FEUERS_ROLE_IN_13100_VANOWEN"></a>
 </p>
 
-<span style="font-size:1em;"><span style="color:yellow">15 DEAD</span> - <span style="color:white">CITY OFFICIAL</span> <span style="color:yellow">MIKE FEUER</span> <br />AND <span style="color:yellow">13100 VANOWEN</span></span><br>
+## 15 DEAD - CITY OFFICIAL MIKE FEUER AND 13100 VANOWEN
+
+<br />
 
 <div>
 Let's analyze what happened an 13100 Vanowen and the 15 dead, let's find the common demonminators.<br /><br />
 
-Right off the bat we see a glaring issue these cases have in common: LAHD's Inspector McDevitt ran lead<br />
+Right off the bat we see a glaring issue these cases have in common: LAHD's Inspector McDevitt ran lead.<br />
 
-Who is McDevitt working with or for? It isn't for LA city, nor tenants... Perhaps he's working with North Hollywood Locos.<br /><br />
+Who is McDevitt working with or for? It isn't for LA city, nor tenants... Perhaps he's working with North Hollywood Locos?<br /><br />
 
 <table>
     <tr>
@@ -1467,7 +1471,7 @@ Who is McDevitt working with or for? It isn't for LA city, nor tenants... Perhap
     </tr>
 </table><br />
 
-Secondly, we see the nature of the complaints were related to the habitability and the overall safety of the complex. Seems like it was not well maintained like our complex (Woodman Gardens). We see more LAHD code violations building up in that list, that's because smaller cases are being repitively closed by LAHD, instead of being solved. Forceing us to re-open them.<br />
+Secondly, we see the nature of the complaints were related to the habitability and the overall safety of the complex. Seems like it was not well maintained like our complex (Woodman Gardens). We see more LAHD code violations building up in that list, that's because smaller cases are being repetitively closed by LAHD, instead of being solved. Forceing tenants to re-open them. Something outlined and brought up in LA 2018 LAHD Audit, but never resolved.<br />
 
 Interestingly enough Mike Feuer and McDevitts Vanowen's gang activity was on a RSO complex like ours. Are landlords employing gangs to remove lower class Tenants?<br /> 
 
@@ -1500,7 +1504,7 @@ LAHD's unlimited case extensions are the reason why we're in this position; they
 
 LAHD's inactions have led to this violent atmosphere - now who's gonna pay for it? Us. You can't let landlords run unchecked.<br />
 
-It creates Slumlords. LAHD not enforcing regulations and violations has become the lifeblood that connects and creates all slumlords. Give Tenant's an abuse hotline, stop the blood flow allowing slumlords to survive.<br />
+It creates Slumlords. LAHD not enforcing regulations and violations has become the lifeblood that connects and creates all slumlords. Give Tenant's an abuse hotline, stop the pattern  allowing slumlords to survive.<br />
 
 </div><br />
 
@@ -1509,16 +1513,18 @@ It creates Slumlords. LAHD not enforcing regulations and violations has become t
 <a id="MIKE_FEUERS_WORK_AFTER_HE_LEFT_OFFICE"></a>
 </p>
 
-<span style="font-size:1em;"><span style="color:white">
-<span style="color:yellow">WHAT HAPPENED</span> TO <br /><span style="color:yellow">MIKE FEUER'S</span> <span style="color:white">WORK</span> <span style="color:yellow">AFTER</span> <br /><span style="color:yellow">HE</span> LEFT <span style="color:yellow">OFFICE</span><br />
-</span><br />
+## WHAT HAPPENED TO MIKE FEUER'S WORK AFTER HE LEFT OFFICE
+
+<br />
 
 <div>
-Lessons begin at home. Mike Feuer's 2018 LAHD SCEP Audit collected dust, no changes made. He's former office, LA City Attorney (Hydee Feldstein Soto), has forgotten about it and 13100 Vanowen, the 15 that died. Your work has been vital, outlining constructive eviction tricks used by landlords, your work will save lives.<br /><br />
+Lessons begin at home. Mike Feuer's 2018 LAHD SCEP Audit collected dust, no changes made. His former office, LA City Attorney (Hydee Feldstein Soto), has forgotten about it and 13100 Vanowen, the 15 that died. Ron and Mikes work was vital, outlining constructive eviction tricks used by landlords, their work would have saved lives.<br /><br />
 
-If Los Angeles were serious about helping people LA City Attorney Soto wouldn't have ignored Mike Feuer's work - LA Controller his civil right attorney, Sergio Perez, would listen to peoples calls for an Audit & work to close The Constructive Eviction loophole, easier saying you care and leave the masses to fight for it. That's exactly what all these "representatives" did.<br /><br />
+Instead, it's all been forgotten.<br />
 
-<div style="align:center;">
+If Los Angeles were serious about helping people LA City Attorney Soto wouldn't have ignored Mike Feuer's work. If the LA Controller and his civil right's attorney, Sergio Perez, would have listened to peoples calls for an Audit, and for them to close The Constructive Eviction loophole, people could've been saved. But it's easier to campaign saying you care and leave the masses to fight for their own. That's exactly what all these "representatives" did.<br /><br />
+
+<div align="center">
 
 <a href="assets/tweets/13100-Vanowen-case-forgotten-by-prosecutors.JPG" target="_blank">
     <img 
@@ -1554,14 +1560,14 @@ The LAist's coverage of PAMA Properties and Mike Feuer's lawsuit against another
 
 One of the most alarming aspects is how this loophole allows landlords to create hostile, unsafe environments that spill beyond their property lines. LAist's reporting on gang-related violence and tenant harassment in North Hollywood demonstrates how the violence used to force tenants out doesn't stay contained. These conflicts, often facilitated by slumlords paying gang members to terrorize tenants, bleed into the community, making everyone less safe regardless of their housing situation. This is not a poor people's problem—it's a public safety issue.<br /><br />
 
-<strong style="color:yellow">Strain on Emergency Services</strong><br />
+<strong style="color:yellow">Strain on Emergency Services</strong><br /><br />
 Repeated false police calls, as documented at Woodman Gardens, represent another community-wide cost. When landlords lie to the police to harass tenants, emergency services are diverted away from genuine crises. This misuse of public resources directly impacts everyone, regardless of class. If your loved one needs urgent help, but local police are stuck responding to yet another fabricated disturbance at a slumlord's property, your safety is compromised.<br /><br />
 
 <strong style="color:yellow">Property Decay Impacts All Homeowners and Renters</strong><br />
 
 The decay of slum properties has a measurable economic impact. Properties left in squalor depress the value of neighboring buildings and homes. Even if you live in a well-maintained property, if it sits adjacent to one exploited under this loophole, your investment and quality of life are still at risk. Blight spreads. Once one property falls, the neglect attracts crime, garbage, and further decay, harming entire blocks and entire communities.<br /><br />
 
-<strong style="color:yellow">Systemic Bureaucratic Failure Costs Us All</strong><br />
+<strong style="color:yellow">Systemic Bureaucratic Failure Costs Us All</strong><br /><br />
 The loophole persists because LAHD chooses to game its system. As the 2018 audit showed, the department manipulates statistics and grants landlords endless repair extensions, ignoring meaningful enforcement. Instead of proactively resolving violations, LAHD offloads these issues onto the courts, which drags out cases, consumes judicial resources, and forces tenants—who often lack the means—to engage in lengthy legal battles. Even those with financial stability must contend with a court system overwhelmed by cases that should have been handled at the agency level.<br />
 
 If LAHD properly enforced the codes they are tasked to uphold, the need for costly litigation would drastically decrease. This would benefit everyone, including higher-income residents who may one day find themselves in landlord disputes. Courts would be more accessible for true civil conflicts instead of being jammed with cases of administrative neglect.<br />
@@ -1709,16 +1715,13 @@ Each city department, including <u>LAHD</u>, <u>Building & Safety</u>, <u>Sanita
 
 # <span style="color:skyblue">CALL TO ACTION</span>
 
-<div>
-</div><br />
-
-<hr style="border: none; border-top: 2px dashed gray;" />
 <p>
 <a id="WHAT_CAN_YOU_DO_TO_FIGHT_SLUMLORDS_FROM_YOUR_DEVICE"></a>
 </p>
+<br />
 
-<span style="font-size:1em;color:white"><span style="color:yellow">WHAT</span> CAN <span style="color:yellow">YOU</span> DO <span style="color:yellow">TO FIGHT</span> SLUMLORDS <span style="color:yellow">FROM YOUR</span> DEVICE</span></span> :fist:
-<br /><br />
+## WHAT CAN YOU DO TO FIGHT SLUMLORDS FROM YOUR DEVICE :fist:
+
 <div>
 You don't need to be a lawyer or city councilmember to challenge slumlords. <span style="color:yellow">You just need a phone</span>.<br /><br />
 
