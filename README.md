@@ -237,10 +237,10 @@ Here's the notice they served the tenants, stating that they needed entry into o
 
 <br />
 <div align="center">
-    <a href="assets/imgs/13100-Vanowen-Gang-Takes-Over.PNG" target="_blank">
-        <img src="assets/imgs/13100-Vanowen-Gang-Takes-Over.PNG"
+    <a href="assets/imgs/illegally-served-notice-to-enter-under-city-authority.JPEG" target="_blank">
+        <img src="assets/imgs/illegally-served-notice-to-enter-under-city-authority.JPEG"
                 alt="13100 Vanowen Gang Takes Over" 
-                style="width:25%; height:auto;"
+                style="width:50%; height:auto;"
                 title="Click to Enlarge">
     </a>
 </div>
@@ -268,8 +268,8 @@ The morning of the inspections, Inspector Luke Deasy was found meeting with our 
 *Confronting Slumlords Caught Using LAHD General Inspections to Gain Access to Units*
 
 </div>
-
-The inspections didn't happen.<br />
+<br />
+The inspections didn't happen.<br /><br />
 
 These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In addition, had they stepped into our homes under the false pretense that it was a city inspection, that would have been criminal level invasion of privacy, while pretending to be a city officer.   
 <br />
