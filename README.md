@@ -272,7 +272,7 @@ The morning of the inspections, Inspector Luke Deasy was found meeting with our 
 The inspections didn't happen.<br /><br />
 
 These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In addition, had they stepped into our homes under the false pretense that it was a city inspection, that would have been criminal level invasion of privacy, while pretending to be a city officer.   
-<br />
+<br /><br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 
@@ -281,8 +281,6 @@ These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In additio
 </p>
 
 ## MORE OF INSPECTOR LUKE DEASY'S WORK :arrow_heading_down:
-
-<br />
 
 <!-- new node -->
 
@@ -651,7 +649,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
     <table>
         <tr>
             <td colspan="2">
-                <figure align="center">
+                <figure>
                     <center>
                         <a href="assets/imgs/flooded-apartment-boarded-up.jpg" target="_blank">
                             <img 
@@ -659,7 +657,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
                             alt="Lockout Strategy Flooded Apartment Boarded Up" 
                             title="Click to Enlarge"
                             style="width:75%; min-width:75%; max-width:75%; height:auto; display:block; margin:0 auto;"
-                            >
+                            />
                         </a>
                     </center>
                     <figcaption style="margin-top:8px; font-size:0.9em; color:gray;">
@@ -670,10 +668,12 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
         </tr>
         <tr>
             <td colspan="2">
-                <figure align="center">
+                <figure >
+                   <center>
                     <figcaption style="font-size:0.9em; color:gray;">
                        :small_red_triangle_down: Bottom Unit Flood Damage :small_red_triangle_down: 
                     </figcaption>
+                   </center>
                 </figure>
             </td>
         </tr>
@@ -782,27 +782,21 @@ Unlimited case extensions for the Woodman complex by LAHD, they enabled this cyc
 Every agency tells Tenants that everthing is a civil matter for the Courts...<br /><br /> 
 </span>
 
-<div style="text-align:center;">
-    <span style="font-size:1em">
-        <b style="color: yellow">Civil Remedies <span style="color: white;">Cannot Be The</span> <span style="color: yellow;">only</span> answer</b><br />
-        <b style="color: yellow">Landlords <span style="color: white;">are counting on</span> Outlasting Tenants</b><br />
-        <b style="color: yellow">Allowing 
-            <span style="color: white;">the</span> 
-            <b style="color: red">Abuse</b> 
-            <b style="color: yellow">
-            <span style="color: white;">to</span> 
-            Continue.
-            </b></b>
-    </span>
-</div><br /><br />
+<div align="center">
+
+### Civil Remedies Cannot Be THE only answer.
+### Landlords are counting on Outlasting Tenants.
+### Allowing the Abuse to Continue.
+
+</div><br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <p>
 <a id="WHAT_DOES_THE_ABUSE_LOOK_LIKE"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:yellow">WHAT</span> <span style="color:white">DOES <span style="color: yellow">THE</span></span> <span style="font-weight:bolder;color:red">ABUSE</span> <span style="color:white">LOOK</span> <span style="color:yellow">LIKE</span></span> :eyes: 
+
+### WHAT DOES THE ABUSE LOOK LIKE :eyes: 
 
 <br />
 
@@ -814,7 +808,7 @@ Her landlord didn't give her a key for months all while collecting rent - from h
 
 Apartments aren't habitable without locking doors, but LAHD didn't care - she, and her children were trapped inside their unit. Here's an RSO protected tenant, asking her community for Relocation Funds she's entitled to receive based on RSO rules:
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/ConstructiveEviction-Tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/ConstructiveEviction-Tweet.JPG" 
@@ -850,7 +844,7 @@ Here's the parking spot of the woman with 3 kids that they're trying to evict. B
 The other tenants, had to clear her spot and push this mess up and down our alley in order to get city officials to help us. This happened every 2 months for 18 months. Trash had to be on the city side for the city to act. Where the trash in the picture below was place is considered <u>a legal matter</u>.  
 
 <br />
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/tenants-parking-spot-trash-abuse.JPEG" target="_blank">
     <img 
       src="assets/imgs/tenants-parking-spot-trash-abuse.JPEG" 
@@ -945,7 +939,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 
 <br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/attack-on-paul-krekorian-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/attack-on-paul-krekorian-tweet.JPG" 
@@ -964,20 +958,20 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
     <span style="color:yellow">RELATION</span> <span style="color:white">TO FIXING</span> <br /><span style="color:yellow">SYSTEMIC CLASSISM</span> <span style="color:white"><u>AND</u></span> <span style="color:yellow">RACISM</span> 
 </span> :loudspeaker: <br /><br />
 
-<div style="text-align:center;">
+<div align="center">
     <span style="font-size:1em">
         <b style="color: skyblue">Better Housing</b> <br /><span style="color:white">Is The Common Denominator <br /> To Addressing Both </span>
         <br /><span style="color: lightgreen"><b>Systemic Classism <u>and</u> Racism</b></span>:
     </span>
 </div>
 
-<div style="text-align:center;">
+<div align="center">
     <span style="font-size:1.15em">
         <b style="color: skyblue">Better Housing</b> :house: <span style="font-size:2em; color:red; margin:0; padding:0;">=</span> <b style="color: yellow">Better Education</b> :bulb:
     </span>
 </div>
-<div style="text-align:center;">🔻 🔻 🔻</div>
-<div style="text-align:center;">
+<div align="center">🔻 🔻 🔻</div>
+<div align="center">
     <span style="font-size:1em; margin:0; padding:0; line-height:1.4;">
         <b style="color: yellow;">Better Education</b> :bulb:<br />
         <span style="font-size:2em; color:red; margin:0; padding:0; line-height:1;">=</span><br />
@@ -1107,7 +1101,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
      
     AAGLA & inspectors ignored complaints (email proof). LAHD online form acts as a deterrent
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/LAHD-adding-to-homelessness-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/LAHD-adding-to-homelessness-tweet.JPG" 
@@ -1127,7 +1121,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
     <span style="color:white">LAHD <span style="color:yellow">REFUSES TO PERFORM</span> <br/>HIGHER LEVEL <span style="color:yellow">INSPECTIONS</span> (SCEP)</span> 
 </span><br /><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/lahd-scep-qualifications-yet-denied-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/lahd-scep-qualifications-yet-denied-tweet.JPG" 
@@ -1146,7 +1140,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
     <span style="color:white">WE <span style="color:yellow">PAY</span> FOR THESE <br /><span style="color:yellow">HIGHER LEVEL INSPECTIONS</span> (SCEP)</span>
 </span><br /><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/rso-hotel-rules.png" target="_blank">
     <img 
       src="assets/imgs/rso-hotel-rules.png" 
@@ -1171,7 +1165,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
     <span><span style="color:yellow">Citing</span> Disputes Are A <span style="color:yellow">Civil Matter</span>, <br/> <span style="color:yellow">Flooding</span> Our Courts Instead of <span style="color:yellow">Enforcing Codes</span>:</span>
 </div><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/Code.8.52.110.B.5-hotels.jpg" target="_blank">
     <img 
       src="assets/imgs/Code.8.52.110.B.5-hotels.jpg" 
@@ -1182,7 +1176,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
   </a>
 </div><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/lahd-not-helpping-as-hotels-are-wrongfully-denied.JPG" target="_blank">
     <img 
       src="assets/tweets/lahd-not-helpping-as-hotels-are-wrongfully-denied.JPG" 
@@ -1201,7 +1195,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
     <span style="color:white">LAHD <span style="color:yellow">BLOCKS</span> <br />LA CONTROLLER <span style="color:yellow">AND</span> COUNCIL PRESIDENT'S TEAM <br /><span style="color:yellow">FROM INSPECTION</span></span>
 </span><br /><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/lacontroller-send-his-team-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/lacontroller-send-his-team-tweet.JPG" 
@@ -1245,7 +1239,7 @@ Types of Harassment & Abuse We dealt with:
 
     "Fun fact: in LA your landlord can harass you as much as they want, (pee in your tub, cut off your hot water for weeks at a time, etc) & all they get is this letter! Thats it. No wonder its slumlord city."
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/anti-harassment-letter.jpg" target="_blank">
     <img 
       src="assets/imgs/anti-harassment-letter.jpg" 
@@ -1263,7 +1257,7 @@ Types of Harassment & Abuse We dealt with:
 
     "Had an inspection today. The property manager came in spewing lies. She told the city officials she was going to have my kids taken away. She laughed at me when I told them the building was unsafe and making us sick. I need to get us somewhere safe so I can rebuild. Please help." 
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/honeywine-retweet-on-abuse.JPG" target="_blank">
     <img 
       src="assets/tweets/honeywine-retweet-on-abuse.JPG" 
@@ -1282,7 +1276,7 @@ Types of Harassment & Abuse We dealt with:
 
     I can't sleep, it's not the bird call device outside my window. Round 2 starts soon, waiting to see if 40 #tenants will have illegal inspections done by a slumlord looking to illegally evict them.
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/fighting-harassment-with-bird-call-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/fighting-harassment-with-bird-call-tweet.JPG" 
@@ -1311,7 +1305,7 @@ Types of Harassment & Abuse We dealt with:
 <div>
 Turns out I was right about the violence amping up as well. This has happened before: 13100 Vanowen street. Those 2018 stats show it'll happen again. These aren't isolated incidents, its a system gone rogue for stats.<br /><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/13100-Vanowen-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/13100-Vanowen-tweet.JPG" 
@@ -1332,7 +1326,7 @@ https://laist.com/news/housing-homelessness/city-attorney-sues-landlord-investig
 
 First, a gang war appears out of nowwhere... But seemingly focused around a single target, the tenants car, not the entire alley.<br /><br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/13100-Vanowen-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/13100-Vanowen-tweet.JPG" 
@@ -1865,7 +1859,7 @@ Can you support the push to demand a dedicated Tenant Abuse Hotline?
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/tenant-abuse-hotline-now.png" target="_blank">
     <img 
       src="assets/imgs/tenant-abuse-hotline-now.png" 
@@ -2148,7 +2142,7 @@ Immediately reply to your main tweet and tag the following people.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/tenant-abuse-hotline-now.png" target="_blank">
     <img 
       src="assets/imgs/tenant-abuse-hotline-now.png" 
@@ -2527,7 +2521,7 @@ This post will be the top-level message people see and share. Feel free to use t
 
 Let's request an independent analysis of LAHD Repair Case Database:
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/Independendent-audit-of-lahd-repair-db.png" target="_blank">
     <img 
       src="assets/imgs/Independendent-audit-of-lahd-repair-db.png" 
@@ -2875,7 +2869,7 @@ This post will be the top-level message people see and share. Feel free to use t
 
 Let's request all bad actors be removed and their cases re-opened: 
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/remove-bad-actors-from-lahd.png" target="_blank">
     <img 
       src="assets/imgs/remove-bad-actors-from-lahd.png" 
@@ -3240,7 +3234,7 @@ Slumlords aren't being stopped. They're being enabled.
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/15-dead-close-the-constructive-eviction-loophole.png" target="_blank">
     <img 
       src="assets/imgs/15-dead-close-the-constructive-eviction-loophole.png" 
@@ -3486,6 +3480,18 @@ On behalf of those silenced by the Constructive Eviction Loophole
     pattern reaches or how others may have solved it.
 
 <br /><br />
+
+<p>
+<a id="OUR_CONTACT_INFO"></a>
+</p>
+
+---
+
+# <span style="color:skyblue">OUR CONTACT INFO</span>
+
+[queen.annes.revenge.mgmt@gmail.com](mailto:queen.annes.revenge.mgmt@gmail.com)
+
+<br /><br />
 <p>
 <a id="DOCUMENT_UPDATE_LOG"></a>
 </p>
@@ -3498,13 +3504,4 @@ On behalf of those silenced by the Constructive Eviction Loophole
 
 Nothing yet.
 
-<p>
-<a id="OUR_CONTACT_INFO"></a>
-</p>
-
----
-
-# <span style="color:skyblue">OUR CONTACT INFO</span>
-
-[queen.annes.revenge.mgmt@gmail.com](#queen.annes.revenge.mgmt@gmail.com)
 ---
