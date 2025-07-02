@@ -5,13 +5,11 @@
 1. [<span style="color:skyblue">BACKSTORY</span>](#BACKSTORY)
 
 2. [<span style="color:skyblue">THE ISSUES OF CONCERN</span>](#THE_ISSUES_OF_CONCERN)
+      - [<span style="color:yellow">VIDEO PROOF</span> <span style="color:white">HOUSING DEPARTMENTS</span> <span style="color:yellow">INSPECTOR WORKING <span style="color:white">WITH</span> SLUMLORDS</span>](#VIDEO_PROOF)
+      - [<span style="color:yellow">MORE</span> <span style="color:white">OF</span> <span style="color:white">INSPECTOR </span> <span style="color:yellow">LUKE DEASY\'S</span> <span style="color:yellow">WORK</span>](#DEASYS_HANDY_WORK)
 
-    * [<span style="color:yellow">VIDEO PROOF</span> <span style="color:white">HOUSING DEPARTMENTS</span> <span style="color:yellow">INSPECTOR WORKING <span style="color:white">WITH</span> SLUMLORDS</span>](#VIDEO_PROOF)
-
-        * [<span style="color:yellow">MORE</span> <span style="color:white">OF</span> <span style="color:white">INSPECTOR </span> <span style="color:yellow">LUKE DEASY\'S</span> <span style="color:yellow">WORK</span>](#DEASYS_HANDY_WORK)
-
-3. [<span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>](#SIGNIFICANT_VS_SUFFICIENT)
-4. [<span style="color:skyblue">THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#THE_CONTRUCTIVE_EVICTION_LOOPHOLE)
+4. [<span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>](#SIGNIFICANT_VS_SUFFICIENT)
+5. [<span style="color:skyblue">THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#THE_CONTRUCTIVE_EVICTION_LOOPHOLE)
 
     * [<span style="color:yellow">EXAMPLE</span> <span style="color:white">OF</span> <span style="color:yellow">THE CONSTRUCTIVE EVICTION LOOPHOLE</span> <span style="color:white">IN</span> <span style="color:yellow">ACTION</span>](#CONSTRUCTIVE_EVICTION_LOOPHOLE_EXAMPLE)
 
@@ -43,21 +41,21 @@
         
         * [<span style="color:white">LAHD <span style="color:yellow">BLOCKS</span> LA CONTROLLER <span style="color:yellow">AND</span> COUNCIL PRESIDENT\'S TEAM <span style="color:yellow">FROM INSPECTION</span></span>](#LAHD_BLOCKS_CITY_TEAMS_FROM_INSPECTION)
 
-5. [<span style="color:skyblue">THIS LOOPHOLE ENABLES ENDLESS TENANT HARASSMENT & ABUSE</span>](#LOOPHOLE_ENABLES_ENDLESS_HARASSMENT_&_ABUSE)
+6. [<span style="color:skyblue">THIS LOOPHOLE ENABLES ENDLESS TENANT HARASSMENT & ABUSE</span>](#LOOPHOLE_ENABLES_ENDLESS_HARASSMENT_&_ABUSE)
 
-6. [<span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span>](#SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS)
+7. [<span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span>](#SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS)
     
     * [<span style="color:yellow">15 DEAD</span> <span style="color:white">-</span> <span style="color:white">CITY OFFICIAL</span> <span style="color:yellow">MIKE FEUER</span> <span style="color:white">AND</span> <span style="color:yellow">13100 VANOWEN</span>](#MIKE_FEUERS_ROLE_IN_13100_VANOWEN)
     
     * [<span style="color:white"><span style="color:yellow">WHAT HAPPENED</span> TO <span style="color:yellow">MIKE FEUER'S</span> <span style="color:white">WORK</span> <span style="color:yellow">AFTER</span> <span style="color:yellow">HE</span> LEFT <span style="color:yellow">OFFICE</span></span>](#MIKE_FEUERS_WORK_AFTER_HE_LEFT_OFFICE)
 
-7. [<span style="color:skyblue">HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL - REGARDLESS OF CLASS LEVEL</span>](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)
+8. [<span style="color:skyblue">HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL - REGARDLESS OF CLASS LEVEL</span>](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)
 
-8. [<span style="color:skyblue">WHY ARE LAWYERS USELESS AGAINST THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#WHY_ARE_LAWYERS_USELESS)
+9. [<span style="color:skyblue">WHY ARE LAWYERS USELESS AGAINST THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#WHY_ARE_LAWYERS_USELESS)
 
-9. [<span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>](#WHY_THIS_IS_NOT_A_CIVIL_MATTER)
+10. [<span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>](#WHY_THIS_IS_NOT_A_CIVIL_MATTER)
 
-10. [<span style="color:skyblue">CALL TO ACTION</span>](#CALL_TO_ACTION)
+11. [<span style="color:skyblue">CALL TO ACTION</span>](#CALL_TO_ACTION)
     
     * [<span style="color:white"><span style="color:yellow">WHAT</span> CAN <span style="color:yellow">YOU</span> DO <span style="color:yellow">TO FIGHT</span> SLUMLORDS <span style="color:yellow">FROM YOUR</span> DEVICE</span></span>](#WHAT_CAN_YOU_DO_TO_FIGHT_SLUMLORDS_FROM_YOUR_DEVICE)
 
@@ -121,13 +119,13 @@
 
         * [<span style="color:white"><span style="color:yellow">EMAIL</span> MESSAGE FOR OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>](#EMAIL_MESSAGES_FOR_EVICTION_LOOPHOLE)
 
-11. [<span style="color:skyblue">FINAL THOUGHTS</span>](#FINAL_THOUGHTS)
+12. [<span style="color:skyblue">FINAL THOUGHTS</span>](#FINAL_THOUGHTS)
     
     * [<span style="color:white">WHAT <span style="color:yellow">CAN WE DO</span> FROM <span style="color:yellow">HERE</span></span>](#WHAT_CAN_WE_DO_FROM_HERE)
     
-12. [<span style="color:skyblue">OUR CONTACT INFO</span>](#OUR_CONTACT_INFO)
+13. [<span style="color:skyblue">OUR CONTACT INFO</span>](#OUR_CONTACT_INFO)
 
-13. [<span style="color:skyblue">DOCUMENT UPDATE LOG</span>](#DOCUMENT_UPDATE_LOG)
+14. [<span style="color:skyblue">DOCUMENT UPDATE LOG</span>](#DOCUMENT_UPDATE_LOG)
 
 
 
