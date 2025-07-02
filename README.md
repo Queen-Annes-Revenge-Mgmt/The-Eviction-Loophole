@@ -152,29 +152,29 @@ They fought to protect their homes. They lost.<br />
 
 Allies, including city officials, turned a blind eye to the abuse... One by one... To save face.<br /> 
 
-But the city had known about this "Constructive Eviction Loophole" since an LAHD audit perofmered by former Los Angeles Controller Ron Galperin to both former City Attorney Mike Feuer and former Mayor Eric Garcetti back in 2018.<br />
+But the city had known about this "Constructive Eviction Loophole" since an LAHD audit performed by former Los Angeles Controller Ron Galperin to both former City Attorney Mike Feuer and former Mayor Eric Garcetti back in 2018.<br />
 
 Former City Attorney Mike Feuer specifically sued a Slumlord that was using The Constructive Eviction Loophole Ron Galperin reported on. 15 people died at that Slumlord's location. Mike Feuer fought to have that Slumlord live on-site, to experience what they had done to the Tenants. Outcome unknown...<br />
 
-Years laters, the group at Woodman Gardens contacted the City Attrney's office about Mike Feuer's work. The City Attrney's office had no knowlegde, records, or notes on the 15 dead or Mike's landmark case. The group at Woodman Gardens explained our situation, the similarities, they had no clue what we were talking about or what to do.<br /> 
+Years laters, the group at Woodman Gardens contacted the City Attrney's office about Mike Feuer's work. The City Attrney's office had no knowlegde, records, or notes on the 15 dead or Mike Feuer's landmark case. The group at Woodman Gardens explained our situation, the similarities, they had no clue what we were talking about or what to do.<br /> 
 
 The group at Woodman Gardens found that the corruption within LAHD mirrors that of the LAPD.
 Video and photo evidence shows tenants at Woodman Gardens catching LAHD Inspectors 
-working with landlords to carry out illegal evictions. (link to proof section)<br />
+working with landlords to carry out illegal evictions. [VIDEO_PROOF](#VIDEO_PROOF)<br />
 
-We honor the Pain of those who came before us, <b>the 15 dead</b> and to the <b>40+</b> Tenants whose lives were flipped upside down when we fought back. For the Families and Kids, Elderly — Brothers and Sisters of all Races, who were forced out, lost, or injured, by no fault of their own, but by exploited words within an inspection policy.<br />
+We honor the Pain of those who came before us, <b>the 15 dead</b> and to the <b>40+</b> Tenants whose lives were flipped upside down when we fought back. For the Families and Kids, Elderly — Brothers and Sisters of all Races, who were forced out, lost, or injured, by no fault of their own, but by the exploited words within an inspection policy.<br />
 
 For the Pain we brought, we're Sorry. That was never out intent, we were only trying to do the right thing.<br />
 
 The below serves to document "The Contructive Eviction Loophole" — and the abuse that follows.
 
-Please understand, what you see here may not affect you directly, dbut it does indirectly. It affects all of us. Regardless of race, class or status. If you feel otherwise, before you go, we encourage you to at least read: [HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)<br />
+Please understand, what you see here may not affect you directly, but it does indirectly. It affects all of us. Regardless of race, class or status. If you feel otherwise, before you go, we encourage you to at least read: [HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)<br />
 
-To those brave enough to press further — know this: True Treasures be hidden between our connections, intertwined like pulsating energies. Real Education, includes knowledge from empathy, comes from each other, not book or street smarts alone. Like they say, "Education is Power."<br />
+To those who opt to press further — know this: True Treasures be hidden between our connections, intertwined like pulsating energies. Real "Education", includes knowledge from empathy, comes from learning about each other, not books or street smarts alone. Like they say, "Knowledge is Power."<br />
 
 But Education without action does nothing, lend your Voice to the Voiceless.<br />
 
-Speak out to your leaders against this if you're in Los Angeles. If not, seek out similar legal verbiage empowering Slumlords in your housing inpection policies. Most importantly, ensure your housing department is transparent about work case / repair case tracking. Having a unit or complex file an alarming number or support tickets is the easiest way to spot Slumlords.<br/>
+Speak out to your leaders against this if you're in Los Angeles. If not, seek out similar legal verbiage empowering Slumlords in your housing inpection policies. Most importantly, ensure your housing department is transparent about work case / repair case tracking. Having a unit or complex file an alarming number or support tickets is the easiest way to spot Slumlords. Yet we don't do it.<br/>
 
 Only one way up, my friends... It's together.<br/>
 
