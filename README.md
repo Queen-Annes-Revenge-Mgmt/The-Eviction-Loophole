@@ -605,7 +605,7 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-## LAHD IS GAMING THE SYSTEM TO MEET STAT GOALS
+### LAHD IS GAMING THE SYSTEM TO MEET STAT GOALS
 
 <div align="center">
   <a href="assets/imgs/scep-lahd-audit-cooked-stats.jpg" target="_blank">
@@ -632,7 +632,8 @@ https://controller.lacity.gov/audits/audit-on-systematic-code-enforcement-progra
 <p>
 <a id="WHAT_DOES_CONSTRUCTIVE_EVICTION_LOOPHOLE_LOOK_LIKE"></a>
 </p>
-<span style="font-size:1em"><span style="color:yellow">WHAT</span> <span style="color:white">DOES </span> <br/><span style="color:yellow">THE CONSTRUCTIVE EVICTION LOOPHOLE</span><br/><span style="color:white">LOOK LIKE</span></span> :eyes: 
+
+## WHAT DOES THE CONSTRUCTIVE EVICTION LOOPHOLE LOOK LIKE :eyes: 
 
 <br />
 </b>
@@ -650,7 +651,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
     <table>
         <tr>
             <td colspan="2">
-                <figure style="text-align:center;">
+                <figure align="center">
                     <center>
                         <a href="assets/imgs/flooded-apartment-boarded-up.jpg" target="_blank">
                             <img 
@@ -669,7 +670,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
         </tr>
         <tr>
             <td colspan="2">
-                <figure style="text-align:center;">
+                <figure align="center">
                     <figcaption style="font-size:0.9em; color:gray;">
                        :small_red_triangle_down: Bottom Unit Flood Damage :small_red_triangle_down: 
                     </figcaption>
@@ -723,7 +724,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
     </table>
 </center>
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/tweets/honeywines-mold-flood-damage-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/honeywines-mold-flood-damage-tweet.JPG" 
@@ -739,17 +740,15 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
 <p>
 <a id="WHAT_IS_THE_LOCKOUT_STRATEGY"></a>
 </p>
-<span style="font-size:1em"><span style="color:yellow">WHAT</span> <span style="color:white">IS</span> <span style="color:yellow">THE LOCKOUT STRATEGY</span></span> :eyes: 
+
+### WHAT IS THE LOCKOUT STRATEGY 🔒 
 
 <br />
-
-<span style="font-size:1em">
 Esstentially, get the tenant out of the unit by any means using police, board up the unit for as long as it takes for someone with power to undo it, typically after a court hearing (months to years). One tenant, HoneywineArts had found out a lockout strategy might be used against her.<br /><br />
 
-This happened after City Officials expedited LAHD's SCEP inspection on the Woodman Garden's Property.<br /><br />
-</span>
+This happened after City Officials expedited LAHD's SCEP inspection on the Woodman Garden's Property.<br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-4.jpg" target="_blank">
     <img 
       src="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-4.jpg" 
@@ -758,15 +757,13 @@ This happened after City Officials expedited LAHD's SCEP inspection on the Woodm
       style="width:75%; min-width:75%; max-width:75%; height:auto; display:block; margin:0 auto;"
     >
   </a>
-</div><br /><br />
+</div><br />
 
-<span style="font-size:1em">
 They want her out before the SCEP inspection, but won't pay for her relocation or fix up her unit, so they'll board it up and kick her to the streets - like they did to the Unit above hers and 2 others tenants, same management company, mostly floods.<br /><br />
 
-LAHD can't inspect units that are locked or boarded up? That's why the landlord wanted to board up 3 units before the SCEP inspection on 3/31/23, they already had one of 8 locked. This landlord destroyed all of our homes, a 40 unit complex, to lock up these 2 Units in an 8 unit building; as part of the abuse and harassment.<br /><br />
-</span>
+LAHD can't inspect units that are locked or boarded up? That's why the landlord wanted to board up 3 units before the SCEP inspection on 3/31/23, they already had one of 8 locked. This landlord destroyed all of our homes, a 40 unit complex, to lock up these 2 Units in an 8 unit building; as part of the abuse and harassment.<br />
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/flooded-apartment-boarded-up.jpg" target="_blank">
     <img 
       src="assets/imgs/flooded-apartment-boarded-up.jpg" 
