@@ -286,7 +286,7 @@ These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In additio
 
 <!-- new node -->
 
-#### INSPECTOR DEASY'S DOESN'T REPORT PERMIT VIOLATIONS FOR "FRIENDS"
+### INSPECTOR DEASY'S DOESN'T REPORT PERMIT VIOLATIONS FOR "FRIENDS"
 
 <div style="
     background-color:rgb(29, 29, 29);
@@ -334,7 +334,7 @@ No fines, no penalities, just a letter. So the pattern of corruption and abuse c
 
 <!-- new node -->
 
-#### WHY ARE LAHD INSPECTORS BULLYING TENANTS
+### WHY ARE LAHD INSPECTORS BULLYING TENANTS
 
 <div style="
     background-color:rgb(29, 29, 29);
@@ -371,7 +371,7 @@ Why'd inspector brebu & prop mangers #bully #tenants into cleaning up sewage flo
 
 <!-- new node -->
 
-#### INSPECTOR DEASY'S WORD WAS BLINDLY ACCEPTED
+### INSPECTOR DEASY'S WORD WAS BLINDLY ACCEPTED
 
 <div style="
     background-color:rgb(29, 29, 29);
@@ -417,7 +417,7 @@ But nah, let them sit longer. Let them suffer more.
 <a id="NO_VIOLATIONS_TENANTS_GOT_PUNISHED_FOR_SPEAKING_UP"></a>
 </p>
 
-#### NO VIOLATIONS, NO SCEP - TENANTS GOT PUNISHED FOR SPEAKING UP
+### NO VIOLATIONS, NO SCEP - TENANTS GOT PUNISHED FOR SPEAKING UP
 
 <div style="
     background-color:rgb(29, 29, 29);
@@ -487,7 +487,7 @@ Why did they leave the lockbox on if it was in violation?
 
 <!-- new node -->
 
-#### RE-OPEN, REVIEW, AND DO WELLNESS CHECKS ON ALL OF DEASY'S CASES 
+### RE-OPEN, REVIEW, AND DO WELLNESS CHECKS ON ALL OF DEASY'S CASES 
 
 <br />
 <div style="
@@ -535,7 +535,6 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
     As outlined below, words can not be left up to interpretation, in an industry riddled with greed.
 
----
 
 <p>
  <a id="THE_CONTRUCTIVE_EVICTION_LOOPHOLE"></a>
@@ -549,9 +548,9 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 <a id="CONSTRUCTIVE_EVICTION_LOOPHOLE_EXAMPLE">
 </p>
 
-<span style="font-size:1.75em;">
-<span style="color:yellow">EXAMPLE</span> <span style="color:white">OF</span> <br/><span style="color:yellow">THE CONSTRUCTIVE EVICTION LOOPHOLE</span> <span style="color:white">IN</span> <span style="color:yellow">ACTION</span></span><p>
-<div style="text-align:center;">
+## EXAMPLE OF THE CONSTRUCTIVE EVICTION LOOPHOLE IN ACTION
+   
+<div align="center">
   <a href="assets/imgs/loophole-evidence.jpg" target="_blank">
     <img 
       src="assets/imgs/loophole-evidence.jpg" 
@@ -568,9 +567,9 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<span style="font-size:1.75em;">
-<span style="color:yellow">LACK</span> <span style="color:white">OF</span> <span style="color:yellow">CODE</span> <span style="color:yellow">ENFORCEMENT</span><p>
-<div style="text-align:center;">
+## LACK OF CODE ENFORCEMENT
+
+<div align="center">
   <a href="assets/imgs/scep-enforcement-code-evic-loophole.jpg" target="_blank">
     <img 
       src="assets/imgs/scep-enforcement-code-evic-loophole.jpg" 
@@ -587,15 +586,15 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<span style="font-size:1em">
-<span style="color:yellow">2018 AUDIT</span> <span style="color:white">OUTLINED</span><br/><span style="color:yellow">THE CONTRUCTIVE EVICTION LOOPHOLE</span> <span style="color:white">TO LEADERS</span></span><p>
-<div style="text-align:center;">
+## 2018 AUDIT OUTLINED THE CONTRUCTIVE EVICTION LOOPHOLE TO LEADERS
+
+<div align="center">
   <a href="assets/imgs/audit-questions-to-lahd-by-ron.jpg" target="_blank">
     <img 
       src="assets/imgs/audit-questions-to-lahd-by-ron.jpg" 
       alt="2018 Audit Questions Posed to City Leaders" 
       title="Click to Enlarge"
-      style="width:100%; min-width:75%; max-width:95%; height:auto; display:block; margin:0 auto;"
+      style="width:50%; min-width:50%; max-width:95%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br /><p>
@@ -606,17 +605,15 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<span style="font-size:1em">
-<span style="color:white">LAHD</span> <span style="color:yellow">IS GAMING THE SYSTEM</span> <span style="color:white">TO <br/>MEET</span> <span style="color:yellow">STAT GOALS</span>
-</span><p>
+## LAHD IS GAMING THE SYSTEM TO MEET STAT GOALS
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/scep-lahd-audit-cooked-stats.jpg" target="_blank">
     <img 
       src="assets/imgs/scep-lahd-audit-cooked-stats.jpg" 
       alt="LAHD is Cooking Stats" 
       title="Click to Enlarge"
-      style="width:100%; min-width:75%; max-width:95%; height:auto; display:block; margin:0 auto;"
+      style="width:75%; min-width:75%; max-width:95%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
