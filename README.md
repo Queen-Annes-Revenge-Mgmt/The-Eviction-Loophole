@@ -10,8 +10,8 @@
         
       - [<span style="color:yellow">MORE</span> <span style="color:white">OF</span> <span style="color:white">INSPECTOR </span> <span style="color:yellow">LUKE DEASY\'S</span> <span style="color:yellow">WORK</span>](#DEASYS_HANDY_WORK)
 
-4. [<span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>](#SIGNIFICANT_VS_SUFFICIENT)
-5. [<span style="color:skyblue">THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#THE_CONTRUCTIVE_EVICTION_LOOPHOLE)
+3. [<span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>](#SIGNIFICANT_VS_SUFFICIENT)
+4. [<span style="color:skyblue">THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#THE_CONTRUCTIVE_EVICTION_LOOPHOLE)
 
     * [<span style="color:yellow">EXAMPLE</span> <span style="color:white">OF</span> <span style="color:yellow">THE CONSTRUCTIVE EVICTION LOOPHOLE</span> <span style="color:white">IN</span> <span style="color:yellow">ACTION</span>](#CONSTRUCTIVE_EVICTION_LOOPHOLE_EXAMPLE)
 
@@ -43,21 +43,21 @@
         
         * [<span style="color:white">LAHD <span style="color:yellow">BLOCKS</span> LA CONTROLLER <span style="color:yellow">AND</span> COUNCIL PRESIDENT\'S TEAM <span style="color:yellow">FROM INSPECTION</span></span>](#LAHD_BLOCKS_CITY_TEAMS_FROM_INSPECTION)
 
-6. [<span style="color:skyblue">THIS LOOPHOLE ENABLES ENDLESS TENANT HARASSMENT & ABUSE</span>](#LOOPHOLE_ENABLES_ENDLESS_HARASSMENT_&_ABUSE)
+5. [<span style="color:skyblue">THIS LOOPHOLE ENABLES ENDLESS TENANT HARASSMENT & ABUSE</span>](#LOOPHOLE_ENABLES_ENDLESS_HARASSMENT_&_ABUSE)
 
-7. [<span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span>](#SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS)
+6. [<span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span>](#SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS)
     
     * [<span style="color:yellow">15 DEAD</span> <span style="color:white">-</span> <span style="color:white">CITY OFFICIAL</span> <span style="color:yellow">MIKE FEUER</span> <span style="color:white">AND</span> <span style="color:yellow">13100 VANOWEN</span>](#MIKE_FEUERS_ROLE_IN_13100_VANOWEN)
     
     * [<span style="color:white"><span style="color:yellow">WHAT HAPPENED</span> TO <span style="color:yellow">MIKE FEUER'S</span> <span style="color:white">WORK</span> <span style="color:yellow">AFTER</span> <span style="color:yellow">HE</span> LEFT <span style="color:yellow">OFFICE</span></span>](#MIKE_FEUERS_WORK_AFTER_HE_LEFT_OFFICE)
 
-8. [<span style="color:skyblue">HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL - REGARDLESS OF CLASS LEVEL</span>](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)
+7. [<span style="color:skyblue">HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL - REGARDLESS OF CLASS LEVEL</span>](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)
 
-9. [<span style="color:skyblue">WHY ARE LAWYERS USELESS AGAINST THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#WHY_ARE_LAWYERS_USELESS)
+8. [<span style="color:skyblue">WHY ARE LAWYERS USELESS AGAINST THE CONTRUCTIVE EVICTION LOOPHOLE</span>](#WHY_ARE_LAWYERS_USELESS)
 
-10. [<span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>](#WHY_THIS_IS_NOT_A_CIVIL_MATTER)
+9. [<span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>](#WHY_THIS_IS_NOT_A_CIVIL_MATTER)
 
-11. [<span style="color:skyblue">CALL TO ACTION</span>](#CALL_TO_ACTION)
+10. [<span style="color:skyblue">CALL TO ACTION</span>](#CALL_TO_ACTION)
     
     * [<span style="color:white"><span style="color:yellow">WHAT</span> CAN <span style="color:yellow">YOU</span> DO <span style="color:yellow">TO FIGHT</span> SLUMLORDS <span style="color:yellow">FROM YOUR</span> DEVICE</span></span>](#WHAT_CAN_YOU_DO_TO_FIGHT_SLUMLORDS_FROM_YOUR_DEVICE)
 
@@ -121,13 +121,13 @@
 
         * [<span style="color:white"><span style="color:yellow">EMAIL</span> MESSAGE FOR OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>](#EMAIL_MESSAGES_FOR_EVICTION_LOOPHOLE)
 
-12. [<span style="color:skyblue">FINAL THOUGHTS</span>](#FINAL_THOUGHTS)
+11. [<span style="color:skyblue">FINAL THOUGHTS</span>](#FINAL_THOUGHTS)
     
     * [<span style="color:white">WHAT <span style="color:yellow">CAN WE DO</span> FROM <span style="color:yellow">HERE</span></span>](#WHAT_CAN_WE_DO_FROM_HERE)
     
-13. [<span style="color:skyblue">OUR CONTACT INFO</span>](#OUR_CONTACT_INFO)
+12. [<span style="color:skyblue">OUR CONTACT INFO</span>](#OUR_CONTACT_INFO)
 
-14. [<span style="color:skyblue">DOCUMENT UPDATE LOG</span>](#DOCUMENT_UPDATE_LOG)
+13. [<span style="color:skyblue">DOCUMENT UPDATE LOG</span>](#DOCUMENT_UPDATE_LOG)
 
 
 
@@ -139,7 +139,7 @@
 <a id="BACKSTORY"></a>
 </p>
 
-# :link: <span style="color:skyblue">BACKSTORY</span> 
+# <span style="color:skyblue">BACKSTORY</span> 
 
 <span style="font-size:1.25em">
 40+ low-income tenants — children, the elderly, the disabled, minorities — all suffered horrendous abuse for years at Woodman Gardens.<br /><br />
@@ -205,16 +205,18 @@ Once known as 'the group from Woodman Gardens'<br />
 <a id="THE_ISSUES_OF_CONCERN"></a>
 </p>
 
-# :link: <span style="color:skyblue">THE ISSUES OF CONCERN</span>
+# <span style="color:skyblue">THE ISSUES OF CONCERN</span>
 
-    LAHD is enabling the oppression of the poor by collaborating with landlords to enforce a pattern of 
-    eviction known as "Constructive Eviction" through the use of 
+    LAHD is enabling the oppression of the poor by collaborating  
+    with landlords to enforce a pattern of eviction known  
+    as "Constructive Eviction" through the use of 
     "Unlimited Implicit Repair Case Extensions".
 
-<hr style="display:none;"/>
+<hr style="display:none;" />
 
     LAHD's inspection policies allow this pattern to persist, 
-    because of two words left dangerously vague: "Significant progress"
+    because of two words left dangerously vague: 
+    "Significant progress"
 
 Landlords and property management companies are using this ambiguity
 to exploit and displace vulnerable tenants across income levels. 
@@ -222,14 +224,13 @@ to exploit and displace vulnerable tenants across income levels.
 __Slumlords exist__ **because** Los Angeles Housing Department (<span style="color:yellow">LAHD</span>) enables them, directly assiting Slumlords, as in the case outlined below.
 
 
-<hr style="border: none; border-top: 2px dashed gray; />
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <p>
 <a id="VIDEO_PROOF"></a>
 </p>
-<div style="text-align:left">
-<span style="font-size:2em;"><span style="color:yellow">VIDEO PROOF</span> <span style="color:white">HOUSING DEPARTMENTS</span><br/> <span style="color:yellow">INSPECTOR WORKING <span style="color:white">WITH</span> SLUMLORDS</span>:</span>
-</div><br />
+
+## <span style="color:skyblue">VIDEO PROOF HOUSING DEPARTMENTS INSPECTOR WORKING WITH SLUMLORDS</span>
 
 <figure>
     <div style="text-align:center">
@@ -251,7 +252,7 @@ __Slumlords exist__ **because** Los Angeles Housing Department (<span style="col
 
 <br />
 
-<hr style="border: none; border-top: 2px dashed gray; />
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <p>
 <a id="DEASYS_HANDY_WORK"></a>
@@ -495,7 +496,7 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 <a id="SIGNIFICANT_VS_SUFFICIENT"></a>
 </p>
 
-# :link: <span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>
+# <span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>
 
     During the events at Woodman Gardens LAHD's inspectors and inspection policies used the word "Sufficient." 
     
@@ -516,7 +517,7 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
 ---
 
-# :link: <span style="color:skyblue">THE CONTRUCTIVE EVICTION LOOPHOLE</span>
+# <span style="color:skyblue">THE CONTRUCTIVE EVICTION LOOPHOLE</span>
 
 <p>
 <a id="CONSTRUCTIVE_EVICTION_LOOPHOLE_EXAMPLE">
@@ -1197,7 +1198,7 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 
 ---
 
-# :link: <span style="color:skyblue">THIS LOOPHOLE ENABLES ENDLESS TENANT HARASSMENT & ABUSE</span> 
+# <span style="color:skyblue">THIS LOOPHOLE ENABLES ENDLESS TENANT HARASSMENT & ABUSE</span> 
 
 Types of Harassment & Abuse We dealt with:
 
@@ -1284,7 +1285,7 @@ Types of Harassment & Abuse We dealt with:
 
 ---
 
-# :link: <span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span><br />
+# <span style="color:skyblue">SLUMDLORDS PAY GANG MEMBERS TO TERRORIZE AND REMOVE TENANTS</span><br />
 
 <br />
 <div>
@@ -1523,7 +1524,7 @@ If Los Angeles were serious about helping people LA City Attorney Soto wouldn't 
 </p>
 
 ---
-# :link: <span style="color:skyblue">HOW DOES THIS EVICTION LOOPHOLE <br/>AFFECT US ALL <br />REGARDLESS OF CLASS LEVEL</span>
+# <span style="color:skyblue">HOW DOES THIS EVICTION LOOPHOLE <br/>AFFECT US ALL <br />REGARDLESS OF CLASS LEVEL</span>
 
 <div>
 
@@ -1565,7 +1566,7 @@ Housing Departments should be the final stop for enforcing violations, LAHD, not
 
 ---
 
-# :link: <span style="color:skyblue">WHY ARE LAWYERS USELESS AGAINST THE CONTRUCTIVE EVICTION LOOPHOLE</span>
+# <span style="color:skyblue">WHY ARE LAWYERS USELESS AGAINST THE CONTRUCTIVE EVICTION LOOPHOLE</span>
 
 <br />
 <div>
@@ -1625,7 +1626,7 @@ https://projects.laist.com/2020/pama/
 
 ---
 
-# :link: <span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>
+# <span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>
 
 <br />
 <div>
@@ -1693,7 +1694,7 @@ Each city department, including <u>LAHD</u>, <u>Building & Safety</u>, <u>Sanita
 
 ---
 
-# :link: <span style="color:skyblue">CALL TO ACTION</span>
+# <span style="color:skyblue">CALL TO ACTION</span>
 
 <div>
 </div><br />
@@ -3432,7 +3433,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 </p>
 
 ---
-:link: <span style="color:skyblue;font-size:1em">FINAL THOUGHTS</span>
+<span style="color:skyblue;font-size:1em">FINAL THOUGHTS</span>
 ---
 
     While this may seem isolated, it's a pattern, being used by cities across the country. 
@@ -3446,7 +3447,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="WHAT_CAN_WE_DO_FROM_HERE"></a>
 </p>
 
-## :link: <span style="color:white">WHAT <span style="color:yellow">CAN WE DO</span> FROM <span style="color:yellow">HERE</span></span><br />
+## <span style="color:white">WHAT <span style="color:yellow">CAN WE DO</span> FROM <span style="color:yellow">HERE</span></span><br />
 
     But if we gain access to their Tenant Housing Repair / Complaint Database, we can root 
     Slumlords out and remove them. 
@@ -3471,7 +3472,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 
 ---
 
-# :link: <span style="color:skyblue">DOCUMENT UPDATE LOG</span>
+# <span style="color:skyblue">DOCUMENT UPDATE LOG</span>
 
 ---
 
@@ -3483,7 +3484,7 @@ Nothing yet.
 
 ---
 
-# :link: <span style="color:skyblue">OUR CONTACT INFO</span>
+# <span style="color:skyblue">OUR CONTACT INFO</span>
 
 [queen.annes.revenge.mgmt@gmail.com](#queen.annes.revenge.mgmt@gmail.com)
 ---
