@@ -160,7 +160,7 @@ Years laters, the group at Woodman Gardens contacted the City Attrney's office a
 
 The group at Woodman Gardens found that the corruption within LAHD mirrors that of the LAPD.
 Video and photo evidence shows tenants at Woodman Gardens catching LAHD Inspectors 
-working with landlords to carry out illegal evictions. [VIDEO_PROOF](#VIDEO_PROOF)<br />
+working with landlords to carry out illegal evictions. [VIDEO PROOF](#VIDEO_PROOF)<br />
 
 We honor the Pain of those who came before us, <b>the 15 dead</b> and to the <b>40+</b> Tenants whose lives were flipped upside down when we fought back. For the Families and Kids, Elderly — Brothers and Sisters of all Races, who were forced out, lost, or injured, by no fault of their own, but by the exploited words within an inspection policy.<br />
 
