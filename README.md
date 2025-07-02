@@ -5,7 +5,9 @@
 1. [<span style="color:skyblue">BACKSTORY</span>](#BACKSTORY)
 
 2. [<span style="color:skyblue">THE ISSUES OF CONCERN</span>](#THE_ISSUES_OF_CONCERN)
+   
       - [<span style="color:yellow">VIDEO PROOF</span> <span style="color:white">HOUSING DEPARTMENTS</span> <span style="color:yellow">INSPECTOR WORKING <span style="color:white">WITH</span> SLUMLORDS</span>](#VIDEO_PROOF)
+        
       - [<span style="color:yellow">MORE</span> <span style="color:white">OF</span> <span style="color:white">INSPECTOR </span> <span style="color:yellow">LUKE DEASY\'S</span> <span style="color:yellow">WORK</span>](#DEASYS_HANDY_WORK)
 
 4. [<span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>](#SIGNIFICANT_VS_SUFFICIENT)
