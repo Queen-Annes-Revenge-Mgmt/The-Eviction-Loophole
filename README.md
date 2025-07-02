@@ -182,7 +182,7 @@ We need to start relating to each other in terms of Pain. We all share it, but o
 
 By decree of Captain Milo Cold's banner of Pain and the Crew of Queen Anne's Revenge, 
 
-<div style="text-align:center;">
+<div align="center">
   <a href="assets/imgs/queen_annes_revenge.png" target="_blank">
     <img 
       src="assets/imgs/queen_annes_revenge.png" 
@@ -193,7 +193,7 @@ By decree of Captain Milo Cold's banner of Pain and the Crew of Queen Anne's Rev
   </a>
 </div><br/>
 
-<div style="text-align:center;">
+<div align="center">
 Once known as 'the group from Woodman Gardens'<br />
 </div>
 
@@ -218,12 +218,13 @@ Once known as 'the group from Woodman Gardens'<br />
     because of two words left dangerously vague: 
     "Significant progress"
 
+<br />
 Landlords and property management companies are using this ambiguity
 to exploit and displace vulnerable tenants across income levels. 
 
 __Slumlords exist__ **because** Los Angeles Housing Department (<span style="color:yellow">LAHD</span>) enables them, directly assiting Slumlords, as in the case outlined below.
 
-
+<br />
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <p>
@@ -232,24 +233,23 @@ __Slumlords exist__ **because** Los Angeles Housing Department (<span style="col
 
 ## <span style="color:skyblue">VIDEO PROOF HOUSING DEPARTMENTS INSPECTOR WORKING WITH SLUMLORDS</span>
 
-<figure>
-    <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BgkEOU7Ti4c?si=TnhdqOkVY8-YiMjC" title="LAHD is working with Los Angeles Slumlord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>
-        LAHD is working with Los Angeles Slumlord
-    </figcaption>
-    </div>
-</figure><br />
+Here's the notice they served the tenants, stating that they needed entry into our homes to perform a city inspection:
 
-<figure>
-    <div style="text-align:center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/B1-XAlPYJpk?si=3jgUNZeKSNlJcYh9" title="Confronting Slumlords Caught Using LAHD General Inspections to Gain Access to Units" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>
-        Confronting Slumlords Caught Using LAHD General Inspections to Gain Access to Units
-    </figcaption>
-    </div>
-</figure>
+The morning of the inspections, Inspector Luke Deasy was found meeting with our landlords, though he was not scheduled to be there.<br />
 
+<div align="center">
+
+[![LAHD is working with Los Angeles Slumlord](https://img.youtube.com/vi/BgkEOU7Ti4c/0.jpg)](https://www.youtube.com/watch?v=BgkEOU7Ti4c)  
+*LAHD is working with Los Angeles Slumlord*
+
+<br/>
+
+[![Confronting Slumlords](https://img.youtube.com/vi/B1-XAlPYJpk/0.jpg)](https://www.youtube.com/watch?v=B1-XAlPYJpk)  
+*Confronting Slumlords Caught Using LAHD General Inspections to Gain Access to Units*
+
+</div>
+
+The inspections didn't happen. These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In addition, had they stepped into our homes under the false pretense that it was a city inspection, that would have been criminal level invasion of privacy while pretending to be a city officer.   
 <br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
@@ -262,8 +262,6 @@ __Slumlords exist__ **because** Los Angeles Housing Department (<span style="col
 <span style="color:yellow">WORK</span> :arrow_heading_down:
 </span>
 <br />
-
-**make this collapasable, then link back to this section from the fire him section**
 
 <!-- new node -->
 
