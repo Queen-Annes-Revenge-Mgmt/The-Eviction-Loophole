@@ -279,18 +279,15 @@ These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In additio
 <p>
 <a id="DEASYS_HANDY_WORK"></a>
 </p>
-<span style="font-size:1.50em;">
-<span style="color:yellow">MORE</span> <span style="color:white">OF</span> <span style="color:white">INSPECTOR </span> <span style="color:yellow">LUKE DEASY'S</span> 
-<span style="color:yellow">WORK</span> :arrow_heading_down:
-</span>
+
+## MORE OF INSPECTOR LUKE DEASY'S WORK :arrow_heading_down:
+
 <br />
 
 <!-- new node -->
 
-<span style="font-size:1em;">
-    <span style="color:yellow">INSPECTOR DEASY'S DOESN'T REPORT PERMIT VIOLATIONS FOR "FRIENDS"</span> 
-</span>
-<br />
+#### INSPECTOR DEASY'S DOESN'T REPORT PERMIT VIOLATIONS FOR "FRIENDS"
+
 <div style="
     background-color:rgb(29, 29, 29);
     border: 1px solid #cccccc;
@@ -298,9 +295,11 @@ These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In additio
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
     padding: 16px;">
 
-Inspector deasy said he doesn't report permit violations if the installation "looks good" & he "knows" the workers are good; which in his opinion, applied in this case. Same back in Sept (https://bit.ly/3zijEyN) 
+Deasy said he doesn't report permit violations if the installation "looks good" & he "knows" the workers are good; which in his opinion, applied in this case.
 
-<div style="text-align:center;">
+<br />
+
+<div align="center">
     <a href="assets/imgs/water-heater-issue.jpg" target="_blank">
         <img 
         src="assets/imgs/water-heater-issue.jpg" 
@@ -310,7 +309,7 @@ Inspector deasy said he doesn't report permit violations if the installation "lo
     </a>
 </div><br />
 
-<div style="text-align:center;">
+<div align="center">
     <a href="assets/tweets/deasy-water-heater-issue-tweet.JPG" target="_blank">
         <img 
         src="assets/tweets/deasy-water-heater-issue-tweet.JPG" 
@@ -320,6 +319,14 @@ Inspector deasy said he doesn't report permit violations if the installation "lo
     </a>
 </div><br />
 
+He said the same back in September, but we complained enough, that the city couldn't ignore the installation issues and permit violations.<br/>
+
+[LAHD's Deasy Prop Activity Report for a "Friend" He Covered For](https://housingapp.lacity.org/reportviolation/Pages/PublicPropertyActivityReport?APN=&CaseType=1&CaseNo=824575)<br/>
+
+No fines, no penalities, just a letter. So the pattern of corruption and abuse continues. All the tenants got burned as a result of speaking up:<br/>
+
+[NO VIOLATIONS TENANTS GOT PUNISHED FOR SPEAKING UP](#NO_VIOLATIONS_TENANTS_GOT_PUNISHED_FOR_SPEAKING_UP)
+
 </div>
 <br />
 
@@ -327,10 +334,8 @@ Inspector deasy said he doesn't report permit violations if the installation "lo
 
 <!-- new node -->
 
-<span style="font-size:1em;">
-    <span style="color:yellow">WHY ARE LAHD INSPECTORS BULLYING TENANTS</span> 
-</span>
-<br />
+#### WHY ARE LAHD INSPECTORS BULLYING TENANTS
+
 <div style="
     background-color:rgb(29, 29, 29);
     border: 1px solid #cccccc;
@@ -338,9 +343,10 @@ Inspector deasy said he doesn't report permit violations if the installation "lo
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
     padding: 16px;">
 
- Why'd inspector brebu & prop mangers #bully #tenants into cleaning up sewage flood damages the landlord wont remove? Why's deasy & brebu contacting property mangers instead of residents on inspection arrival?  
+Why'd inspector brebu & prop mangers #bully #tenants into cleaning up sewage flood damages the landlord wont remove? Why's deasy & brebu contacting property mangers instead of residents on inspection arrival?  
 
-<div style="text-align:center;">
+<br />
+<div align="center">
     <a href="assets/imgs/code-of-ethics-in-LA.jpg" target="_blank">
         <img 
         src="assets/imgs/code-of-ethics-in-LA.jpg" 
@@ -350,7 +356,7 @@ Inspector deasy said he doesn't report permit violations if the installation "lo
     </a>
 </div><br />
 
-<div style="text-align:center;">
+<div align="center">
     <a href="assets/tweets/lahd-code-of-ethics-violations-tweet.JPG" target="_blank">
         <img 
         src="assets/tweets/lahd-code-of-ethics-violations-tweet.JPG" 
@@ -365,23 +371,22 @@ Inspector deasy said he doesn't report permit violations if the installation "lo
 
 <!-- new node -->
 
-<span style="font-size:1em;">
-    <span style="color:yellow">INSPECTOR DEASY'S WORD WAS BLINDLY ACCEPTED</span> 
-</span>
-<br />
+#### INSPECTOR DEASY'S WORD WAS BLINDLY ACCEPTED
+
 <div style="
     background-color:rgb(29, 29, 29);
     border: 1px solid #cccccc;
     border-radius: 4px;
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
     padding: 16px;">
-After a "long discussion" with inspector deasy, our property managers "friend", the principle inspector, Risner, is unable to expedite an SCEP inspection.
+After a "long discussion" with inspector deasy, our property managers "friend", the principle inspector, Risner, is unable to expedite an SCEP inspection.<br /><br />
 
-Two sewage-flooded units, four apartments with leaks, roach infestation, and unsafe levels/types of mold.
+Two sewage-flooded units, four apartments with leaks, roach infestation, and unsafe levels/types of mold.<br />
 
 But nah, let them sit longer. Let them suffer more.
 
-<div style="text-align:center;">
+<br />
+<div align="center">
     <a href="assets/imgs/letter-from-head-of-LAHD.jpg" target="_blank">
         <img 
         src="assets/imgs/letter-from-head-of-LAHD.jpg" 
@@ -392,7 +397,7 @@ But nah, let them sit longer. Let them suffer more.
     </a>
 </div><br />
 
-<div style="text-align:center;">
+<div align="center">
     <a href="assets/tweets/Corruption-in-lahd-goes-high-tweet.JPG" target="_blank">
         <img 
         src="assets/tweets/Corruption-in-lahd-goes-high-tweet.JPG" 
@@ -408,25 +413,27 @@ But nah, let them sit longer. Let them suffer more.
 
 <!-- new node -->
 
-<span style="font-size:1em;">
-    <span style="color:yellow">NO VIOLATIONS, NO SCEP - TENANTS GOT PUNISHED FOR SPEAKING UP</span> 
-</span>
-<br />
+<p>
+<a id="NO_VIOLATIONS_TENANTS_GOT_PUNISHED_FOR_SPEAKING_UP"></a>
+</p>
+
+#### NO VIOLATIONS, NO SCEP - TENANTS GOT PUNISHED FOR SPEAKING UP
+
 <div style="
     background-color:rgb(29, 29, 29);
     border: 1px solid #cccccc;
     border-radius: 4px;
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
     padding: 16px;">
-They failed to enforce violations, we got all punished because a few raised their voices...
+They failed to enforce violations, we got all punished because a few raised their voices...<br />
 
 Slumlord and property managemt group chose to burn their tenants for the entire weekend because they had to install a new waterheater. 
 
 Blaming us, they added a lockbox. LAPC 503.2, no valid permit means no mods. Deasy admitted to ignoring an email he requested from us, boss had him apologize. Mostly elderly and kids got burned. 
 
 Why did they leave the lockbox on if it was in violation?
-
-<table>
+<br />
+<table align="center">
     <tr>
         <td>
             <center>
@@ -452,8 +459,8 @@ Why did they leave the lockbox on if it was in violation?
     <tr>
         <td>
             <center>
-                <a href="assets/imgS/waterheater-tenants-being-burned-w-more-lockbox.jpg" target="_blank">
-                    <img src="assets/imgS/waterheater-tenants-being-burned-w-more-lockbox.jpg" 
+                <a href="assets/imgs/waterheater-tenants-being-burned-w-more-lockbox.jpg" target="_blank">
+                    <img src="assets/imgs/waterheater-tenants-being-burned-w-more-lockbox.jpg" 
                             alt="waterheater tenants being burned w more lockbox" 
                             style="width:100%; height:auto;"
                             title="Click to Enlarge">
@@ -480,9 +487,8 @@ Why did they leave the lockbox on if it was in violation?
 
 <!-- new node -->
 
-<span style="font-size:1em;">
-    <span style="color:yellow">RE-OPEN, REVIEW, AND DO WELLNESS CHECKS ON ALL OF DEASY'S CASES</span> 
-</span>
+#### RE-OPEN, REVIEW, AND DO WELLNESS CHECKS ON ALL OF DEASY'S CASES 
+
 <br />
 <div style="
     background-color:rgb(29, 29, 29);
@@ -493,7 +499,7 @@ Why did they leave the lockbox on if it was in violation?
 
 Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more harm than good.
 
-<div style="text-align:center;">
+<div align="center">
     <a href="assets/tweets/fire-deasy-tweet.JPG" target="_blank">
         <img 
         src="assets/tweets/fire-deasy-tweet.JPG" 
