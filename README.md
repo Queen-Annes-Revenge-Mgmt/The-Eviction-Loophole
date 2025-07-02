@@ -635,7 +635,7 @@ https://controller.lacity.gov/audits/audit-on-systematic-code-enforcement-progra
 
 <br />
 </b>
-The images below outline this loophole for a 40 person complex for over a year and a half. Sewage flood occured from the unit above and was left unclean until both tenants could be illgally evicted.<br />
+The images below outline this loophole for a 40 person complex for over a year and a half. Sewage flood occured from the unit above and was left unclean until both tenants could be illegally evicted.<br /><br />
 
 Landlords were able to get the tenant above on a tresspass charge by lying to the police. They boarded his unit. He lost everything. Landlord got everything "to sell". Whereabouts unknown after arrest.<br />
 
@@ -649,8 +649,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
     <table>
         <tr>
             <td colspan="2">
-                <figure>
-                    <center>
+                <div align="center">
                         <a href="assets/imgs/flooded-apartment-boarded-up.jpg" target="_blank">
                             <img 
                             src="assets/imgs/flooded-apartment-boarded-up.jpg" 
@@ -659,22 +658,20 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
                             style="width:75%; min-width:75%; max-width:75%; height:auto; display:block; margin:0 auto;"
                             />
                         </a>
-                    </center>
-                    <figcaption style="margin-top:8px; font-size:0.9em; color:gray;">
+                        <br />
+                    <div align="center">
                        Top Unit Flooded with Sewage Water
-                    </figcaption>
-                </figure>
+                    </div>
+                </div>
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                <figure >
-                   <center>
-                    <figcaption style="font-size:0.9em; color:gray;">
+                <div align="center">
+                    <div align="center">
                        :small_red_triangle_down: Bottom Unit Flood Damage :small_red_triangle_down: 
-                    </figcaption>
-                   </center>
-                </figure>
+                    </div>
+                </div>
             </td>
         </tr>
         <tr>
@@ -777,7 +774,7 @@ LAHD can't inspect units that are locked or boarded up? That's why the landlord 
 <span style="font-size:1em">
 With ALL City Official eyes on HoneywineArts' landlord, they're still able to break the law<br /><br /> 
 
-Unlimited case extensions for the Woodman complex by LAHD, they enabled this cycle of abuse.<br /><br />
+Unlimited case extensions for the Woodman complex by LAHD, they enabled this cycle of abuse.<br />
 
 Every agency tells Tenants that everthing is a civil matter for the Courts...<br /><br /> 
 </span>
@@ -785,7 +782,7 @@ Every agency tells Tenants that everthing is a civil matter for the Courts...<br
 <div align="center">
 
 ### Civil Remedies Cannot Be THE only answer.
-### Landlords are counting on Outlasting Tenants.
+### Landlords are Counting on Outlasting Tenants.
 ### Allowing the Abuse to Continue.
 
 </div><br />
@@ -814,20 +811,20 @@ Apartments aren't habitable without locking doors, but LAHD didn't care - she, a
       src="assets/tweets/ConstructiveEviction-Tweet.JPG" 
       alt="Abuse of Constructive Eviction-Tweet" 
       title="Click to Enlarge"
-      style="width:30%; min-width:30%; max-width:30%; height:auto; display:block; margin:0 auto;"
+      style="width:45%; min-width:45%; max-width:45%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
 
 Her management company <b style="color: yellow">owns <u>245</u> other RSO</b> covered units, <b style="color: yellow"><u>800</u></b> normal units. <b style="color: yellow">This is <u>1</u> Prop. Mgmt</b>. A firm, partnered with LAHD, likely <b style="color: yellow">destroying over <u>1000</u> lives</b>. 
 
-How many Property Managers do you think use the same patterns outlined here? We'll discuss [13100 Vanowen and the 15 Dead later](#MIKE_FEUERS_ROLE_IN_13100_VANOWEN) which had a different Landlord / Property manangement group.
+How many Property Managers do you think use the same patterns outlined here? We'll discuss [13100 Vanowen and the 15 Dead later](#MIKE_FEUERS_ROLE_IN_13100_VANOWEN) which had a different Landlord / Property manangement group, but took advantage of the same pattern--down to the same gangs used to harass tenants.
 
-Systemic Classism is real. Multi-Family housing, Affordable Housing, Low Income Housing--whatever you want to call them. These people are being hurt and LAHD, Los Angeles Department of Water and Power (LADWP) & other agencies that all ignore tenants, know what they're doing. That's why none of these agencies have a hotline for abuse victims.<br /> 
+Systemic Classism is real. Multi-Family housing, Affordable Housing, Low Income Housing--whatever you want to call them. These people are being hurt and LAHD, Los Angeles Department of Water and Power (LADWP) & other agencies that all ignore tenants when they complain about abuse, they redirect us to the courts instead of handling their actual business. That's why none of these agencies have a hotline for abuse victims.<br /> 
 
 That recklessness will cost us all as things are turning violent.<br />
 
-<b style="color: yellow">The Question</b>: What do RSO tenants faced with "<strong style="color: yellow">Constructive Eviction</strong>" do to obtain relo funds besides begging & civil remedies? These solutions don't work to address the problem, as would capping case extensions, so the patterns of abuse continue. McDevitt, the SCEP Specialist and Senior Inspector, told this tenant that landlords can get unlimited case extensions... What purpose could that serve?<br />
+<b style="color: yellow">The Question</b>: What do tenants faced with "<strong style="color: yellow">Constructive Eviction</strong>" do to obtain relo funds besides begging & civil remedies? These solutions don't work to address the problem, as would capping case extensions, so the patterns of abuse continue. McDevitt, the SCEP Specialist and Senior Inspector, told this tenant that landlords can get unlimited case extensions... What purpose could that serve?<br />
 
 Housing Deparment renter protections aren't effective if code violations aren't enforced.<br />
 
@@ -855,7 +852,7 @@ The other tenants, had to clear her spot and push this mess up and down our alle
   </a>
 </div><br />
 
-Why can't the trash agency handle abuse and harrasment at the trash level - or take complaint regarding abuse of their service? It's their service. It's their client. But it's a city contracted agency, that's more concerned about the legal ramifications of over stepping and involving themselves in a court matter.<br /> 
+Why can't the trash agency handle abuse and harrasment at the trash level - or take complaints regarding abuse of their service? It's their service. It's their client. But it's a city contracted agency, that's more concerned about the legal ramifications of over stepping and involving themselves in a potential court matter.<br /> 
 
 So when it comes to abuse, every agency redirects the tenant explaining that there hands are tied and that it's a civil matter, flooding the courts.
 
@@ -868,9 +865,8 @@ So when it comes to abuse, every agency redirects the tenant explaining that the
 <p>
 <a id="CITY_OFFICIALS_COULDNT_GET_LAHD_TO_FIX_IT"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:yellow">CITY OFFICIALS</span> <span style="color:white">COULDN'T <br/>GET</span> <span style="color:yellow">LAHD</span> <span style="color:white"><br />TO DO THE</span> <span style="color:yellow">RIGHT THING</span>
-</span><br /><br />
+
+## CITY OFFICIALS COULDN'T GET LAHD TO DO THE RIGHT THING
 
 Here's a list of the City officials and city departments that were contacted for help while 40+ tenants were being abused and harrased by a slumslord.
 
@@ -954,55 +950,55 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 <p>
 <a id="RELATION_TO_FIXING_SYSTEMIC_CLASSISM_AND_RACISM"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:yellow">RELATION</span> <span style="color:white">TO FIXING</span> <br /><span style="color:yellow">SYSTEMIC CLASSISM</span> <span style="color:white"><u>AND</u></span> <span style="color:yellow">RACISM</span> 
-</span> :loudspeaker: <br /><br />
+
+## RELATION TO FIXING SYSTEMIC CLASSISM AND RACISM :loudspeaker: 
 
 <div align="center">
-    <span style="font-size:1em">
-        <b style="color: skyblue">Better Housing</b> <br /><span style="color:white">Is The Common Denominator <br /> To Addressing Both </span>
-        <br /><span style="color: lightgreen"><b>Systemic Classism <u>and</u> Racism</b></span>:
-    </span>
-</div>
 
-<div align="center">
-    <span style="font-size:1.15em">
-        <b style="color: skyblue">Better Housing</b> :house: <span style="font-size:2em; color:red; margin:0; padding:0;">=</span> <b style="color: yellow">Better Education</b> :bulb:
-    </span>
-</div>
+### Better Housing. Is The Common Denominator.
+### To Addressing Both 
+### Systemic Classism and Racism.
+
 <div align="center">🔻 🔻 🔻</div>
-<div align="center">
-    <span style="font-size:1em; margin:0; padding:0; line-height:1.4;">
-        <b style="color: yellow;">Better Education</b> :bulb:<br />
-        <span style="font-size:2em; color:red; margin:0; padding:0; line-height:1;">=</span><br />
-        <u><b>Remove</b></u> <b style="color: lightgreen;">Systemic Classism <u>and</u> Racism</b><br />
-        :godmode: :mega:
-    </span>
+
+### :house: Better Housing :house: = :bulb: Better Education :bulb:
+
+<div align="center">🔻 🔻 🔻</div>
+
+### :bulb: Better Education :bulb:
+### =
+### Remove Systemic Classism and Racism :balance_scale::godmode::mega:
+
 </div><br />
 
-<center>
-    <a href="assets/imgs/systemic-classism.jpg" target="_blank">
-        <img src="assets/imgs/systemic-classism.jpg" 
-             alt="How to Fix Systemic Classism" 
-             style="max-width:45%; height:auto;"
-             title="Click to Enlarge">
-    </a>
-    <a href="assets/imgs/systemic-racism.jpg" target="_blank">
-        <img src="assets/imgs/systemic-racism.jpg" 
-             alt="How to Fix Systemic Racism" 
-             style="max-width:45%; height:auto;"
-             title="Click to Enlarge">
-    </a>
-</center><br />
+<table>
+   <tr>
+      <td>
+          <a href="assets/imgs/systemic-classism.jpg" target="_blank">
+              <img src="assets/imgs/systemic-classism.jpg" 
+                   alt="How to Fix Systemic Classism" 
+                   style="max-width:45%; height:auto;"
+                   title="Click to Enlarge">
+          </a>
+      </td>
+      <td>
+          <a href="assets/imgs/systemic-racism.jpg" target="_blank">
+              <img src="assets/imgs/systemic-racism.jpg" 
+                   alt="How to Fix Systemic Racism" 
+                   style="max-width:45%; height:auto;"
+                   title="Click to Enlarge">
+          </a>
+      </td>
+</table><br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
 <p>
 <a id="LAHDs_ROLE"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:white">LOS ANGELES <br /><span style="color:yellow">HOUSING</span> DEPARTMENTS (<span style="color:yellow">LAHD's</span>) ROLE</span> 
-</span> :see_no_evil: :hear_no_evil: :speak_no_evil: <br /><br />
 
+## LOS ANGELES HOUSING DEPARTMENTS (LAHD's) ROLE :see_no_evil: :hear_no_evil: :speak_no_evil:
+
+<br />
 <center>
     <table>
         <tr>
@@ -1072,15 +1068,13 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
             </td>
         </tr>
         <tr>
-            <td colspan="2">
-                <center>
-                    <a href="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-6.jpg" target="_blank">
-                        <img src="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-6.jpg" 
-                             alt="LAHD's Failures: Slide 6" 
-                             style="width:75%; height:auto;"
-                             title="Click to Enlarge">
-                    </a>
-                </center>  
+            <td align="center" colspan="2">
+                 <a href="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-6.jpg" target="_blank">
+                     <img src="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-6.jpg" 
+                          alt="LAHD's Failures: Slide 6" 
+                          style="width:75%; height:auto;"
+                          title="Click to Enlarge">
+                 </a>
             </td>
         </tr>
     </table>
@@ -1091,15 +1085,18 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 <p>
 <a id="LAHD_ACTIVELY_CREATES_HOMELESS"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:white">LAHD <span style="color:yellow">ACTIVELY CREATES HOMELESS</span> PEOPLE</span> 
-</span> :see_no_evil: :hear_no_evil: :speak_no_evil: <br /><br />
+
+### LAHD ACTIVELY CREATES HOMELESS PEOPLE
+
+<br />
 
     MiloCold:
     
-    "[...] District 2: two families in my complex have been forced into homelessness due to Landlords & Property Manager abusing us. #JamesMcDevitt"
+    "[...] District 2: two families in my complex have been forced into homelessness 
+    due to Landlords & Property Manager abusing us. #JamesMcDevitt"
      
-    AAGLA & inspectors ignored complaints (email proof). LAHD online form acts as a deterrent
+    AAGLA & inspectors ignored complaints (email proof). 
+    LAHD online form acts as a deterrent
 
 <div align="center">
   <a href="assets/tweets/LAHD-adding-to-homelessness-tweet.JPG" target="_blank">
@@ -1117,10 +1114,10 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 <p>
 <a id="LAHD_REFUSES_TO_PERFORM_INSPECTIONS"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:white">LAHD <span style="color:yellow">REFUSES TO PERFORM</span> <br/>HIGHER LEVEL <span style="color:yellow">INSPECTIONS</span> (SCEP)</span> 
-</span><br /><br />
 
+### LAHD REFUSES TO PERFORM HIGHER LEVEL INSPECTIONS (SCEP)</span> 
+
+<br />
 <div align="center">
   <a href="assets/tweets/lahd-scep-qualifications-yet-denied-tweet.JPG" target="_blank">
     <img 
@@ -1136,9 +1133,10 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 <p>
 <a id="WE_PAY_FOR_HIGHER_LEVEL_INSPECTIONS"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:white">WE <span style="color:yellow">PAY</span> FOR THESE <br /><span style="color:yellow">HIGHER LEVEL INSPECTIONS</span> (SCEP)</span>
-</span><br /><br />
+
+### WE PAY FOR THESE HIGHER LEVEL INSPECTIONS (SCEP)
+
+<br />
 
 <div align="center">
   <a href="assets/imgs/rso-hotel-rules.png" target="_blank">
@@ -1157,13 +1155,13 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 <a id="LAHD_REFUSES_TO_ENFORCE_CODES"></a>
 </p>
 
-<span style="font-size:1em">
-    <span style="color:white">LAHD <span style="color:yellow">REFUSES TO ENFORCE</span> CODES</span>
-</span><br /><br />
+### LAHD REFUSES TO ENFORCE CODES
 
-<div style="text-align:center;font-size:1em">
-    <span><span style="color:yellow">Citing</span> Disputes Are A <span style="color:yellow">Civil Matter</span>, <br/> <span style="color:yellow">Flooding</span> Our Courts Instead of <span style="color:yellow">Enforcing Codes</span>:</span>
-</div><br />
+<br />
+
+Citing Disputes Are A Civil Matter, Flooding Our Courts Instead of Enforcing Codes:
+
+<br />
 
 <div align="center">
   <a href="assets/imgs/Code.8.52.110.B.5-hotels.jpg" target="_blank">
@@ -1191,9 +1189,10 @@ LAHD Needs an <u>Overhaul</u> and <u>Massive Reform</u>
 <p>
 <a id="LAHD_BLOCKS_CITY_TEAMS_FROM_INSPECTION"></a>
 </p>
-<span style="font-size:1em">
-    <span style="color:white">LAHD <span style="color:yellow">BLOCKS</span> <br />LA CONTROLLER <span style="color:yellow">AND</span> COUNCIL PRESIDENT'S TEAM <br /><span style="color:yellow">FROM INSPECTION</span></span>
-</span><br /><br />
+
+### LAHD BLOCKS LA CONTROLLER AND COUNCIL PRESIDENT'S TEAM FROM INSPECTION
+
+<br />
 
 <div align="center">
   <a href="assets/tweets/lacontroller-send-his-team-tweet.JPG" target="_blank">
