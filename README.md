@@ -235,12 +235,32 @@ __Slumlords exist__ **because** Los Angeles Housing Department (<span style="col
 
 Here's the notice they served the tenants, stating that they needed entry into our homes to perform a city inspection:
 
-The morning of the inspections, Inspector Luke Deasy was found meeting with our landlords, though he was not scheduled to be there.<br />
+<br />
+<div align="center">
+    <a href="assets/imgs/13100-Vanowen-Gang-Takes-Over.PNG" target="_blank">
+        <img src="assets/imgs/13100-Vanowen-Gang-Takes-Over.PNG"
+                alt="13100 Vanowen Gang Takes Over" 
+                style="width:25%; height:auto;"
+                title="Click to Enlarge">
+    </a>
+</div>
+<br />
+
+Here's one of our slumlords serving it:
+<br />
+<div align="center">
+
+[![Illegal Notice to Enter Under LAHD City Authority](https://img.youtube.com/vi/LP3wdyQXiT8/0.jpg)](https://youtube.com/shorts/LP3wdyQXiT8)  
+*Illegal Notice to Enter Under LAHD City Authority*
+
+</div>
+
+The morning of the inspections, Inspector Luke Deasy was found meeting with our landlords, though he was not scheduled to be there within LAHD at that time.<br />
 
 <div align="center">
 
 [![LAHD is working with Los Angeles Slumlord](https://img.youtube.com/vi/BgkEOU7Ti4c/0.jpg)](https://www.youtube.com/watch?v=BgkEOU7Ti4c)  
-*LAHD is working with Los Angeles Slumlord*
+*LAHD is working with Los Angeles Slumlords*
 
 <br/>
 
@@ -249,7 +269,9 @@ The morning of the inspections, Inspector Luke Deasy was found meeting with our 
 
 </div>
 
-The inspections didn't happen. These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In addition, had they stepped into our homes under the false pretense that it was a city inspection, that would have been criminal level invasion of privacy while pretending to be a city officer.   
+The inspections didn't happen.<br />
+
+These are violations of LA's Tenant Anti-Harassment Ordinance (TAHO). In addition, had they stepped into our homes under the false pretense that it was a city inspection, that would have been criminal level invasion of privacy, while pretending to be a city officer.   
 <br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
