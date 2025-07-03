@@ -1743,7 +1743,7 @@ We can finance these Tenant Programs on the backs of the slumlords that are bust
 
 Ask [LAHD to define "significant progress" with an actual percentage value](#PHASE_2) - remove the wiggle room.<br /> From tweets to emails, from shares to screenshots—every click chips away at the Constructive Eviction Loophole.<br /> <br />
 
-<span style="color:yellow">Change doesn't begin in a courtroom - it begins here, but it can't start, without you.</span><br />
+<span style="color:yellow">Change doesn't begin in a courtroom - it begins here, but it won't help anyone, without you.</span><br />
 </div><br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
