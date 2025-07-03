@@ -2079,56 +2079,59 @@ Please post or share these specific messages related to Defining "Significant Pr
 <a id="SIGNIFICANT_PROGRESS_RELATED_TWITTER_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">TWITTER</span> MESSAGE TO SEND TO <span style="color:yellow">DEFINE SIGNIFICANT PROGRESS</span></span>
+#### TWITTER MESSAGE TO SEND TO DEFINE SIGNIFICANT PROGRESS
 <hr style="border: none; border-top: 2px dashed gray;" /><br />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA or @LAHD___'s pinned Tweets or most recent posts.<br />
+##### :round_pushpin: TWITTER MAIN TWEET
+<hr style="border: none; border-top: 2px dashed gray;" /><br />
+
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
-#### TWITTER MAIN TWEET
-
 ```
-
 Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value. Without it, they get unlimited time to pretend to fix things.
 
 "Significant Progress" must be a percentage
 @lacontroller @PaulKrekorian @sergioperezLA
 🔗Below
 #TenantRights #LosAngeles
-
 ```
 
 <br />
+
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Post a Reply Tweet Tagging Key Groups<br />
 
-Immediately reply to your main tweet and tag the following people.<br />
-
-#### TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+Immediately reply to your main tweet and tag the following people.<br /><br />
 
 ```
-@Mike_Feuer @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LADAOffice @lacontroller @LACountyBOS How many more tenants must suffer while leaders hide behind undefined progress? We need a clear % to define ‘Significant Progress.' #LAHD
-
+@Mike_Feuer @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA
+@LADAOffice @lacontroller @LACountyBOS How many more tenants must suffer while leaders hide behind
+undefined progress? We need a clear % to define 'Significant Progress.' #LAHD
 ```
-
 <br />
+
+##### :round_pushpin: TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs & Press):
+
+<hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br />
 
-#### TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs & Press):
-
 ```
-
-@LATenantsUnion @TenantsTogether @SAJE_ShiftPower @LACANORG @Justice4Renters @CalOrganize @latimes @LiamDillonLAT @LAist @CurationsLA @tvanita How many more tenants must suffer while leaders hide behind undefined progress? We need a clear % to define 'Significant Progress.' #LAHD
-
+@LATenantsUnion @TenantsTogether @SAJE_ShiftPower @LACANORG @Justice4Renters @CalOrganize @latimes
+@LiamDillonLAT @LAist @CurationsLA @tvanita How many more tenants must suffer while leaders hide behind
+undefined progress? We need a clear % to define 'Significant Progress.' #LAHD
 ```
 
 <br />
+
+##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Tenant & Community Orgs & Press):
+<hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 4</b>:  Add a Final Reply Tweet Directing to This Document<br />
 
-#### TWITTER THIRD REPLY TWEET (Tag Tenant & Community Orgs & Press):
-
 ```
-
 15 Tenants have Died. Families pushed into homelessness. 
 
 📂 Want proof? Receipts? Case studies?
@@ -2138,8 +2141,6 @@ Immediately reply to your main tweet and tag the following people.<br />
 👉 github.com/YourRepoLink
 
 #ExposeLAHD #LA #EvictionLoophole #LosAngeles
-
-
 ```
 
 <br/>
@@ -2147,10 +2148,11 @@ Immediately reply to your main tweet and tag the following people.<br />
 <a id="SIGNIFICANT_PROGRESS_RELATED_INSTAGRAM_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">INSTAGRAM</span> MESSAGE TO SEND TO <span style="color:yellow">DEFINE SIGNIFICANT PROGRESS</span></span>
+#### INSTAGRAM MESSAGE TO SEND TO DEFINE SIGNIFICANT PROGRESS
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
-
+##### :round_pushpin: INSTAGRAM MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
@@ -2166,10 +2168,7 @@ This post will be the top-level message people see and share. Feel free to use t
   </a>
 </div><br />
 
-#### INSTAGRAM MAIN POST
-
 ```
-
 🚨 Los Angeles tenants continue to suffer because LAHD still hasn't defined 'Significant Progress' with an actual value. Without a measurable % benchmark, slumlords get unlimited time to 'fake' compliance.
 
 We DEMAND "Significant Progress" be defined.
@@ -2177,17 +2176,16 @@ We DEMAND "Significant Progress" be defined.
 📣 Here's how YOU can help: see 🔗 & tags in comments below 👇
 
 #TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole #Slumlords #DefineProgress #StopSlumlords #HousingJustice #LACorruption
-
 ```
 
 <br />
+
+##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Post First Comment<br />
 
-#### INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
-
-
 ```
-
 🌇 City Leadership:
 @mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
 
@@ -2210,15 +2208,15 @@ We DEMAND "Significant Progress" be defined.
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
-
 ```
 
-<br /><b style="color:yellow">Step 3</b>: Post Second Comment<br />
+<br />
 
 #### INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
+<hr style="border: none; border-top: 2px dashed gray;" />
+<b style="color:yellow">Step 3</b>: Post Second Comment<br />
 
 ```
-
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
 👉 https://github.com/YourRepoLink
 
