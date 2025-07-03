@@ -3247,17 +3247,14 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="DEFAULT_ACTION"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">DEFAULT ACTION</span>: PLEASE <span style="color:yellow">SHARE</span> AND <span style="color:yellow">NUDGE</span> OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>
-
-<br />
-
-<hr style="border: none; border-top: 2px dashed gray;" />
+## DEFAULT ACTION: PLEASE SHARE AND NUDGE OUR CITY TO CLOSE THE CONSTRUCTION EVICITION LOOPHOLE
+<hr style="border: none; border-top: 2px dashed gray;" /><br />
 
 <p>
 <a id="CONSTRUCTION_EVICITION_LOOPHOLE_SOCIAL_MEDIA_POSTS"></a>
 </p>
 
-<span style="color:white">SOCIAL MEDIA <span style="color:yellow">POSTS</span> TO <span style="color:yellow">CLOSE <span style="color:yellow">THE CONSTRUCTION_EVICITION_LOOPHOLE</span></span>
+### SOCIAL MEDIA POSTS TO CLOSE THE CONSTRUCTION EVICITION LOOPHOLE
 
 ---
 
@@ -3266,17 +3263,19 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="TWITTER_MESSAGE_FOR_EVICTION_LOOPHOLE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">TWITTER</span> MESSAGE FOR OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+#### TWITTER MESSAGE FOR OUR CITY TO CLOSE THE CONSTRUCTION EVICITION LOOPHOLE
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @MayorOfLA, @kennethmejiaLA or @LAHD___'s pinned Tweets or most recent posts.<br />
+##### :round_pushpin: TWITTER MAIN TWEET
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @MayorOfLA, @kennethmejiaLA, @LAist or @LAHD___'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
-#### TWITTER MAIN TWEET
-
 ```
-LA's Housing Dept has known about the Constructive Eviction Loophole since 2018. 15 tenants have died, slumlords & corrupt inspectors force families out illegally
+LA's Housing Dept has known about the Constructive Eviction Loophole since 2018. 15 tenants have died,
+slumlords & corrupt inspectors force families out illegally
 
 📢 This thread shows how LAHD's enabling abuse
 
@@ -3286,40 +3285,49 @@ LA's Housing Dept has known about the Constructive Eviction Loophole since 2018.
 ```
 
 <br />
+
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Post First Reply Tweet About City Officials Ignoring Abuse<br />
 
 Immediately reply to your main tweet and tag the following people.<br />
 
-#### TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
-
 ```
-Tenants at Woodman Gardens were ignored by officials even after showing video proof of LAHD inspectors working with slumlords. City records show-it's a pattern
+Tenants at Woodman Gardens were ignored by officials even after showing video proof of
+LAHD inspectors working with slumlords. City records show-it's a pattern
 
-@KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LACountyBOS
+@KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA
+@CityAttorneyLA @LACountyBOS
 #LAHD
 ```
 
 <br />
+
+##### :round_pushpin: ADDITIONAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 3</b>: Add Another Reply About the 15 Who Died<br />
 
-#### ADDITIONAL REPLY TWEET:
-
 ```
-Mike Feuer once sued a landlord over this very loophole—where 15 died at a complex on Vanowen. His office has no record of it now.
+Mike Feuer once sued a landlord over this very loophole—where 15 died at
+a complex on Vanowen. His office has no record of it now.
 
 This erasure = lives lost.
 
 @MayorOfLA @CD2Krekorian @KennethMejiaLA @LACityAttorney @LAHD  
 Do your job. Close this loophole. #JusticeForThe15
 ```
-
 <br />
+
+##### :round_pushpin: ADDITIONAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 4</b>: Post Another Reply Tweet About How A 2018 Audit Exposed This Loophole <br />
 
-#### ADDITIONAL REPLY TWEET:
-
 ```
-The LA Controller's 2018 audit exposed how LAHD gives unlimited case extensions—letting slumlords ignore violations until tenants give up or get sick
+The LA Controller's 2018 audit exposed how LAHD gives unlimited case extensions—letting
+slumlords ignore violations until tenants give up or get sick
 
 Slumlords aren't being stopped. They're being enabled.
 
@@ -3327,9 +3335,11 @@ Slumlords aren't being stopped. They're being enabled.
 ```
 
 <br />
-<b style="color:yellow">Step 5</b>: Post Another Reply Tweet with Links Containg Evidence<br />
 
-#### FINAL REPLY TWEET:
+##### :round_pushpin: FINAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 5</b>: Post Another Reply Tweet with Links Containg Evidence<br />
 
 ```
 @latimes @LiamDillonLAT @LAist @CurationsLA
@@ -3350,10 +3360,11 @@ Slumlords aren't being stopped. They're being enabled.
 <a id="INSTAGRAM_MESSAGE_FOR_EVICTION_LOOPHOLE"></a>
 </p>
 
+#### INSTAGRAM MESSAGE FOR OUR CITY TO CLOSE THE CONSTRUCTION EVICITION LOOPHOLE
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<span style="color:white"><span style="color:yellow">INSTAGRAM</span> MESSAGE FOR OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>
-
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: INSTAGRAM MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
@@ -3370,16 +3381,16 @@ This post will be the top-level message people see and share. Feel free to use t
   </a>
 </div><br />
 
-#### INSTAGRAM MAIN POST
-
 ```
 🚨 URGENT: 15 Tenant Deaths Linked to Constructive Eviction Loophole – We Need Action NOW!
 
-LA's Housing Dept has enabled a deadly policy allowing corrupt landlords and negligent inspectors to displace families—15 have already died.
+LA's Housing Dept has enabled a deadly policy allowing corrupt landlords and
+negligent inspectors to displace families—15 have already died.
 
 Here's what you need to know:
 • Tenants at Woodman Gardens were ignored for years despite video evidence of collusion.  
-• A 2018 LA Controller audit found LAHD gives unlimited case extensions—letting landlords drag violations out until tenants give up or fall ill.  
+• A 2018 LA Controller audit found LAHD gives unlimited case extensions—letting landlords
+drag violations out until tenants give up or fall ill.  
 • This isn't a bug—it's a fatal feature of current policy.
 
 We demand immediate change:
@@ -3400,10 +3411,12 @@ Please ACT NOW. People are dying.
 #TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole
 ```
 
-<br /><b style="color:yellow">Step 2</b>: Post Second Comment for Sources<br />
+<br />
 
-#### INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
+##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
+<hr style="border: none; border-top: 2px dashed gray;" />
 
+<b style="color:yellow">Step 2</b>: Post Second Comment for Sources<br />
 
 ```
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
@@ -3416,13 +3429,16 @@ Includes research, case studies, and media documentation.
 ```
 
 <br />
-<b style="color:yellow">Step 3</b>: Post First Comment to Tag City Officials and More<br />
 
-#### INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 3</b>: Post First Comment to Tag City Officials and More<br />
 
 ```
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13
+@cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
 
 📍 County Supervisors:
 @lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
@@ -3437,7 +3453,8 @@ Includes research, case studies, and media documentation.
 @lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla @lacanorg @saje_shiftpower @calorganize
+@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
+@lacanorg @saje_shiftpower @calorganize
 
 📰 Media & Press:
 @latimes @liamdillonlat @laist @curationsla
@@ -3450,26 +3467,28 @@ Includes research, case studies, and media documentation.
 <a id="FACEBOOK_MESSAGE_FOR_EVICTION_LOOPHOLE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">FACEBOOK</span> MESSAGE FOR OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>
+#### FACEBOOK MESSAGE FOR OUR CITY TO CLOSE THE CONSTRUCTION EVICITION LOOPHOLE
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: FACEBOOK MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
 This post will be the top-level message people see and share.<br />
 
-#### FACEBOOK MAIN POST
-
 ```
 🚨 URGENT: 15 Tenant Deaths Due to LAHD & Constructive Eviction Loophole 🚨
 
-LA's Housing Dept has known about this deadly loophole since 2018. Slumlords & negligent inspectors have used it to force tenants out illegally. 15 lives have already been lost.
+LA's Housing Dept has known about this deadly loophole since 2018. Slumlords & negligent
+inspectors have used it to force tenants out illegally. 15 lives have already been lost.
 
 Key facts:
 
 • At Woodman Gardens, tenants presented photo and video evidence of collusion—yet LAHD did nothing.
 
-• A 2018 audit by the LA Controller revealed LAHD grants unlimited case delays—letting landlords drag violations on until tenants fall ill or leave.
+• A 2018 audit by the LA Controller revealed LAHD grants unlimited case delays—letting
+landlords drag violations on until tenants fall ill or leave.
 
 • This isn't an accident—this is systemic failure.
 
@@ -3484,13 +3503,17 @@ Tagging responsible parties:
 
    We call on our leadership to act:
 
-   ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
+   ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles),
+Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
 
-   ▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger — this is your jurisdiction too.
+   ▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty,
+@supervisorbarger — this is your jurisdiction too.
 
-   ▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin investigations now.
+   ▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin
+investigations now.
 
-    📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, @tvanita local broadcasters—cover the Constructive Eviction Loophole.
+    📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, @tvanita local
+broadcasters—cover the Constructive Eviction Loophole.
 
 Please act now—people are dying.
 
@@ -3508,25 +3531,35 @@ Proof in Link. Watch it. Share it:
 <a id="EMAIL_MESSAGES_FOR_EVICTION_LOOPHOLE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">EMAIL</span> MESSAGE FOR OUR CITY TO CLOSE <span style="color:yellow">THE CONSTRUCTION EVICITION LOOPHOLE</span></span>
+#### EMAIL MESSAGE FOR OUR CITY TO CLOSE THE CONSTRUCTION EVICITION LOOPHOLE
 
-#### EMAIL "TO" SECTION:
-
-```
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
-```
-
-<br />
-
-#### EMAIL "CC" SECTION:
+##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org, east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org, VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org, press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
+mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org,
+hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org,
+tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com,
+alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com,
+ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
 ```
 
 <br />
 
-#### EMAIL SUBJECT:
+##### :round_pushpin: EMAIL "CC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
+east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
+ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
+VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
+press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
+info@cangress.org, info@justcause.org, info@calorganize.org
+```
+
+<br />
+
+##### :round_pushpin: EMAIL SUBJECT:
 
 ```
 URGENT REQUEST: Immediate Request for Review & Removal of Bad Actors in LAHD
@@ -3534,14 +3567,17 @@ URGENT REQUEST: Immediate Request for Review & Removal of Bad Actors in LAHD
 
 <br />
 
-#### EMAIL MESSAGE:
+##### :round_pushpin: EMAIL MESSAGE:
 
 ```
 Dear Recipients,
 
-Fifteen tenants are dead due to a loophole in LA's housing policy that allows slumlords to delay repairs and displace tenants indefinitely. This "Constructive Eviction Loophole" has been known since a 2018 LA Controller audit—but nothing has changed.
+Fifteen tenants are dead due to a loophole in LA's housing policy that allows slumlords to delay
+repairs and displace tenants indefinitely. This "Constructive Eviction Loophole" has been known
+since a 2018 LA Controller audit—but nothing has changed.
 
-LAHD continues to grant unlimited case extensions. "Significant progress" remains undefined. And tenants are paying the price—with their homes and their lives.
+LAHD continues to grant unlimited case extensions. "Significant progress" remains undefined.
+And tenants are paying the price—with their homes and their lives.
 
 We demand immediate action:
     1. End unlimited extensions
@@ -3553,7 +3589,8 @@ This is urgent. You can't delay reform any longer. We've lost lives already.
 
 We need answers. We need oversight. And we need action now.
 
-Thank you for your time, and I urge you to treat this request as both a moral and legal obligation.
+Thank you for your time, and I urge you to treat this request as both a moral and
+legal obligation.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
@@ -3566,8 +3603,6 @@ Sincerely,
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
 
-<br />
-<hr style="border: none; border-top: 2px dashed gray;" />
 
 <br /><br />
 <p>
@@ -3575,26 +3610,22 @@ On behalf of those silenced by the Constructive Eviction Loophole
 </p>
 
 ---
-<span style="color:skyblue;font-size:1em">FINAL THOUGHTS</span>
+# FINAL THOUGHTS
 ---
 
     While this may seem isolated, it's a pattern, being used by cities across the country. 
     That's why Constructive Evictions exist nation wide, some loose legal wording 
     and a compromised agency or inspector is all it takes.
 
-**Explain how if we find this pattern, and attack it by using this level of transparency and reform, we have a chance to strike fatal blow to slumlords everywhere.**
-
 <br /><br />
 <p>
 <a id="WHAT_CAN_WE_DO_FROM_HERE"></a>
 </p>
 
-## <span style="color:white">WHAT <span style="color:yellow">CAN WE DO</span> FROM <span style="color:yellow">HERE</span></span><br />
+## WHAT CAN WE DO FROM HERE
 
     But if we gain access to their Tenant Housing Repair / Complaint Database, we can root 
-    Slumlords out and remove them. 
-
-**EXPLAIN HOW PPL SOULD CONTACT THEIR LOCAL COUNCIL MEMEBERS (LINK LOOK UP CHART & CONTACT DATA) SEND THEM THE OUTLINED DEMAANDS, HAVE COPY AND PASTE CONTENT FOR THEM AND LINKS TO HELP AUTOMATE**
+    slumlords out and remove them. 
 
     Check your city or county's housing inspection policies. Check for the wording outlining 
     how Work Case Extensions are granted to landlords & property management groups.
