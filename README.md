@@ -1888,10 +1888,26 @@ slumlords—enabling violence, burnings, lockouts, and constructive eviction.
 
 <br />
 
-##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + GitHub Link)
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 2</b>: Post First Comment<br />
+
+```
+📂 Read the full breakdown of the Constructive Eviction Loophole here:
+👉 https://github.com/YourRepoLink
+
+Includes research, case studies, and media documentation.
+
+#TenantAbuse #LAhousingCrisis #ExposeLAHD
+```
+
+<br />
+
+##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + Call‑to‑Action)
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 3</b>: Post Second Comment<br />
 
 ```
 🌇 City Leadership:
@@ -1918,21 +1934,6 @@ slumlords—enabling violence, burnings, lockouts, and constructive eviction.
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
-```
-<br />
-
-##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
-<hr style="border: none; border-top: 2px dashed gray;" />
-
-<b style="color:yellow">Step 3</b>: Post Second Comment<br />
-
-```
-📂 Read the full breakdown of the Constructive Eviction Loophole here:
-👉 https://github.com/YourRepoLink
-
-Includes research, case studies, and media documentation.
-
-#TenantAbuse #LAhousingCrisis #ExposeLAHD
 ```
 
 <br/>
@@ -2183,10 +2184,27 @@ We DEMAND "Significant Progress" be defined.
 
 <br />
 
-##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + GitHub Link)
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 2</b>: Post First Comment<br />
+
+```
+📂 Read the full breakdown of the Constructive Eviction Loophole here:
+👉 https://github.com/YourRepoLink
+
+Includes research, case studies, and media documentation.
+
+#TenantAbuse #LAhousingCrisis #ExposeLAHD
+```
+
+
+
+<br />
+
+##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + Call‑to‑Action)
+<hr style="border: none; border-top: 2px dashed gray;" />
+<b style="color:yellow">Step 3</b>: Post Second Comment<br /><br />
 
 ```
 🌇 City Leadership:
@@ -2216,20 +2234,6 @@ We DEMAND "Significant Progress" be defined.
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
 
-<br />
-
-##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
-<hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 3</b>: Post Second Comment<br />
-
-```
-📂 Read the full breakdown of the Constructive Eviction Loophole here:
-👉 https://github.com/YourRepoLink
-
-Includes research, case studies, and media documentation.
-
-#TenantAbuse #LAhousingCrisis #ExposeLAHD
-```
 
 <br/>
 <p>
