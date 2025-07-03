@@ -2823,7 +2823,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="REMOVE_BAD_ACTORS_SOCIAL_MEDIA_POSTS"></a>
 </p>
 
-<span style="color:white">SOCIAL MEDIA <span style="color:yellow">POSTS</span> TO <span style="color:yellow">REMOVE <span style="color:yellow">BAD ACTORS</span></span>
+### SOCIAL MEDIA POSTS TO REMOVE BAD ACTORS
 
 ---
 
@@ -2832,39 +2832,46 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="REMOVE_BAD_ACTORS_RELATED_TWITTER_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">TWITTER</span> MESSAGE TO SEND TO <span style="color:yellow">REMOVE <span style="color:yellow">BAD ACTORS</span></span>
+#### TWITTER MESSAGE TO SEND TO REMOVE BAD ACTORS
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: TWITTER MAIN TWEET
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA or @LAHD___'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
-#### TWITTER MAIN TWEET
-
 ```
-LA Housing Dept's enabling tenant abuse through the Constructive Eviction Loophole. Inspectors like Luke Deasy work with slumlords. @MayorOfLA @LACity @LAHD___ @lacontroller @PaulKrekorian @sergioperezLA you all have blood on your hands #13100Vanowen #15Dead
+LA Housing Dept's enabling tenant abuse through the Constructive Eviction Loophole.
+Inspectors like Luke Deasy work with slumlords. @MayorOfLA @LACity @LAHD___ @lacontroller
+@PaulKrekorian @sergioperezLA you all have blood on your hands #13100Vanowen #15Dead
 🔗Below
 #TenantRights
 ```
 
 <br />
+
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Post First Reply Tweet About Reopening and Auditing Cases Involving Bad Actors<br />
 
 Immediately reply to your main tweet and tag the following people.<br />
 
-#### TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
-
 ```
-We demand the City IMMEDIATELY reopen & audit all cases tied to Deasy, McDevitt, Reisner & other bad actors at #LAHD. These people are not protecting tenants-they're protecting slumlords
+We demand the City IMMEDIATELY reopen & audit all cases tied to Deasy, McDevitt, Reisner & other
+bad actors at #LAHD. These people are not protecting tenants-they're protecting slumlords
 
 @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LACountyBOS
 ```
 
 <br />
-<b style="color:yellow">Step 3</b>: Add Another Reply Asking to Audit LAHD Work Case / Repair Database<br />
 
-#### ADDITIONAL REPLY TWEET:
+##### :round_pushpin: ADDITIONAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 3</b>: Add Another Reply Asking to Audit LAHD Work Case / Repair Database<br />
 
 ```
 We need a full independent analysis of LAHD's work case / repair database. Too many families have suffered under corrupt inspections. 
@@ -2875,9 +2882,11 @@ We need a full independent analysis of LAHD's work case / repair database. Too m
 ```
 
 <br />
-<b style="color:yellow">Step 4</b>: Post Another Reply Tweet Asking About Key Areas of Concern<br />
 
-#### ADDITIONAL REPLY TWEET:
+##### :round_pushpin: ADDITIONAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 4</b>: Post Another Reply Tweet Asking About Key Areas of Concern<br />
 
 ```
 The 6 Audit Areas of Concern, an independent analysis must:
@@ -2893,12 +2902,15 @@ The 6 Audit Areas of Concern, an independent analysis must:
 ```
 
 <br />
+
+##### :round_pushpin: ADDITIONAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 5</b>: Post Another Reply Tweet Asking for Support<br />
 
-#### ADDITIONAL REPLY TWEET:
-
 ```
-🚨Calling in support from 🚨 @LATenantsUnion @LACivilRights @PublicCounsel @ACLU_SoCal @kennethmejiaLA @HCD_California @adrin_nazarian
+🚨Calling in support from 🚨 @LATenantsUnion @LACivilRights @PublicCounsel @ACLU_SoCal
+@kennethmejiaLA @HCD_California @adrin_nazarian
 
 Your silence is complicity
 
@@ -2908,9 +2920,11 @@ Your silence is complicity
 ```
 
 <br />
-<b style="color:yellow">Step 6</b>: Final Tweet with Link to Sources<br />
 
-#### FINAL REPLY TWEET:
+##### :round_pushpin: FINAL REPLY TWEET:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 6</b>: Final Tweet with Link to Sources<br />
 
 ```
 @latimes @LiamDillonLAT @LAist @CurationsLA
@@ -2931,9 +2945,11 @@ Your silence is complicity
 <a id="REMOVE_BAD_ACTORS_RELATED_INSTAGRAM_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">INSTAGRAM</span> MESSAGE TO SEND TO <span style="color:yellow">REMOVE <span style="color:yellow">BAD ACTORS</span></span>
+#### INSTAGRAM MESSAGE TO SEND TO REMOVE BAD ACTORS
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: INSTAGRAM MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
@@ -2952,12 +2968,11 @@ Let's request all bad actors be removed and their cases re-opened:
   </a>
 </div><br />
 
-#### INSTAGRAM MAIN POST
-
 ```
 🛑 URGENT: REMOVE BAD ACTORS FROM LAHD 🛑
 
-Tenants in L.A. are being abused, harassed, and illegally pushed out while LAHD inspectors look the other way-or worse, work with landlords.
+Tenants in L.A. are being abused, harassed, and illegally pushed out while LAHD inspectors
+look the other way-or worse, work with landlords.
 
 It's time for a full review of LAHD's cases and staff.
 
@@ -2977,13 +2992,16 @@ Tag city officials below 👇
 
 📣 Here's how YOU can help: see 🔗 & tags in comments below 👇
 
-#LosAngeles #LAhousing #ConstructiveEvictionLoophole #Slumlords #StopSlumlords #HousingJustice #LACorruption
+#LosAngeles #LAhousing #ConstructiveEvictionLoophole #Slumlords #StopSlumlords
+#HousingJustice #LACorruption
 ```
 
 <br />
-<b style="color:yellow">Step 2</b>: Post First Comment - Showing corruption<br />
 
 #### INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 2</b>: Post First Comment - Showing corruption<br />
 
 ```
 🎥 Want to SEE the corruption?
@@ -3002,7 +3020,8 @@ Proof in Link. Watch it. Share it.
 Includes research, case studies, and media documentation #ExposeLAHD
 
 🌇 City Leadership - We need answers. Now.
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13
+@cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
 
 📍 County Supervisors:
 @lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
@@ -3017,7 +3036,8 @@ Includes research, case studies, and media documentation #ExposeLAHD
 @lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla @lacanorg @saje_shiftpower @calorganize
+@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
+@lacanorg @saje_shiftpower @calorganize
 
 📰 Media & Press:
 @latimes @liamdillonlat @laist @curationsla
@@ -3032,20 +3052,21 @@ Includes research, case studies, and media documentation #ExposeLAHD
 <a id="REMOVE_BAD_ACTORS_RELATED_FACEBOOK_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">FACEBOOK</span> MESSAGE TO SEND TO <span style="color:yellow">REMOVE <span style="color:yellow">BAD ACTORS</span></span>
+#### FACEBOOK MESSAGE TO SEND TO REMOVE BAD ACTORS
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: FACEBOOK MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
 This post will be the top-level message people see and share.<br />
 
-#### FACEBOOK MAIN POST
-
 ```
 🛑 URGENT: REMOVE BAD ACTORS FROM LAHD 🛑
 
-Tenants in L.A. are being pushed out and abused while LAHD inspectors and staff enable slumlords. We demand a full external audit and staff accountability TODAY.
+Tenants in L.A. are being pushed out and abused while LAHD inspectors and staff enable
+slumlords. We demand a full external audit and staff accountability TODAY.
 
 👉 Our 6-Step ACTION Plan:
 1️⃣ Search LAHD's work and repair databases for red-flagged properties  
@@ -3062,9 +3083,11 @@ Tenants in L.A. are being pushed out and abused while LAHD inspectors and staff 
 — Implement full transparency & independent oversight
 
 📊 THE PROOF:
-• 2020 LAist/PAMA investigation revealed mold, pests, violence, and tenant deaths in PAMA properties  
+• 2020 LAist/PAMA investigation revealed mold, pests, violence, and tenant deaths
+in PAMA properties  
 • 2022 L.A. City Attorney lawsuit cited gang violence at 13100 Vanowen  
-• CA Attorney General Rob Bonta sued operators of 22,000 units statewide in June 2025 for chronic code violations
+• CA Attorney General Rob Bonta sued operators of 22,000 units statewide in June 2025
+for chronic code violations
 
 These issues aren't isolated—they're systemic. We refuse to let another tenant suffer.
 
@@ -3079,17 +3102,21 @@ These issues aren't isolated—they're systemic. We refuse to let another tenant
 💬 COMMENT "YES" to demand LAHD accountability  
 📩 MESSAGE this page with your story or red-flagged address
 
-🧯 ACT NOW — Every day of inaction puts tenants at risk, and lets corrupt systems abuse their power. Together, we can force transparency and justice.
+🧯 ACT NOW — Every day of inaction puts tenants at risk, and lets corrupt systems abuse their power.
+Together, we can force transparency and justice.
 
-#TenantJustice #LAHDReform #HousingRights #EndConstructiveEviction #AuditLAHD #ProtectTenants #AccountabilityNow
+#TenantJustice #LAHDReform #HousingRights #EndConstructiveEviction #AuditLAHD #ProtectTenants
+#AccountabilityNow
 ```
 
 <br />
+
+##### :round_pushpin: FACEBOOK FIRST REPLY POST:
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Post First Reply Linking Proof<br />
 
 Immediately reply to your main main post.<br />
-
-#### FACEBOOK FIRST REPLY POST:
 
 ```
 🔗 Sources & Supporting Docs:
@@ -3111,29 +3138,35 @@ Proof in Link. Watch it. Share it.
 <a id="REMOVE_BAD_ACTORS_RELATED_EMAIL_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">EMAIL</span> MESSAGE TO SEND TO <span style="color:yellow">REMOVE <span style="color:yellow">BAD ACTORS</span></span>
+#### EMAIL MESSAGE TO SEND TO REMOVE BAD ACTORS
 
-#### EMAIL "TO" SECTION:
-
-```
-
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-
-<br />
-
-#### EMAIL "CC" SECTION:
-
-```
-
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org, east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org, VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org, press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
-
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
+mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
+lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org,
+councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com,
+oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com,
+matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com,
+Susanne.Rust@latimes.com,Jack.Leonard@latimes.com, tips@nbcla.com
 ```
 
 <br />
 
-#### EMAIL SUBJECT:
+##### :round_pushpin: EMAIL "CC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org, east-hollywood@latenantsunion.org,
+echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com,
+mid-city@latenantsunion.org, VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
+press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org,
+info@justcause.org, info@calorganize.org
+```
+
+<br />
+
+##### :round_pushpin: EMAIL SUBJECT:
 
 ```
 Phase 4 - URGENT REQUEST: Immediate Request for Review & Removal of Bad Actors in LAHD
@@ -3141,40 +3174,60 @@ Phase 4 - URGENT REQUEST: Immediate Request for Review & Removal of Bad Actors i
 
 <br />
 
-#### EMAIL MESSAGE:
+##### :round_pushpin: EMAIL MESSAGE:
 
 ```
 Dear Recipients,
 
-This is Phase 4 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
+This is Phase 4 in the fight against the Constructive Eviction Loophole and systemic
+tenant abuse in Los Angeles.
 
-I am writing to express urgent concern over ongoing systemic failures within the Los Angeles Housing Department (LAHD), specifically regarding the role of bad actors within the agency who appear to be working in alignment with slumlords—rather than protecting vulnerable tenants.
+I am writing to express urgent concern over ongoing systemic failures within the Los Angeles
+Housing Department (LAHD), specifically regarding the role of bad actors within the agency who
+appear to be working in alignment with slumlords—rather than protecting vulnerable tenants.
 
-Both independent investigations and firsthand documentation—including the 2020 LAist exposé on PAMA Management (projects.laist.com/2020/pama) and the City Attorney's 2022 lawsuit over gang-related violence at 13100 Vanowen—demonstrate a deeply rooted pattern of corruption, negligence, and tenant endangerment.
+Both independent investigations and firsthand documentation—including the 2020 LAist exposé
+on PAMA Management (projects.laist.com/2020/pama) and the City Attorney's 2022 lawsuit over
+gang-related violence at 13100 Vanowen—demonstrate a deeply rooted pattern of corruption,
+negligence, and tenant endangerment.
 
-We demand that the city immediately implement an independent audit and review process to identify, address, and remove compromised individuals within LAHD. The review should prioritize the following steps:
+We demand that the city immediately implement an independent audit and review process to
+identify, address, and remove compromised individuals within LAHD. The review should
+prioritize the following steps:
 
-1. Search city databases for addresses that match known red flags (repeat violations, violent incidents, repeated extensions without resolution).
+1. Search city databases for addresses that match known red flags (repeat violations,
+violent incidents, repeated extensions without resolution).
 
-2. Track and investigate LAHD inspectors repeatedly assigned to red-flagged cases, with special scrutiny toward those whose patterns of inaction or abuse align with landlord interests.
+2. Track and investigate LAHD inspectors repeatedly assigned to red-flagged cases, with
+special scrutiny toward those whose patterns of inaction or abuse align with landlord interests.
 
-3. Track ownership and property management companies tied to these properties to identify systemic abuse across multiple locations.
+3. Track ownership and property management companies tied to these properties to identify
+systemic abuse across multiple locations.
 
-4. Conduct wellness checks at all red-flagged addresses to assess current tenant safety and property conditions.
+4. Conduct wellness checks at all red-flagged addresses to assess current tenant safety
+and property conditions.
 
-5. Collect tenant statements and safety data from impacted sites, ensuring documentation of any patterns of neglect, harassment, or retaliation.
+5. Collect tenant statements and safety data from impacted sites, ensuring documentation
+of any patterns of neglect, harassment, or retaliation.
 
-6. Analyze the data to determine appropriate enforcement, disciplinary action, or prosecution where necessary.
+6. Analyze the data to determine appropriate enforcement, disciplinary action, or
+prosecution where necessary.
 
-The constructive eviction loophole exploited through "unlimited repair case extensions" must be eliminated. The city cannot continue to ignore the abuse and terror that many tenants have suffered—often with video and photo proof—while LAHD staff provide landlords legal cover.
+The constructive eviction loophole exploited through "unlimited repair case extensions"
+must be eliminated. The city cannot continue to ignore the abuse and terror that many
+tenants have suffered—often with video and photo proof—while LAHD staff provide
+landlords legal cover.
 
-These issues go far beyond isolated incidents. They are the product of institutional rot and must be treated with the urgency they deserve.
+These issues go far beyond isolated incidents. They are the product of institutional
+rot and must be treated with the urgency they deserve.
 
-Tenants have died (15+). Others have been locked out, harassed, or forced into homelessness—often with no help from the very agencies meant to protect them.
+Tenants have died (15+). Others have been locked out, harassed, or forced into
+homelessness—often with no help from the very agencies meant to protect them.
 
 We need answers. We need oversight. And we need action now.
 
-Thank you for your time, and I urge you to treat this request as both a moral and legal obligation.
+Thank you for your time, and I urge you to treat this request as both a moral
+and legal obligation.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
