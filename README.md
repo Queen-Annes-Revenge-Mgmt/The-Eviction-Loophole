@@ -1725,21 +1725,25 @@ Each city department, including <u>LAHD</u>, <u>Building & Safety</u>, <u>Sanita
 <div>
 You don't need to be a lawyer or city councilmember to challenge slumlords. <span style="color:yellow">You just need a phone</span>.<br /><br />
 
-Right now, <span style="color:yellow">the <u>first step</u> is demanding that Los Angeles create a [Tenant Abuse Hotline](#REQUEST_A_TENANT_ABUSE_HOTLINE)</span>—a single, centralized line for victims of housing abuse to report harassment, code violations, and retaliation without being redirected to "civil court."<br />
+Right now, <span style="color:yellow">the <u>first step</u> is demanding that Los Angeles create a [Tenant Abuse Hotline](#PHASE_1)</span>—a single, centralized line for victims of housing abuse to report harassment, code violations, and retaliation without being redirected to "civil court".<br />
 
-<b>You can amplify this demand</b> by <span style="color:yellow">posting our <span style="color:white">pre-written</span> Tweet, Instagram, Facebook, and email templates, all crafted to speak directly to city officials, housing advocates, and press</span>.<br />
+<b>You can amplify this demand</b> by <span style="color:yellow">posting our [<span>pre-written Tweet, Instagram, Facebook, and email templates</span>](#TENANT_ABUSE_HOTLINE_SOCIAL_MEDIA_POSTS), all crafted to speak directly to city officials, housing advocates, and press</span>.<br />
 
-Once you've sent or posted these messages, keep going - <span style="color:yellow">post for an independent audit of LAHD's work case and repair database</span>. We need to identify addresses that match pre-set red flags, and expose patterns the city has ignored for too long. When enough of us ask, it can't be ignored.<br />
+Once you've sent or posted these messages, keep going - each targeted post, helps bring us closer to a solution: <span style="color:yellow">Post for an independent audit of LAHD's work case and repair database</span>.<br />
 
+We need to identify addresses that match pre-set red flags, and expose patterns the city has ignored for too long. When enough of us ask, it can't be ignored.<br />
+ 
 <span style="color:yellow">Your device can be a tool for public safety</span>.<br />
 
-With enough voices, we can demand the tracking of all inspectors involved in red flag cases, including corrupt actors like Inspector Luke Deasy, Advisor Ricky Reisner, and SCEP Specialist James McDevitt. We can push for welfare checks on affected buildings, gather statements from tenants, and trigger investigations that remove bad actors permanently.<br />
+With enough voices, we can demand the tracking of all inspectors involved in red flag cases, including corrupt actors like Inspector Luke Deasy, Advisor Ricky Reisner, SCEP Specialist James McDevitt, and the other who opperate the same. We can push for welfare checks on affected buildings, gather statements from tenants, and trigger investigations that remove bad actors permanently.<br />
 
-<span style="color:yellow">Our templates walk you through exactly who to contact, what to say, and how to post it.<br />
+We can finance these Tenant Programs on the backs of the slumlords that are busted and shut down.<br /> 
 
-Ask LAHD to define "significant progress" with an actual percentage value - remove the wiggle room.<br /> From tweets to emails, from shares to screenshots—every click chips away at the Constructive Eviction Loophole.<br /> <br />
+<span style="color:yellow">Our templates walk you through exactly [who to contact, what to say, and how to post it](#DEFAULT_ACTION).<br />
 
-<span style="color:yellow">Change doesn't begin in a courtroom - <span style="color:white">it begins with you,</span> at your keyboard</span>.<br />
+Ask [LAHD to define "significant progress" with an actual percentage value](#PHASE_2) - remove the wiggle room.<br /> From tweets to emails, from shares to screenshots—every click chips away at the Constructive Eviction Loophole.<br /> <br />
+
+<span style="color:yellow">Change doesn't begin in a courtroom - it begins here, but it can't start, without you.</span><br />
 </div><br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
@@ -1748,13 +1752,13 @@ Ask LAHD to define "significant progress" with an actual percentage value - remo
 <a id="PHASE_1"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">PHASE 1</span>: REQUEST A <span style="color:yellow">TENANT ABUSE HOTLINE</span> BE <span style="color:yellow">CREATED</span></span>
+## PHASE 1: REQUEST A TENANT ABUSE HOTLINE BE CREATED
 
 <br />
 <div>
-Please post or share these specific Tenant Abuse Hotline related messages to these related accounts across these various platforms.<br />
+Please post or share these specific Tenant Abuse Hotline related posts to these related accounts across these various platforms.<br />
 
-To advocate effectively for the creation of a Tenant Abuse Hotline in Los Angeles, we should strategically contact a comprehensive set of key officials, departments, media, and advocacy organizations - many of whom are already aware of the abuse. These individuals and groups span city leadership, housing authorities, oversight bodies, tenant unions, and media channels.<br /> 
+To advocate effectively for the creation of a Tenant Abuse Hotline in Los Angeles (or elsewhere), we should strategically contact a comprehensive set of key officials, departments, media, and advocacy organizations - many of whom are already aware of the abuse. These individuals and groups span city leadership, housing authorities, oversight bodies, tenant unions, and media channels.<br />
 
 </div><br />
 
@@ -1764,7 +1768,7 @@ To advocate effectively for the creation of a Tenant Abuse Hotline in Los Angele
 <a id="TENANT_ABUSE_HOTLINE_SOCIAL_MEDIA_POSTS"></a>
 </p>
 
-<span style="color:white">SOCIAL MEDIA <span style="color:yellow">POSTS</span> FOR <span style="color:yellow">TENANT ABUSE HOTLINE</span></span>
+### SOCIAL MEDIA POSTS FOR TENANT ABUSE HOTLINE
 
 ---
 
@@ -1773,17 +1777,17 @@ To advocate effectively for the creation of a Tenant Abuse Hotline in Los Angele
 <a id="HOTLINE_RELATED_TWITTER_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">TWITTER</span> MESSAGE TO SEND FOR <span style="color:yellow">TENANT ABUSE HOTLINE</span></span>
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+#### TWITTER MESSAGE TO SEND FOR TENANT ABUSE HOTLINE
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA or @LAHD___'s pinned Tweets or most recent posts.<br />
+##### :round_pushpin: TWITTER MAIN TWEET
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
-#### TWITTER MAIN TWEET
-
 ```
-
 🚨 Los Angeles tenants are being abused while city agencies look away
 
 We demand a Tenant Abuse Hotline NOW. @LAHD___ must stop enabling slumlords
@@ -1793,46 +1797,43 @@ We demand a Tenant Abuse Hotline NOW. @LAHD___ must stop enabling slumlords
 🔗Below 
 
 #TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole
-
 ```
-
 <br />
+
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Reply to your own tweet to start a "<span style="color:yellow">thread</span>"<br />
 
 Each new tweet you post as a reply adds to the thread.<br />
-
-#### TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+<br />
 
 ```
-
 @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LADAOffice @lacontroller @LACountyBOS
 
 You've all been made aware of The Contructive Eviction Loophole. Where is our Tenant Abuse Hotline?
-
-
 ```
+<br/>
 
-<br />
+##### :round_pushpin: TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs):
+<hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br />
-
-#### TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs):
+<br />
 
 ```
-
 @LATenantsUnion @TenantsTogether @SAJE_ShiftPower
 @LACANORG @Justice4Renters @CalOrganize
 
 Can you support the push to demand a dedicated Tenant Abuse Hotline?
-
 ```
-
 <br />
-<b style="color:yellow">Step 4</b>: Add tweet to tag media & press<br />
 
-#### TWITTER THIRD REPLY TWEET (Tag Media & Press):
+##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Media & Press):
+<hr style="border: none; border-top: 2px dashed gray;" />
+<b style="color:yellow">Step 4</b>: Add tweet to tag media & press<br />
+<br />
 
 ```
-
 @latimes @LiamDillonLAT @LAist @CurationsLA @tvanita
 
 15 Tenants have Died. Families pushed into homelessness. 
@@ -1844,8 +1845,6 @@ Can you support the push to demand a dedicated Tenant Abuse Hotline?
 👉 github.com/YourRepoLink
 
 #ExposeLAHD #LA #EvictionLoophole
-
-
 ```
 
 <br/>
@@ -1853,13 +1852,15 @@ Can you support the push to demand a dedicated Tenant Abuse Hotline?
 <a id="HOTLINE_RELATED_INSTAGRAM_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">INSTAGRAM</span> MESSAGE TO SEND FOR <span style="color:yellow">TENANT ABUSE HOTLINE</span></span>
+#### INSTAGRAM MESSAGE TO SEND FOR TENANT ABUSE HOTLINE
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: INSTAGRAM MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
-This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
+This post will be the top-level message people see and share. Feel free to use this image for your post: <br /><br />
 
 <div align="center">
   <a href="assets/imgs/tenant-abuse-hotline-now.png" target="_blank">
@@ -1872,32 +1873,30 @@ This post will be the top-level message people see and share. Feel free to use t
   </a>
 </div><br />
 
-#### INSTAGRAM MAIN POST
-
 ```
-
 🚨 Los Angeles tenants deserve safety and justice.
 
 We DEMAND a Tenant Abuse Hotline NOW.
 
-For too long, city agencies like @lahd___ and @lacountydcba have failed to protect renters from slumlords—enabling violence, burnings, lockouts, and constructive eviction.
+For too long, city agencies like @lahd___ and @lacountydcba have failed to protect renters from
+slumlords—enabling violence, burnings, lockouts, and constructive eviction.
 
 📣 Here's how YOU can help: see 🔗 & tags in comments below 👇
 
 #TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole
-
 ```
 
 <br />
+
+##### :round_pushpin: INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
+<hr style="border: none; border-top: 2px dashed gray;" />
+
 <b style="color:yellow">Step 2</b>: Post First Comment<br />
 
-#### INSTAGRAM FIRST COMMENT (Tags + Call‑to‑Action)
-
-
 ```
-
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13
+@cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
 
 📍 County Supervisors:
 @lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
@@ -1912,29 +1911,28 @@ For too long, city agencies like @lahd___ and @lacountydcba have failed to prote
 @lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla @lacanorg @saje_shiftpower @calorganize
+@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
+@lacanorg @saje_shiftpower @calorganize
 
 📰 Media & Press:
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
+```
+<br />
+
+##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
+<hr style="border: none; border-top: 2px dashed gray;" />
+
+<b style="color:yellow">Step 3</b>: Post Second Comment<br />
 
 ```
-
-<br /><b style="color:yellow">Step 3</b>: Post Second Comment<br />
-
-#### INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
-
-
-```
-
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
 👉 https://github.com/YourRepoLink
 
 Includes research, case studies, and media documentation.
 
 #TenantAbuse #LAhousingCrisis #ExposeLAHD
-
 ```
 
 <br/>
@@ -1942,29 +1940,32 @@ Includes research, case studies, and media documentation.
 <a id="HOTLINE_RELATED_FACEBOOK_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">FACEBOOK</span> MESSAGE TO SEND FOR <span style="color:yellow">TENANT ABUSE HOTLINE</span></span>
+#### FACEBOOK MESSAGE TO SEND FOR TENANT ABUSE HOTLINE 
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: FACEBOOK MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
 This post will be the top-level message people see and share.<br />
 
-#### FACEBOOK MAIN POST
-
 ```
-
 🚨 Los Angeles tenants are suffering from harassment, violence, lockouts, and the Constructive Eviction loophole.
 We demand a Tenant Abuse Hotline – NOW.
 
-City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth, @LADistAttorney, and @LACityAttorney have ignored this crisis.
+City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth,
+ @LADistAttorney, and @LACityAttorney have ignored this crisis.
 
 We call on our leadership to act:
-▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
-▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger — this is your jurisdiction too.
+▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles),
+Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
+▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty,
+@supervisorbarger — this is your jurisdiction too.
 ▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin investigations now.
 
-📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, local broadcasters—cover the Constructive Eviction Loophole.
+📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, local broadcasters—cover
+the Constructive Eviction Loophole.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 👉 https://github.com/YourRepoLink
@@ -1972,7 +1973,6 @@ We call on our leadership to act:
 🔁 Share this post. 📲 Tag your friends AND your reps.
 
 Enough is enough.
-
 ```
 <br />
 <hr style="border: none; border-top: 2px dashed gray;" />
@@ -1981,29 +1981,36 @@ Enough is enough.
 <a id="HOTLINE_RELATED_EMAIL_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">EMAIL</span> MESSAGE TO SEND FOR <span style="color:yellow">TENANT ABUSE HOTLINE</span></span>
+#### EMAIL MESSAGE TO SEND FOR TENANT ABUSE HOTLINE
 
-#### EMAIL "TO" SECTION:
-
-```
-
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-
-<br />
-
-#### EMAIL "CC" SECTION:
-
-```
-
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org, east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org, VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org, press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
-
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
+mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
+lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org,
+atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
+atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
+jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
+Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
 ```
 
 <br />
 
-#### EMAIL SUBJECT:
+##### :round_pushpin: EMAIL "CC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
+east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
+ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
+VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
+press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
+info@cangress.org, info@justcause.org, info@calorganize.org
+```
+
+<br />
+
+##### :round_pushpin: EMAIL SUBJECT:
 
 ```
 Phase 1 - URGENT REQUEST: Immediate Action Required - Establish the Tenant Abuse Hotline to Fight Slumlords
@@ -2011,22 +2018,26 @@ Phase 1 - URGENT REQUEST: Immediate Action Required - Establish the Tenant Abuse
 
 <br />
 
-#### EMAIL MESSAGE:
+##### :round_pushpin: EMAIL MESSAGE:
 
 ```
 Dear Recipients,
 
-This is Phase 1 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
+This is Phase 1 in the fight against the Constructive Eviction Loophole
+and systemic tenant abuse in Los Angeles.
 
 We are calling for the immediate creation of a Tenant Abuse Hotline.
 
-Tenants need a direct, transparent way to report abuse without being ignored, redirected, or forced into the courts where slumlords already have the upper hand.
+Tenants need a direct, transparent way to report abuse without being ignored,
+redirected, or forced into the courts where slumlords already have the upper hand.
 
-The loophole is growing. Tenant abuse is not slowing down — it's escalating. The longer we delay, the more people are displaced, hurt, and silenced.
+The loophole is growing. Tenant abuse is not slowing down — it's escalating.
+The longer we delay, the more people are displaced, hurt, and silenced.
 
 If we do not act now, this issue will explode beyond control.
 
-The hotline is not the final solution, but it is the first, critical step. We are committed to following this through all remaining phases.
+The hotline is not the final solution, but it is the first, critical step.
+We are committed to following this through all remaining phases.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
@@ -2046,7 +2057,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="PHASE_2"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">PHASE 2</span>: DEMAND <span style="color:yellow">HOUSING DEPARTMENT</span> DEFINE "<span style="color:yellow">SIGNIFICANT PROGRESS</span>" AS CLEAR <span style="color:yellow">PERCENTAGE VALUE</span></span>
+## PHASE 2: DEMAND HOUSING DEPARTMENT DEFINE "SIGNIFICANT PROGRESS" AS CLEAR PERCENTAGE VALUE
 
 <br />
 <div>
@@ -2059,7 +2070,7 @@ Please post or share these specific messages related to Defining "Significant Pr
 <a id="DEFINE_SIGNIFICANT_PROGRESS_SOCIAL_MEDIA_POSTS"></a>
 </p>
 
-<span style="color:white">SOCIAL MEDIA <span style="color:yellow">POSTS</span> TO <span style="color:yellow">DEFINE SIGNIFICANT PROGRESS</span></span>
+### SOCIAL MEDIA POSTS TO DEFINE SIGNIFICANT PROGRESS
 
 ---
 
@@ -3360,9 +3371,12 @@ We demand LAHD take immediate action:
 Tagging responsible parties:
 
    We call on our leadership to act:
-    ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
-    ▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger — this is your jurisdiction too.
-    ▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin investigations now.
+
+   ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
+
+   ▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger — this is your jurisdiction too.
+
+   ▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin investigations now.
 
     📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, @tvanita local broadcasters—cover the Constructive Eviction Loophole.
 
