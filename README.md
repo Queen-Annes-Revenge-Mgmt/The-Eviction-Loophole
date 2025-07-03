@@ -2080,17 +2080,18 @@ Please post or share these specific messages related to Defining "Significant Pr
 </p>
 
 #### TWITTER MESSAGE TO SEND TO DEFINE SIGNIFICANT PROGRESS
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 ##### :round_pushpin: TWITTER MAIN TWEET
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
 ```
-Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value. Without it, they get unlimited time to pretend to fix things.
+Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value.
+Without it, they get unlimited time to pretend to fix things.
 
 "Significant Progress" must be a percentage
 @lacontroller @PaulKrekorian @sergioperezLA
@@ -2110,26 +2111,26 @@ Immediately reply to your main tweet and tag the following people.<br /><br />
 ```
 @Mike_Feuer @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA
 @LADAOffice @lacontroller @LACountyBOS How many more tenants must suffer while leaders hide behind
-undefined progress? We need a clear % to define 'Significant Progress.' #LAHD
+undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 ```
 <br />
 
 ##### :round_pushpin: TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs & Press):
 
 <hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br />
+<b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br /><br />
 
 ```
 @LATenantsUnion @TenantsTogether @SAJE_ShiftPower @LACANORG @Justice4Renters @CalOrganize @latimes
 @LiamDillonLAT @LAist @CurationsLA @tvanita How many more tenants must suffer while leaders hide behind
-undefined progress? We need a clear % to define 'Significant Progress.' #LAHD
+undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 ```
 
 <br />
 
 ##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Tenant & Community Orgs & Press):
 <hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 4</b>:  Add a Final Reply Tweet Directing to This Document<br />
+<b style="color:yellow">Step 4</b>:  Add a Final Reply Tweet Directing to This Document<br /><br />
 
 ```
 15 Tenants have Died. Families pushed into homelessness. 
@@ -2169,13 +2170,15 @@ This post will be the top-level message people see and share. Feel free to use t
 </div><br />
 
 ```
-🚨 Los Angeles tenants continue to suffer because LAHD still hasn't defined 'Significant Progress' with an actual value. Without a measurable % benchmark, slumlords get unlimited time to 'fake' compliance.
+🚨 Los Angeles tenants continue to suffer because LAHD still hasn't defined 'Significant Progress'
+with an actual value. Without a measurable % benchmark, slumlords get unlimited time to 'fake' compliance.
 
 We DEMAND "Significant Progress" be defined.
 
 📣 Here's how YOU can help: see 🔗 & tags in comments below 👇
 
-#TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole #Slumlords #DefineProgress #StopSlumlords #HousingJustice #LACorruption
+#TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole #Slumlords
+#DefineProgress #StopSlumlords #HousingJustice #LACorruption
 ```
 
 <br />
@@ -2187,7 +2190,9 @@ We DEMAND "Significant Progress" be defined.
 
 ```
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7
+@hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds 
+@adrin.nazarian @cd2losangeles
 
 📍 County Supervisors:
 @lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
@@ -2202,7 +2207,8 @@ We DEMAND "Significant Progress" be defined.
 @lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla @lacanorg @saje_shiftpower @calorganize
+@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
+@lacanorg @saje_shiftpower @calorganize
 
 📰 Media & Press:
 @latimes @liamdillonlat @laist @curationsla
@@ -2212,7 +2218,7 @@ We DEMAND "Significant Progress" be defined.
 
 <br />
 
-#### INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
+##### :round_pushpin: INSTAGRAM SECOND COMMENT (Tags + GitHub Link)
 <hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 3</b>: Post Second Comment<br />
 
@@ -2223,7 +2229,6 @@ We DEMAND "Significant Progress" be defined.
 Includes research, case studies, and media documentation.
 
 #TenantAbuse #LAhousingCrisis #ExposeLAHD
-
 ```
 
 <br/>
@@ -2231,19 +2236,20 @@ Includes research, case studies, and media documentation.
 <a id="SIGNIFICANT_PROGRESS_RELATED_FACEBOOK_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">FACEBOOK</span> MESSAGE TO SEND TO <span style="color:yellow">DEFINE SIGNIFICANT PROGRESS</span></span>
+#### FACEBOOK MESSAGE TO SEND TO DEFINE SIGNIFICANT PROGRESS
+<hr style="border: none; border-top: 2px dashed gray;" />
 
-<hr style="border: none; border-top: 2px dashed gray;" /><br />
+##### :round_pushpin: FACEBOOK MAIN POST
+<hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
 
 This post will be the top-level message people see and share.<br />
 
-#### FACEBOOK MAIN POST
-
 ```
-
-The #ConstructiveEvictionLoophole continues unchecked—because LAHD still refuses to define "Significant Progress" with a measurable percentage. Without a clear benchmark, slumlords can delay repairs indefinitely, leaving tenants at risk. Phase 2: We need a real number.
+The #ConstructiveEvictionLoophole continues unchecked—because LAHD still refuses to define "Significant Progress"
+with a measurable percentage. Without a clear benchmark, slumlords can delay repairs indefinitely,
+leaving tenants at risk. Phase 2: We need a real number.
 
 📣 CALL TO ACTION
 🔹 @Los Angeles Housing Department – It's time to publish your definition.
@@ -2257,19 +2263,23 @@ The #ConstructiveEvictionLoophole continues unchecked—because LAHD still refus
 🔹 @DCBA – Department of Consumer & Business Affairs, LA County
 
 📌 THE ISSUE:
-If no benchmark (like fixing 80% of violations within 30 days) exists, there's no real "progress"—just endless delays.
+If no benchmark (like fixing 80% of violations within 30 days) exists, there's no
+real "progress"—just endless delays.
 
 ✅ WHAT WE DEMAND:
-Let's establish a measurable threshold—e.g., 80% of violations fixed within 30 days—as the standard.
+Let's establish a measurable threshold—e.g., 80% of violations fixed within 30
+days—as the standard.
 
 🔁 SHARE & TAG:
-Share this post, tag your friends, and tag the agencies listed above to amplify our demand for accountability.
+Share this post, tag your friends, and tag the agencies listed above to amplify
+our demand for accountability.
 
 📍 Location: Los Angeles, CA
 
-#TenantRights #DefineProgress #HousingJustice #StopSlumlords #SignificantProgress #LACorruption
-
+#TenantRights #DefineProgress #HousingJustice #StopSlumlords
+#SignificantProgress #LACorruption
 ```
+
 <br />
 <hr style="border: none; border-top: 2px dashed gray;" />
 
@@ -2277,29 +2287,36 @@ Share this post, tag your friends, and tag the agencies listed above to amplify 
 <a id="SIGNIFICANT_PROGRESS_RELATED_EMAIL_MESSAGE"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">EMAIL</span> MESSAGE TO SEND TO <span style="color:yellow">DEFINE SIGNIFICANT PROGRESS</span></span>
+#### EMAIL MESSAGE TO SEND TO DEFINE SIGNIFICANT PROGRESS
 
-#### EMAIL "TO" SECTION:
-
-```
-
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-
-<br />
-
-#### EMAIL "CC" SECTION:
-
-```
-
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org, east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org, VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org, press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
-
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
+mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
+lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org,
+atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
+atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
+jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
+Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
 ```
 
 <br />
 
-#### EMAIL SUBJECT:
+##### :round_pushpin: EMAIL "CC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
+east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
+ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
+VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
+press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
+info@cangress.org, info@justcause.org, info@calorganize.org
+```
+
+<br />
+
+##### :round_pushpin: EMAIL SUBJECT:
 
 ```
 Phase 2 - URGENT REQUEST: Immediate Action Required: Define "Significant Progress" Before This Crisis Grows
@@ -2307,7 +2324,7 @@ Phase 2 - URGENT REQUEST: Immediate Action Required: Define "Significant Progres
 
 <br />
 
-#### EMAIL MESSAGE:
+##### :round_pushpin: EMAIL MESSAGE:
 
 ```
 Dear Recipients,
@@ -2316,11 +2333,18 @@ The ambiguity in LAHD's policies is no longer tolerable.
 
 This is Phase 2 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
 
-For years, landlords and property management companies have exploited the undefined term "significant progress" to delay essential repairs, abuse tenants, and perpetuate the Constructive Eviction Loophole. This loophole has displaced families, endangered lives, and directly contributed to Los Angeles' worsening housing and homelessness crisis.
+For years, landlords and property management companies have exploited the undefined term "significant progress"
+to delay essential repairs, abuse tenants, and perpetuate the Constructive Eviction Loophole. This loophole has
+displaced families, endangered lives, and directly contributed to Los Angeles' worsening housing
+and homelessness crisis.
 
-We are demanding that the Los Angeles Housing Department immediately define "significant progress" as a clear, measurable percentage value. Without this, LAHD's policies remain toothless, unenforceable, and easily manipulated by slumlords.
+We are demanding that the Los Angeles Housing Department immediately define "significant progress" as a clear,
+ measurable percentage value. Without this, LAHD's policies remain toothless, unenforceable,
+and easily manipulated by slumlords.
 
-This is no longer a niche issue. It is rapidly becoming a city-wide failure that will explode in scope if leadership continues to hesitate. Act now, or prepare to face a growing movement of tenants, advocates, and community leaders who will hold this department accountable for enabling abuse.
+This is no longer a niche issue. It is rapidly becoming a city-wide failure that will explode in scope if
+leadership continues to hesitate. Act now, or prepare to face a growing movement of tenants, advocates, and
+community leaders who will hold this department accountable for enabling abuse.
 
 Failure to act swiftly will not just be seen as negligence—it will be remembered as complicity.
 
@@ -2342,7 +2366,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 <a id="PHASE_3"></a>
 </p>
 
-<span style="color:white"><span style="color:yellow">PHASE 3</span>: REQUEST AN <span style="color:yellow">INDEPENDENT ANALYSIS</span> OF HOUSING DEPARTMENT'S <span style="color:yellow">WORK CASE <span style="color:white">/</span> REPAIR DATABASE</span></span><br />
+## PHASE 3: REQUEST AN INDEPENDENT ANALYSIS OF HOUSING DEPARTMENT'S WORK CASE REPAIR DATABASE
 
 Below are the steps that are involved in an independent analysis:
 
