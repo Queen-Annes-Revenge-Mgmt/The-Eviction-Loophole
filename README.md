@@ -2160,9 +2160,9 @@ undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
 <div align="center">
-  <a href="assets/imgs/tenant-abuse-hotline-now.png" target="_blank">
+  <a href="assets/imgs/demand_significant_progress_br_define_as_percentage.png" target="_blank">
     <img 
-      src="assets/imgs/tenant-abuse-hotline-now.png" 
+      src="assets/imgs/demand_significant_progress_br_define_as_percentage.png" 
       alt="Tenant abuse hotline now" 
       title="Click to Enlarge"
       style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
