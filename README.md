@@ -1569,7 +1569,7 @@ Repeated false police calls, as documented at Woodman Gardens, represent another
 
 The decay of slum properties has a measurable economic impact. Properties left in squalor depress the value of neighboring buildings and homes. Even if you live in a well-maintained property, if it sits adjacent to one exploited under this loophole, your investment and quality of life are still at risk. Blight spreads. Once one property falls, the neglect attracts crime, garbage, and further decay, harming entire blocks and entire communities.<br /><br />
 
-<strong style="color:yellow">Systemic Bureaucratic Failure Costs Us All</strong><br /><br />
+<strong style="color:yellow">Systemic Bureaucratic Failure Costs Us All - As Our Courts Are Flooded</strong><br /><br />
 The loophole persists because LAHD chooses to game its system. As the 2018 audit showed, the department manipulates statistics and grants landlords endless repair extensions, ignoring meaningful enforcement. Instead of proactively resolving violations, LAHD offloads these issues onto the courts, which drags out cases, consumes judicial resources, and forces tenants—who often lack the means—to engage in lengthy legal battles. Even those with financial stability must contend with a court system overwhelmed by cases that should have been handled at the agency level.<br />
 
 If LAHD properly enforced the codes they are tasked to uphold, the need for costly litigation would drastically decrease. This would benefit everyone, including higher-income residents who may one day find themselves in landlord disputes. Courts would be more accessible for true civil conflicts instead of being jammed with cases of administrative neglect.<br />
