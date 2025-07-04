@@ -233,7 +233,7 @@ __Slumlords exist__ **because** Los Angeles Housing Department (<span style="col
 
 ## <span style="color:skyblue">VIDEO PROOF HOUSING DEPARTMENTS INSPECTOR WORKING WITH SLUMLORDS</span>
 
-Here's the notice they served the tenants, stating that they needed entry into our homes to perform a city inspection:
+Here's the notice they served 40+ tenants, stating that they needed entry into our homes to perform a city inspection:
 
 <br />
 <div align="center">
