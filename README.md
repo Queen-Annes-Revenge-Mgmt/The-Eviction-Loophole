@@ -2,7 +2,7 @@
 
 ## TABLE OF CONTENTS
 
-1. [<span style="color:skyblue">BACKSTORY</span>](#BACKSTORY)
+1. [<span style="color:skyblue">BACKSTORY</span>](#BACKSTORY) 📖
 
 2. [<span style="color:skyblue">THE ISSUES OF CONCERN</span>](#THE_ISSUES_OF_CONCERN)
    
@@ -139,7 +139,7 @@
 <a id="BACKSTORY"></a>
 </p>
 
-# <span style="color:skyblue">BACKSTORY</span> 
+# <span style="color:skyblue">BACKSTORY</span> 📖
 
 <span style="font-size:1.25em">
 40+ low-income tenants — children, the elderly, the disabled, minorities — all suffered horrendous abuse for years at Woodman Gardens.<br /><br />
@@ -323,7 +323,7 @@ He said the same back in September, but we complained enough, that the city coul
 
 No fines, no penalties, just a letter. So the pattern of corruption and abuse continues. All the tenants got burned as a result of speaking up:<br/>
 
-[NO VIOLATIONS TENANTS GOT PUNISHED FOR SPEAKING UP](#NO_VIOLATIONS_TENANTS_GOT_PUNISHED_FOR_SPEAKING_UP)
+🔥 [NO VIOLATIONS TENANTS GOT PUNISHED FOR SPEAKING UP](#NO_VIOLATIONS_TENANTS_GOT_PUNISHED_FOR_SPEAKING_UP) 🔥
 
 </div>
 <br />
