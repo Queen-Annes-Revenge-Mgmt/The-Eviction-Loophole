@@ -170,17 +170,19 @@ The below serves to document "The Contructive Eviction Loophole" — and the abu
 
 Please understand, what you see here may not affect you directly, but it does indirectly. It affects all of us. Regardless of race, class or status. If you feel otherwise, before you go, we encourage you to at least read: [HOW DOES THIS EVICTION LOOPHOLE AFFECT US ALL](#HOW_DOES_THIS_EVICTION_LOOPHOLE_AFFECT_US_ALL)<br />
 
-To those who opt to press further — know this: True Treasures be hidden between our connections, intertwined like pulsating energies. Real "Education", includes knowledge from empathy, comes from learning about each other, not books or street smarts alone. Like they say, "Knowledge is Power."<br />
+To those who opt to press further — know this: True treasures be hidden between our connections, intertwined, like pulsating energies. Real "education" includes knowledge from empathy, it comes from learning about each other's pain--their problems, not books or street smarts alone. Like they say, "Knowledge is Power", why let someone else control the flow of it? Go to the source to find patterns and commonalities.<br />
 
-But Education without action does nothing, lend your Voice to the Voiceless.<br />
+But... Education, without action, does nothing. Please lend your voice to the voiceless, for the 15 that have died.<br />
 
-Speak out to your leaders against this if you're in Los Angeles. If not, seek out similar legal verbiage empowering Slumlords in your housing inpection policies. Most importantly, ensure your housing department is transparent about work case / repair case tracking. Having a unit or complex file an alarming number or support tickets is the easiest way to spot Slumlords. Yet we don't do it.<br/>
+Speak out to our leaders against this if you're in Los Angeles or not, pushing them on these issues will help keep their spirit alive and save lives. Pushing media and city officials will ensure these people died for something larger than corporate greed and political clout. Business as usual can no longer be acceptable.<br />
 
-Only one way up, my friends... It's together.<br/>
+Seek out similar legal verbiage empowering slumlords in your housing inpection policies. Most importantly, ensure your housing department is transparent about work case / repair case tracking. Having a unit or complex file an alarming number or support tickets is the easiest way to spot slumlords. Yet we don't do it. The bare minimum.<br/>
+
+Only one way up, my friends... and it's together.<br/>
 
 We need to start relating to each other in terms of Pain. We all share it, but opt to act divisive and selfish in addressing it. Time to implement #PainBearStare, strategically fixing inefficient areas that hurt us all. LAHD's failures cost all class levels.<br/>
 
-By decree of Captain Milo Cold's banner of Pain and the Crew of Queen Anne's Revenge, 
+By decree of Captain Milo Cold's Banner of Pain and the Crew of Queen Anne's Revenge, addressing each issue, one at a time...
 
 <div align="center">
   <a href="assets/imgs/queen_annes_revenge.png" target="_blank">
@@ -188,7 +190,7 @@ By decree of Captain Milo Cold's banner of Pain and the Crew of Queen Anne's Rev
       src="assets/imgs/queen_annes_revenge.png" 
       alt="Queen Anne's Revenge" 
       title="Click to Enlarge"
-      style="width:17%; min-width:17%; max-width:17%; height:auto; display:block; margin:0 auto;"
+      style="width:30%; min-width:30%; max-width:30%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br/>
