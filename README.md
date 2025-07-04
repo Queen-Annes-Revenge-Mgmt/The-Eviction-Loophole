@@ -209,7 +209,7 @@ Once known as 'the group from Woodman Gardens'<br />
 
     LAHD is enabling the oppression of the poor by collaborating  
     with landlords to enforce a pattern of eviction known  
-    as "Constructive Eviction" through the use of 
+    as "Constructive Eviction", through the use of 
     "Unlimited Implicit Repair Case Extensions".
 
 <hr style="display:none;" />
@@ -220,7 +220,7 @@ Once known as 'the group from Woodman Gardens'<br />
 
 <br />
 Landlords and property management companies are using this ambiguity
-to exploit and displace vulnerable tenants across income levels. 
+to exploit and displace vulnerable tenants across income levels.<br /> 
 
 __Slumlords exist__ **because** Los Angeles Housing Department (<span style="color:yellow">LAHD</span>) enables them, directly assiting Slumlords, as in the case outlined below.
 
