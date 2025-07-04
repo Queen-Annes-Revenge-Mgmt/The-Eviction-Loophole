@@ -156,7 +156,7 @@ But the city had known about this "Constructive Eviction Loophole" since an LAHD
 
 Former City Attorney Mike Feuer specifically sued a Slumlord that was using The Constructive Eviction Loophole Ron Galperin reported on. 15 people died at that Slumlord's location. Mike Feuer fought to have that Slumlord live on-site, to experience what they had done to the Tenants. Outcome unknown...<br />
 
-Years laters, the group at Woodman Gardens contacted the City Attrney's office about Mike Feuer's work. The City Attrney's office had no knowlegde, records, or notes on the 15 dead or Mike Feuer's landmark case. The group at Woodman Gardens explained our situation, the similarities, they had no clue what we were talking about or what to do.<br /> 
+Years later, the group at Woodman Gardens contacted the City Attorney's office about Mike Feuer's work. The City Attorney's office had no knowledge, records, or notes on the 15 dead or Mike Feuer's landmark case. The group at Woodman Gardens explained our situation, the similarities, they had no clue what we were talking about or what to do.<br /> 
 
 The group at Woodman Gardens found that the corruption within LAHD mirrors that of the LAPD.
 Video and photo evidence shows tenants at Woodman Gardens catching LAHD Inspectors 
@@ -321,7 +321,7 @@ He said the same back in September, but we complained enough, that the city coul
 
 [LAHD's Deasy Prop Activity Report for a "Friend" He Covered For](https://housingapp.lacity.org/reportviolation/Pages/PublicPropertyActivityReport?APN=&CaseType=1&CaseNo=824575)<br/>
 
-No fines, no penalities, just a letter. So the pattern of corruption and abuse continues. All the tenants got burned as a result of speaking up:<br/>
+No fines, no penalties, just a letter. So the pattern of corruption and abuse continues. All the tenants got burned as a result of speaking up:<br/>
 
 [NO VIOLATIONS TENANTS GOT PUNISHED FOR SPEAKING UP](#NO_VIOLATIONS_TENANTS_GOT_PUNISHED_FOR_SPEAKING_UP)
 
@@ -425,7 +425,7 @@ But nah, let them sit longer. Let them suffer more.
     padding: 16px;">
 They failed to enforce violations, we got all punished because a few raised their voices...<br />
 
-Slumlord and property managemt group chose to burn their tenants for the entire weekend because they had to install a new waterheater. 
+Slumlord and property management group chose to burn their tenants for the entire weekend because they had to install a new waterheater. 
 
 Blaming us, they added a lockbox. LAPC 503.2, no valid permit means no mods. Deasy admitted to ignoring an email he requested from us, boss had him apologize. Mostly elderly and kids got burned. 
 
@@ -637,9 +637,9 @@ https://controller.lacity.gov/audits/audit-on-systematic-code-enforcement-progra
 </b>
 The images below outline this loophole for a 40 person complex for over a year and a half. Sewage flood occured from the unit above and was left unclean until both tenants could be illegally evicted.<br /><br />
 
-Landlords were able to get the tenant above on a tresspass charge by lying to the police. They boarded his unit. He lost everything. Landlord got everything "to sell". Whereabouts unknown after arrest.<br />
+Landlords were able to get the tenant above on a trespass charge by lying to the police. They boarded his unit. He lost everything. Landlord got everything "to sell". Whereabouts unknown after arrest.<br />
 
-The woman with 3 kids in the unit below fought for a long time, but no city official could force LAHD and the Landlords to fix and clean the unit. They lost a lot, they left financially drained of all resources. Since this, She's lifted her family to saftey.<br />
+The woman with 3 kids in the unit below fought for a long time, but no city official could force LAHD and the Landlords to fix and clean the unit. They lost a lot, they left financially drained of all resources. Since this, She's lifted her family to safety.<br />
 
 LAHD Senior Advisors and Inspectors worked with the Landlord to do all of this, by giving the landlord unlimited workcase extensions.<br />
 
@@ -689,7 +689,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
                 <center>
                     <a href="assets/imgs/mold-from-colapsed-ceiling.jpg" target="_blank">
                         <img src="assets/imgs/mold-from-colapsed-ceiling.jpg" 
-                             alt="Mold from Colapsed Ceiling Picture 1" 
+                             alt="Mold from Collapsed Ceiling Picture 1" 
                              style="width:100%; height:auto;"
                              title="Click to Enlarge">
                     </a>
@@ -701,7 +701,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
                 <center>
                     <a href="assets/imgs/mold-from-colapsed-ceiling-2.jpg" target="_blank">
                         <img src="assets/imgs/mold-from-colapsed-ceiling-2.jpg" 
-                             alt="Mold from Colapsed Ceiling Picture 2" 
+                             alt="Mold from Collapsed Ceiling Picture 2" 
                              style="width:100%; height:auto;"
                              title="Click to Enlarge">
                     </a>
@@ -711,7 +711,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
                 <center>
                     <a href="assets/imgs/mold-from-colapsed-ceiling-3.jpg" target="_blank">
                         <img src="assets/imgs/mold-from-colapsed-ceiling-3.jpg" 
-                             alt="Mold from Colapsed Ceiling Picture 3" 
+                             alt="Mold from Collapsed Ceiling Picture 3" 
                              style="width:100%; height:auto;"
                              title="Click to Enlarge">
                     </a>
@@ -725,7 +725,7 @@ This is how <strong style="color:yellow">The Constructive Eviction Loophole</str
   <a href="assets/tweets/honeywines-mold-flood-damage-tweet.JPG" target="_blank">
     <img 
       src="assets/tweets/honeywines-mold-flood-damage-tweet.JPG" 
-      alt="Mold from Colapsed Ceiling Tweet" 
+      alt="Mold from Collapsed Ceiling Tweet" 
       title="Click to Enlarge"
       style="width:50%; min-width:60%; max-width:50%; height:auto; display:block; margin:0 auto;"
     >
@@ -749,7 +749,7 @@ This happened after City Officials expedited LAHD's SCEP inspection on the Woodm
   <a href="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-4.jpg" target="_blank">
     <img 
       src="assets/imgs/more-powerpoint-lahd-slides-retailation-after-scep-4.jpg" 
-      alt="Landlord Retailiation" 
+      alt="Landlord Retaliation" 
       title="Click to Enlarge"
       style="width:75%; min-width:75%; max-width:75%; height:auto; display:block; margin:0 auto;"
     >
@@ -776,7 +776,7 @@ With ALL City Official eyes on HoneywineArts' landlord, they're still able to br
 
 Unlimited case extensions for the Woodman complex by LAHD, they enabled this cycle of abuse.<br />
 
-Every agency tells Tenants that everthing is a civil matter for the Courts...<br /><br /> 
+Every agency tells Tenants that everything is a civil matter for the Courts...<br /><br /> 
 </span>
 
 <div align="center">
@@ -836,7 +836,7 @@ Refusing to talk to tenants or letting them show proof is a choice. Something th
 
 Why can't we file a complaint to the Departement of Waste about landlords who toggle their account status to harrass tenants to the point city officials have to get involved to clean up.<br />
 
-Here's the parking spot of the woman with 3 kids that they're trying to evict. By canceling varous accounts they forced all of us other tenants to use these bins.<br />
+Here's the parking spot of the woman with 3 kids that they're trying to evict. By canceling various accounts they forced all of us other tenants to use these bins.<br />
 
 The other tenants, had to clear her spot and push this mess up and down our alley in order to get city officials to help us. This happened every 2 months for 18 months. Trash had to be on the city side for the city to act. Where the trash in the picture below was place is considered <u>a legal matter</u>.  
 
@@ -852,7 +852,7 @@ The other tenants, had to clear her spot and push this mess up and down our alle
   </a>
 </div><br />
 
-Why can't the trash agency handle abuse and harrasment at the trash level - or take complaints regarding abuse of their service? It's their service. It's their client. But it's a city contracted agency, that's more concerned about the legal ramifications of over stepping and involving themselves in a potential court matter.<br /> 
+Why can't the trash agency handle abuse and harassment at the trash level - or take complaints regarding abuse of their service? It's their service. It's their client. But it's a city contracted agency, that's more concerned about the legal ramifications of over stepping and involving themselves in a potential court matter.<br /> 
 
 So when it comes to abuse, every agency redirects the tenant explaining that there hands are tied and that it's a civil matter, flooding the courts.
 
@@ -870,7 +870,7 @@ So when it comes to abuse, every agency redirects the tenant explaining that the
 
 Here's a list of the City officials and city departments that were contacted for help while 40+ tenants were being abused and harrased by a slumslord.
 
-All of these people know about the abuse and harasment we we're dealing with and did nothing, or could not doing anything, about it: <br />
+All of these people know about the abuse and harassment we we're dealing with and did nothing, or could not doing anything, about it: <br />
 
 <table style="font-size: .75em";>
   <thead>
@@ -1216,17 +1216,17 @@ Citing Disputes Are A Civil Matter, Flooding Our Courts Instead of Enforcing Cod
 Types of Harassment & Abuse We dealt with:
 
 - Destruction of Property
-- Intentially Burned with High Waterheater Settings 
+- Intentionally Burned with High Waterheater Settings 
 - No Hot Water For Months at a Time
 - Power Shutoffs
 - Sexual Assault
-- Retailiation
+- Retaliation
 - Failed to Keep Premise Clean or Safe
 - Threats
 - Criminal Level of Invasion of Privacy 
-- Tresspassing
-- Vandalisim
-- False Tresspassing Charges Filed Against Us
+- Trespassing
+- Vandalism
+- False Trespassing Charges Filed Against Us
 - False Police Reports Filed Againts Us
 - One Resident Didn't Get A Key to Her Unit for Months While Still Paying
 - They Hired Gangs to Terrorize Us and Force us to Leave
