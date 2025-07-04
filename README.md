@@ -220,7 +220,7 @@ Once known as 'the group from Woodman Gardens'<br />
 
 <br />
 Landlords and property management companies are using this ambiguity
-to exploit and displace vulnerable tenants across income levels.<br /> 
+to exploit and displace vulnerable tenants across income levels.<br /><br />
 
 __Slumlords exist__ **because** Los Angeles Housing Department (<span style="color:yellow">LAHD</span>) enables them, directly assiting Slumlords, as in the case outlined below.
 
