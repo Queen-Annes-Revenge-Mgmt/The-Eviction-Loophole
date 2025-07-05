@@ -1386,7 +1386,9 @@ They did this to a Woman with 3 kids because she wanted them to fix flood damage
 
 Guess when her breaking point was? Her second car being destroyed, her window was smashed but nothing stolen.<br />
 
-Just a simple message: "Run"... As her car ignition was jammed with a tool.<br /> 
+Just a simple message: "Run"...<br />  
+
+As her car ignition was jammed with a tool.<br /> 
 
 Thankfully her car cut the bastard, but she was no longer able to drive her kids to school. She was forced to pull her childern out of school, they were home-schooled from that point forward.<br />
 
