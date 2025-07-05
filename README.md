@@ -1761,7 +1761,7 @@ Ask [LAHD to define "significant progress" with an actual percentage value](#PHA
 
 <br />
 <div>
-Please post or share these specific Tenant Abuse Hotline related posts to these related accounts across these various platforms.<br />
+Please post or share these specific Tenant Abuse Hotline related posts to these related accounts across these various platforms.<br /><br />
 
 To advocate effectively for the creation of a Tenant Abuse Hotline in Los Angeles (or elsewhere), we should strategically contact a comprehensive set of key officials, departments, media, and advocacy organizations - many of whom are already aware of the abuse. These individuals and groups span city leadership, housing authorities, oversight bodies, tenant unions, and media channels.<br />
 
