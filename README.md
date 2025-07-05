@@ -3279,8 +3279,8 @@ On behalf of those silenced by the Constructive Eviction Loophole
 This tweet will be the top-level message people see and share.<br />
 
 ```
-LA's Housing Dept has known about the Constructive Eviction Loophole since 2018. 15 tenants have died,
-slumlords & corrupt inspectors force families out illegally
+LA's Housing Dept has known about the Constructive Eviction Loophole since 2018.
+15 tenants have died, slumlords & corrupt inspectors force families out illegally
 
 📢 This thread shows how LAHD's enabling abuse
 
