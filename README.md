@@ -524,7 +524,8 @@ Why's LAHD & LADBS allowing this tenant abuse continue. Deasy's causing more har
 
 # <span style="color:skyblue">"SIGNIFICANT" VS "SUFFICIENT" - DOES IT MATTER</span>
 
-    During the events at Woodman Gardens LAHD's inspectors and inspection policies used the word "Sufficient." 
+    During the events at Woodman Gardens LAHD's inspectors and inspection policies 
+    used the word "Sufficient." 
     
     Now it says "Significant". Feels like more, but that's subjective -- therein lies the problem.
     
