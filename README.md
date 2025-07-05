@@ -814,7 +814,7 @@ Apartments aren't habitable without locking doors, but LAHD didn't care - she, a
       src="assets/tweets/ConstructiveEviction-Tweet.JPG" 
       alt="Abuse of Constructive Eviction-Tweet" 
       title="Click to Enlarge"
-      style="width:45%; min-width:45%; max-width:45%; height:auto; display:block; margin:0 auto;"
+      style="width:55%; min-width:55%; max-width:55%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
