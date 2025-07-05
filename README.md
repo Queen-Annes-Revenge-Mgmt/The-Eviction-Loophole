@@ -1331,9 +1331,9 @@ https://laist.com/news/housing-homelessness/city-attorney-sues-landlord-investig
 First, a gang war appears out of nowwhere... But seemingly focused around a single target, the tenants car, not the entire alley.<br /><br />
 
 <div align="center">
-  <a href="assets/tweets/13100-Vanowen-tweet.JPG" target="_blank">
+  <a href="assets/imgs/13100-Vanowen-Gang-Takes-Over.PNG" target="_blank">
     <img 
-      src="assets/tweets/13100-Vanowen-tweet.JPG" 
+      src="assets/imgs/13100-Vanowen-Gang-Takes-Over.PNG" 
       alt="13100 Vanowen Tweet" 
       title="Click to Enlarge"
       style="width:60%; min-width:60%; max-width:60%; height:auto; display:block; margin:0 auto;"
