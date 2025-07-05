@@ -875,7 +875,7 @@ Here's a list of the City officials and city departments that were contacted for
 
 All of these people know about the abuse and harassment we we're dealing with and did nothing, or could not doing anything, about it: <br />
 
-<table style="font-size: .75em";>
+<table style="font-size: 1em";>
   <thead>
     <tr>
       <th>Name / Organization</th>
