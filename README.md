@@ -2096,8 +2096,8 @@ Please post or share these specific messages related to Defining "Significant Pr
 This tweet will be the top-level message people see and share.<br />
 
 ```
-Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value.
-Without it, they get unlimited time to pretend to fix things.
+Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable
+value. Without it, they get unlimited time to pretend to fix things.
 
 "Significant Progress" must be a percentage
 @lacontroller @PaulKrekorian @sergioperezLA
@@ -2177,7 +2177,8 @@ This post will be the top-level message people see and share. Feel free to use t
 
 ```
 🚨 Los Angeles tenants continue to suffer because LAHD still hasn't defined 'Significant Progress'
-with an actual value. Without a measurable % benchmark, slumlords get unlimited time to 'fake' compliance.
+with an actual value. Without a measurable % benchmark, slumlords get unlimited
+time to 'fake' compliance.
 
 We DEMAND "Significant Progress" be defined.
 
