@@ -1388,7 +1388,7 @@ Guess when her breaking point was? Her second car being destroyed, her window wa
 
 Just a simple message: "Run"... As her car ignition was jammed with a tool.<br /> 
 
-Thankfully her car cut the bastard, but she was no longer able to driver her kids to school. She was forced to pull her childern out of school, they were home-schooled from that point forward.<br />
+Thankfully her car cut the bastard, but she was no longer able to drive her kids to school. She was forced to pull her childern out of school, they were home-schooled from that point forward.<br />
 
 Everyone stopped fighting management after that, as City Officials all turned a blind eye to what happen to that Woman and her kids... We <u>all</u> got the message.<br />
 
