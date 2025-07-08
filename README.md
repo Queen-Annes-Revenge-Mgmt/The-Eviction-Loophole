@@ -1730,7 +1730,7 @@ Each city department, including <u>LAHD</u>, <u>Building & Safety</u>, <u>Sanita
 <div>
 You don't need to be a lawyer or city councilmember to challenge slumlords. <span style="color:yellow">You just need a phone</span>.<br /><br />
 
-Right now, <span style="color:yellow">the <u>first step</u> is demanding that Los Angeles create a [Tenant Abuse Hotline](#PHASE_1)</span>—a single, centralized line for victims of housing abuse to report harassment, code violations, and retaliation without being redirected to "civil court".<br />
+Right now, <span style="color:yellow">the <u>first step</u> is demanding that Los Angeles create an Independent  [Tenant Abuse Hotline](#PHASE_1)</span>—a single, centralized line outside LAHD for victims of housing abuse to report harassment, code violations, and retaliation without being redirected to civil court.<br />
 
 <b>You can amplify this demand</b> by <span style="color:yellow">posting our [<span>pre-written Tweet, Instagram, Facebook, and email templates</span>](#TENANT_ABUSE_HOTLINE_SOCIAL_MEDIA_POSTS), all crafted to speak directly to city officials, housing advocates, and press</span>.<br />
 
