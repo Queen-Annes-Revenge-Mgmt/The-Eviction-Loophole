@@ -1970,20 +1970,26 @@ This post will be the top-level message people see and share.<br />
 
 We demand an Independent Tenant Abuse Hotline – NOW.
 
-City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth, @LADistAttorney, and @CityAttorneyLA have ignored this crisis.
+City agencies have ignored this crisis.
 
-We call on our leadership to act:
+We call on leadership to act:
+
 ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles),
-Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
-▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty,
-@supervisorbarger — this is your jurisdiction too.
-▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin investigations now.
+Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA @CD2LosAngeles @BobBlumenfieldSFV @CD5LosAngeles @CD6LosAngeles @MonicaRodriguezCD7 @mhdcd8 @CurrenDPriceJr @CD10Updates @councilwomantracipark @CouncilmemberJohnLee 
+— step up.
 
-📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, local broadcasters—cover
-the Constructive Eviction Loophole.
+▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger @LABuildingandSafety @LACityClerk @CIFDLA
+— this is your jurisdiction too.
+
+▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA, @lacivilrights, @CityLAJobs, @lacitysan, @HCIDLA, @DOJ, @FBILosAngeles, @usaocdca, @ReadyLA, @lahsaorg, @Planning4LA
+— begin investigations now.
+
+📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, @culturela, @LAEWDD, @EmpowerLA
+—Want to cover the Los Angeles Constructive Eviction Loophole from 2018? :pray: 15 dead... Or do we need more dead people? 
 
 📂 For full documentation, case studies & sources on the loophole, visit:
-👉 https://github.com/YourRepoLink
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 🔁 Share this post. 📲 Tag your friends AND your reps.
 
@@ -2257,37 +2263,49 @@ Includes research, case studies, and media documentation.
 This post will be the top-level message people see and share.<br />
 
 ```
-The #ConstructiveEvictionLoophole continues unchecked—because LAHD still refuses to define "Significant Progress"
-with a measurable percentage. Without a clear benchmark, slumlords can delay repairs indefinitely,
+The #ConstructiveEvictionLoophole continues unchecked—because LAHD still refuses to define "Significant Progress" with a measurable percentage. Without a clear benchmark, slumlords can delay repairs indefinitely,
 leaving tenants at risk. Phase 2: We need a real number.
 
-📣 CALL TO ACTION
-🔹 @Los Angeles Housing Department – It's time to publish your definition.
-🔹 @L.A. Tenants Union & @SAJE – Strategic Actions for a Just Economy – Stand with us for tenant rights!
-🔹 @Mayor Karen Bass – Los Angeles
-🔹 @Los Angeles Controller Kenneth Mejia
-🔹 @Housing Authority of the City of Los Angeles
-🔹 @LAHD
-🔹 @LADBS
-🔹 @LA Public Health
-🔹 @DCBA – Department of Consumer & Business Affairs, LA County
+📣 CALL TO ACTION - CITY OF LA:
+
+@MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA @CD2LosAngeles @BobBlumenfieldSFV @CD5LosAngeles @CD6LosAngeles @MonicaRodriguezCD7 @mhdcd8 @CurrenDPriceJr @CD10Updates @councilwomantracipark @CouncilmemberJohnLee 
+
+▶️ County Supervisors: 
+
+@LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger @LABuildingandSafety @LACityClerk @CIFDLA
+
+▶️ Accountability Offices: 
+
+@lacontroller Mejia, @CityAttorneyLA, @CuratingLA, @lacivilrights, @CityLAJobs, @lacitysan, @HCIDLA, @DOJ, @FBILosAngeles, @usaocdca, @ReadyLA, @lahsaorg, @Planning4LA
+
+▶️ Press:
+
+@latimes, @LAistofficial, @CuratingLA, @culturela, @LAEWDD, @EmpowerLA
 
 📌 THE ISSUE:
-If no benchmark (like fixing 80% of violations within 30 days) exists, there's no
-real "progress"—just endless delays.
+
+If no benchmark (like fixing 80% of violations within 60 days) exists, there's no real "progress"-just endless delays.
 
 ✅ WHAT WE DEMAND:
-Let's establish a measurable threshold—e.g., 80% of violations fixed within 30
-days—as the standard.
+
+Let's establish a measurable threshold—e.g., A tier-based percentage system over time.
+
+👉 THE SOURCE DOCUMENTATION:
+
+https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#SIGNIFICANT_VS_SUFFICIENT
+
+https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#THE_CONTRUCTIVE_EVICTION_LOOPHOLE
+
+https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#VIDEO_PROOF
 
 🔁 SHARE & TAG:
-Share this post, tag your friends, and tag the agencies listed above to amplify
-our demand for accountability.
 
-📍 Location: Los Angeles, CA
+Share this post, tag your friends, and tag the agencies listed above to amplify our demand for accountability.
+
+📍 Current Location: Los Angeles, CA
 
 #TenantRights #DefineProgress #HousingJustice #StopSlumlords
-#SignificantProgress #LACorruption
+#LosAngeles #LA #LAHousing #LACorruption
 ```
 
 <br />
@@ -2676,36 +2694,49 @@ This post will be the top-level message people see and share.<br />
 ```
 🚨 Requesting Audit of LAHD's Case Repair Database to Remove Slumlords 🚨
 
-We're pushing for an independent audit of LAHD's work case and repair database—because tenants
-are suffering while loopholes let slumlords off the hook and LAHD keeps extending cases indefinitely.
+We're pushing for an independent audit of LAHD's work case and repair database—because tenants are suffering while loopholes let slumlords off the hook and LAHD keeps extending cases indefinitely.
 
 Here's our 6‑step strategy to expose the breakdown and demand reform ⤵️
 
 1️⃣ Search for pre‑set "red-flag" addresses (mold, sewage, gas, heating, unresolved complaints)
+
 2️⃣ Track inspectors tied to these cases—who's letting violations slide?
+
 3️⃣ Identify landlords & management companies behind these properties
+
 4️⃣ Conduct independent welfare checks at flagged locations
+
 5️⃣ Collect anonymous tenant stories: retaliation, threats, neglect
+
 6️⃣ Analyze all data—then act on it to enforce accountability
 
 Tenant safety is at stake. This is about public health, dignity, and enforcing codes—not just paperwork.
 
 📌 Tagging those who should be pushed:
-@lacontroller @CityAttorneyLA @CuratingLA @LosAngelesHousingDepartment @LACountyConsumerBusinessAffairs
-@LAHousAuth  @LADistAttorney @CityAttorneyLA
 
-@MayorOfLA Councilmembers @krekorian @AdrinNazarian Hernandez (@cd1losangeles) Raman (@cd4losangeles)
-Soto-Martinez (@CD13LosAngeles) @TimMcOskerLA — step up.
+▶️ City of LA:
 
-@LindseyPHorvath @SupJaniceHahn @HildaSolis @Holly4LACounty @supervisorbarger —
-this is your jurisdiction too.
+@MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA @CD2LosAngeles @BobBlumenfieldSFV @CD5LosAngeles @CD6LosAngeles @MonicaRodriguezCD7 @mhdcd8 @CurrenDPriceJr @CD10Updates @councilwomantracipark @CouncilmemberJohnLee 
 
-Demand media exposure: @latimes @LAistofficial @CuratingLA @LATenantsUnion @SAJE_LA
+▶️ County Supervisors 
 
-🌆 @LACity (City of Los Angeles official page) 
+@LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger @LABuildingandSafety @LACityClerk @CIFDLA
+
+▶️ Accountability offices: 
+
+@lacontroller Mejia, @CityAttorneyLA, @CuratingLA, @lacivilrights, @CityLAJobs, @lacitysan, @HCIDLA, @DOJ, @FBILosAngeles, @usaocdca, @ReadyLA, @lahsaorg, @Planning4LA
+
+▶️ Press:
+
+@latimes, @LAistofficial, @CuratingLA, @culturela, @LAEWDD, @EmpowerLA
 
 📂 For full documentation, case studies & sources on the loophole, visit:
-👉 https://github.com/YourRepoLink
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#LAHDs_ROLE
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#LAHD_IS_COOKING_STATS
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#VIDEO_PROOF
 
 🔁 Share this post. 📲 Tag your friends AND your reps.
 ```
@@ -3055,37 +3086,47 @@ This post will be the top-level message people see and share.<br />
 ```
 🛑 URGENT: REMOVE BAD ACTORS FROM LAHD 🛑
 
-Tenants in L.A. are being pushed out and abused while LAHD inspectors and staff enable
-slumlords. We demand a full external audit and staff accountability TODAY.
+Tenants in L.A. are being pushed out and abused while LAHD inspectors and staff enable slumlords. We demand a full external audit and staff accountability TODAY.
 
-👉 Our 6-Step ACTION Plan:
+👉 6-Step Action Plan:
+
 1️⃣ Search LAHD's work and repair databases for red-flagged properties  
-2️⃣ Track which inspectors/staff are tied to them  
-3️⃣ Identify landlords/property managers linked to violations  
+2️⃣ Track which inspectors/staff are tied to them
+3️⃣ Identify landlords/property managers linked to violations
 4️⃣ Perform in-person wellness checks at those properties  
 5️⃣ Collect tenant testimonies and safety reports  
 6️⃣ Analyze results and push for corrective actions
 
 📣 Immediate demands:
+
 — Reopen cases linked to corrupt inspectors  
 — Audit LAHD's internal database for misconduct  
 — Remove staff who have colluded with landlords  
 — Implement full transparency & independent oversight
 
-📊 THE PROOF:
-• 2020 LAist/PAMA investigation revealed mold, pests, violence, and tenant deaths
-in PAMA properties  
-• 2022 L.A. City Attorney lawsuit cited gang violence at 13100 Vanowen  
-• CA Attorney General Rob Bonta sued operators of 22,000 units statewide in June 2025
-for chronic code violations
+📊 THE PROOF: (links in attached post)
 
-These issues aren't isolated—they're systemic. We refuse to let another tenant suffer.
+• 2020 LAist/PAMA investigation revealed mold, pests, violence, and tenant deaths in PAMA properties. L.A. City Attorney lawsuit cited gang violence at 13100 Vanowen 
+
+• CA Attorney General Rob Bonta sued operators of 22,000 units statewide in June 2025 for chronic code violations
+
+These issues aren't isolated—they're systemic.
 
 📢 TAGGING OFFICIALS FOR ACTION:
-- L.A. City Attorney — "L.A. City Attorney Hydee Feldstein Soto"  
-- CA Attorney General — "Attorney General Rob Bonta"  
-- L.A. Housing Department — "Los Angeles Housing Department"  
-- Mayor of Los Angeles — "Mayor of LA"
+
+@MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA @CD2LosAngeles @BobBlumenfieldSFV @CD5LosAngeles @CD6LosAngeles @MonicaRodriguezCD7 @mhdcd8 @CurrenDPriceJr @CD10Updates @councilwomantracipark @CouncilmemberJohnLee 
+
+▶️ County Supervisors 
+
+@LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger @LABuildingandSafety @LACityClerk @CIFDLA
+
+▶️ Accountability offices: 
+
+@lacontroller Mejia, @CityAttorneyLA, @CuratingLA, @lacivilrights, @CityLAJobs, @lacitysan, @HCIDLA, @DOJ, @FBILosAngeles, @usaocdca, @ReadyLA, @lahsaorg, @Planning4LA
+
+▶️ Press:
+
+@latimes, @LAistofficial, @CuratingLA, @culturela, @LAEWDD, @EmpowerLA
 
 ✅ HOW YOU CAN HELP RIGHT NOW:
 👍 LIKE & SHARE to build momentum  
@@ -3093,10 +3134,11 @@ These issues aren't isolated—they're systemic. We refuse to let another tenant
 📩 MESSAGE this page with your story or red-flagged address
 
 🧯 ACT NOW — Every day of inaction puts tenants at risk, and lets corrupt systems abuse their power.
+
 Together, we can force transparency and justice.
 
 #TenantJustice #LAHDReform #HousingRights #EndConstructiveEviction #AuditLAHD #ProtectTenants
-#AccountabilityNow
+#AccountabilityNow #LA #LosAngeles #Tenants #Renters
 ```
 
 <br />
@@ -3111,14 +3153,21 @@ Immediately reply to your main main post.<br />
 ```
 🔗 Sources & Supporting Docs:
 
-• LAist PAMA Investigation: projects.laist.com/2020/pama  
-• AG Rob Bonta's lawsuit (June 2025)  
 • City Attorney lawsuit on 13100 Vanowen  
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#MIKE_FEUERS_ROLE_IN_13100_VANOWEN
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#MIKE_FEUERS_WORK_AFTER_HE_LEFT_OFFICE
+
 • Video proof, Evidence and Case Studies: 
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#VIDEO_PROOF
 
-Proof in Link. Watch it. Share it.
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#LAHDs_ROLE
+
+Please Share 
 ```
 
 <br />
@@ -3460,46 +3509,50 @@ This post will be the top-level message people see and share.<br />
 ```
 🚨 URGENT: 15 Tenant Deaths Due to LAHD & Constructive Eviction Loophole 🚨
 
-LA's Housing Dept has known about this deadly loophole since 2018. Slumlords & negligent
-inspectors have used it to force tenants out illegally. 15 lives have already been lost.
+LA's Housing Dept has known about this deadly loophole since 2018. Slumlords & negligent inspectors have used it to force tenants out illegally. 15 lives have already been lost.
 
 Key facts:
 
 • At Woodman Gardens, tenants presented photo and video evidence of collusion—yet LAHD did nothing.
 
-• A 2018 audit by the LA Controller revealed LAHD grants unlimited case delays—letting
-landlords drag violations on until tenants fall ill or leave.
+• A 2018 audit by the LA Controller revealed LAHD grants unlimited case delays—letting landlords drag violations on until tenants fall ill or leave.
 
 • This isn't an accident—this is systemic failure.
 
-We demand LAHD take immediate action:
+We demand leadership take immediate action:
 
     1. End unlimited case extensions.
-    2. Give Tenants a Hotline to Report Harassment and Abuse.
-    3. Enforce strict timelines & transparency.
+    2. Give Tenants an Independent Hotline to Report Harassment and Abuse. LAHD cannot be involved.
+    3. Enforce strict repair timelines & transparency.
     4. Hold LAHD inspectors and landlords accountable.
 
-Tagging responsible parties:
+We call on our leadership to act:
 
-   We call on our leadership to act:
+@MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles), Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA @CD2LosAngeles @BobBlumenfieldSFV @CD5LosAngeles @CD6LosAngeles @MonicaRodriguezCD7 @mhdcd8 @CurrenDPriceJr @CD10Updates @councilwomantracipark @CouncilmemberJohnLee 
 
-   ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles),
-Raman (@cd4losangeles), Soto-Martinez (@CD13LosAngeles), @TimMcOskerLA — step up.
+▶️ County Supervisors 
 
-   ▶️ County Supervisors @LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty,
-@supervisorbarger — this is your jurisdiction too.
+@LindseyPHorvath, @SupJaniceHahn, @HildaSolis, @Holly4LACounty, @supervisorbarger @LABuildingandSafety @LACityClerk @CIFDLA
 
-   ▶️ Accountability offices: @lacontroller Mejia, @CityAttorneyLA, @CuratingLA — begin
-investigations now.
+▶️ Accountability offices: 
 
-    📰 Demand media exposure: @latimes, @LAistofficial, @CuratingLA, @tvanita local
-broadcasters—cover the Constructive Eviction Loophole.
+@lacontroller Mejia, @CityAttorneyLA, @CuratingLA, @lacivilrights, @CityLAJobs, @lacitysan, @HCIDLA, @DOJ, @FBILosAngeles, @usaocdca, @ReadyLA, @lahsaorg, @Planning4LA
 
-Please act now—people are dying.
+▶️ Press:
+
+@latimes, @LAistofficial, @CuratingLA, @culturela, @LAEWDD, @EmpowerLA
+
+Please act now.
 
 Proof in Link. Watch it. Share it:
 
-🔗 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#LAHDs_ROLE
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#VIDEO_PROOF
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#SLUMDLORDS_PAY_GANG_MEMBERS_TO_REMOVE_TENANTS
 
 15 lives lost. May there lives bring Change that helps us all.
 ```
