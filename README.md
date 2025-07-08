@@ -1799,13 +1799,13 @@ This tweet will be the top-level message people see and share.<br />
 ```
 🚨 Los Angeles tenants are being abused while city agencies look away
 
-We demand a Independent Tenant Abuse Hotline NOW. @LAHD___ must stop enabling slumlords
+We demand an Independent Tenant Abuse Hotline @LAHD___ must stop enabling slumlords
 
 @Mike_Feuer @lacontroller @PaulKrekorian @sergioperezLA
 
 🔗Below 
 
-#TenantRights #LosAngeles #LAhousing #ConstructiveEvictionLoophole
+#TenantRights #LosAngeles #ConstructiveEvictionLoophole
 ```
 <br />
 
@@ -1833,7 +1833,7 @@ You've all been made aware of The Contructive Eviction Loophole. Where is our In
 @LATenantsUnion @TenantsTogether @SAJE_ShiftPower
 @LACANORG @Justice4Renters @CalOrganize
 
-Can you support the push to demand a Independent Tenant Abuse Hotline?
+Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD just redirects us to the courts.
 ```
 <br />
 
@@ -1845,15 +1845,15 @@ Can you support the push to demand a Independent Tenant Abuse Hotline?
 ```
 @latimes @LiamDillonLAT @LAist @CurationsLA @tvanita
 
-15 Tenants have Died. Families pushed into homelessness. 
+15 Tenants have Died. Families pushed into homelessness
 
 📂 Want proof? Receipts? Case studies?
 
 💻 Read about the Constructive Eviction Loophole here:
 
-👉 github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-#ExposeLAHD #LA #EvictionLoophole
+#ExposeLAHD #LA #EvictionLoophole #LosAngeles
 ```
 
 <br/>
