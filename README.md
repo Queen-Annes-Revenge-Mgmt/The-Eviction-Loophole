@@ -1746,7 +1746,9 @@ We can finance these Tenant Programs on the backs of the slumlords that are bust
 
 <span style="color:yellow">Our templates walk you through exactly [who to contact, what to say, and how to post it](#DEFAULT_ACTION).<br />
 
-Ask [LAHD to define "significant progress" with an actual percentage value](#PHASE_2) - remove the wiggle room.<br /> From tweets to emails, from shares to screenshots—every click chips away at the Constructive Eviction Loophole.<br /> <br />
+Ask [LAHD to define "Significant Progress" with an actual percentage value](#PHASE_2) - remove the wiggle room.<br /><br /> 
+
+From tweets to emails, from shares to screenshots—every click chips away at the Constructive Eviction Loophole.<br /><br />
 
 <span style="color:yellow">Change doesn't begin in a courtroom - it begins here, but it won't help anyone, without you.</span><br />
 </div><br />
