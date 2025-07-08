@@ -2847,7 +2847,8 @@ On behalf of those silenced by the Constructive Eviction Loophole
 This tweet will be the top-level message people see and share.<br />
 
 ```
-LA Housing Dept's enabling tenant abuse through the Constructive Eviction Loophole.
+LA Housing Dept's enabling tenant abuse through the Constructive Eviction Loophole
+
 Inspectors like Luke Deasy work with slumlords. @MayorOfLA @LACity @LAHD___ @lacontroller
 @PaulKrekorian @sergioperezLA you all have blood on your hands #13100Vanowen #15Dead
 🔗Below
