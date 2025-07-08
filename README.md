@@ -1823,15 +1823,13 @@ Add source tweet and tag media.
 ```
 @latimes @dillonliam @LAist @CurationsLA @tvanita
 
-15 Tenants have Died. Families pushed into homelessness
+15 Tenants have Died. More Families homeless
 
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole here:
+💻 Read about the Constructive Eviction Loophole:
 
 👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-#ExposeLAHD #LA #EvictionLoophole #LosAngeles
+@TheJusticeDept @JusticeOIG @DOJCrimDiv @CivilRights @FBILosAngeles @USAO_LosAngeles @HUDgov #LosAngeles
 ```
 <br/>
 
@@ -1842,8 +1840,7 @@ Add source tweet and tag media.
 <br />
 
 ```
-@LATenantsUnion @TenantsTogether @SAJE_ShiftPower
-@lacanetwork @Justice4Renters @CalOrganize
+@LATenantsUnion @TenantsTogether @SAJE_ShiftPower @lacanetwork @Justice4Renters @CalOrganize
 
 Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD just redirects us to the courts.
 ```
@@ -1939,7 +1936,7 @@ Includes research, case studies, and media documentation.
 @lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountyhr @lapublichealth
+@lacountydcba @lacountyhr @lapublichealth @thejusticedept @fbilosangelesdivision @hudgov @usao_cdca
 
 📢 Tenant Advocacy:
 @latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
@@ -2126,15 +2123,13 @@ Without it, they get unlimited time to pretend to fix things
 Immediately reply to your main tweet and tag the following people.<br /><br />
 
 ```
-15 Tenants have Died. Families pushed into homelessness 
+15 Tenants have Died. More Families homeless
 
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole here:
+💻 Read about the Constructive Eviction Loophole:
 
 👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-#ExposeLAHD #LA #EvictionLoophole #LosAngeles
+@TheJusticeDept @JusticeOIG @DOJCrimDiv @CivilRights @FBILosAngeles @USAO_LosAngeles @HUDgov #LosAngeles
 ```
 <br />
 
@@ -2236,7 +2231,7 @@ Includes research, case studies, and media documentation.
 @lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountyhr @lapublichealth
+@lacountydcba @lacountyhr @lapublichealth @thejusticedept @fbilosangelesdivision @hudgov @usao_cdca
 
 📢 Tenant Advocacy:
 @latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
@@ -2460,15 +2455,13 @@ Add source link material<br />
 ```
 @latimes @dillonliam @LAist @CurationsLA
 
-15 Tenants have Died. Families pushed into homelessness.
+15 Tenants have Died. More Families homeless
 
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole: 👇
+💻 Read about the Constructive Eviction Loophole:
 
 👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-#LosAngeles #EvictionLoophole
+@TheJusticeDept @JusticeOIG @DOJCrimDiv @CivilRights @FBILosAngeles @USAO_LosAngeles @HUDgov #LosAngeles #LA
 ```
 
 
@@ -2665,7 +2658,7 @@ Includes research, case studies, and media documentation.
 @lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountyhr @lapublichealth
+@lacountydcba @lacountyhr @lapublichealth @thejusticedept @fbilosangelesdivision @hudgov @usao_cdca
 
 📢 Tenant Advocacy:
 @latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
@@ -2956,15 +2949,13 @@ Your silence is complicity
 ```
 @latimes @dillonliam @LAist @CurationsLA
 
-15 Tenants have Died. Families pushed into homelessness.
+15 Tenants have Died. More Families homeless
 
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole: 👇
+💻 Read about the Constructive Eviction Loophole:
 
 👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-#LosAngeles #EvictionLoophole
+@TheJusticeDept @JusticeOIG @DOJCrimDiv @CivilRights @FBILosAngeles @USAO_LosAngeles @HUDgov #LosAngeles #LA
 ```
 
 <br/>
@@ -3057,7 +3048,7 @@ Includes research, case studies, and media documentation #ExposeLAHD
 @lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountyhr @lapublichealth
+@lacountydcba @lacountyhr @lapublichealth @thejusticedept @fbilosangelesdivision @hudgov @usao_cdca
 
 📢 Tenant Advocacy:
 @latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
@@ -3376,15 +3367,13 @@ Slumlords aren't being stopped. They're being enabled.
 ```
 @latimes @dillonliam @LAist @CurationsLA
 
-15 Tenants have Died. Families pushed into homelessness.
+15 Tenants have Died. More Families homeless
 
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole: 👇
+💻 Read about the Constructive Eviction Loophole:
 
 👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-#LosAngeles #EvictionLoophole
+@TheJusticeDept @JusticeOIG @DOJCrimDiv @CivilRights @FBILosAngeles @USAO_LosAngeles @HUDgov #LosAngeles #LA
 ```
 
 <br/>
@@ -3480,7 +3469,7 @@ Includes research, case studies, and media documentation.
 @lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountyhr @lapublichealth
+@lacountydcba @lacountyhr @lapublichealth @thejusticedept @fbilosangelesdivision @hudgov @usao_cdca
 
 📢 Tenant Advocacy:
 @latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
