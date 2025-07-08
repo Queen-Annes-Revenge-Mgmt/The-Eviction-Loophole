@@ -2053,10 +2053,6 @@ We are committed to following this through all remaining phases.
 
 👉 https://github.com/YourRepoLink
 
-Sincerely,
-
-<__SIGN_HERE__>
-
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
 
@@ -2364,10 +2360,6 @@ Failure to act swiftly will not just be seen as negligence—it will be remember
 📂 For full documentation, case studies & sources on the loophole, visit:
 
 👉 https://github.com/YourRepoLink
-
-Sincerely,
-
-<__SIGN_HERE__>
 
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
@@ -2808,10 +2800,6 @@ The city must act now or prepare for public outrage and legal consequences.
 
 👉 https://github.com/YourRepoLink
 
-Sincerely,
-
-<__SIGN_HERE__>
-
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
 
@@ -3242,10 +3230,6 @@ and legal obligation.
 
 👉 https://github.com/YourRepoLink
 
-Sincerely,
-
-<__SIGN_HERE__>
-
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
 
@@ -3605,13 +3589,8 @@ legal obligation.
 
 👉 https://github.com/YourRepoLink
 
-Sincerely,
-
-<__SIGN_HERE__>
-
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
-
 
 <br /><br />
 <p>
