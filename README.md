@@ -2004,13 +2004,7 @@ Enough is enough.
 ##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
-mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
-lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org,
-atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
-atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
-jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
-Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -2018,12 +2012,14 @@ Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, t
 ##### :round_pushpin: EMAIL "CC" SECTION:
 
 ```
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
-east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
-ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
-VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
-press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
-info@cangress.org, info@justcause.org, info@calorganize.org
+cityatty.help@lacity.org, controller.mejia@lacity.org, councilmember.hernandez@lacity.org, councilmember.blumenfield@lacity.org, contactCD4@lacity.org, councilmember.yaroslavsky@lacity.org, councilmember.padilla@lacity.org, councilmember.rodriguez@lacity.org, councilmember.harris-dawson@lacity.org, councilmember.price@lacity.org, cd10@lacity.org, cd10@lacity.org, councilmember.park@lacity.org, councilmember.Lee@lacity.org, councilmember.soto-martinez@lacity.org, Councilmember.Jurado@lacity.org, councilmember.mcosker@lacity.org, civilandhumanrights@lacity.org, CityClerk@lacity.org, cifd.info@lacity.org, owners.portal@hacla.org, EmpowerLA@LACity.org, opa@lacity.org, francisco.ortega@lacity.org, opacsc@lacity.org, ethics.commission@lacity.org, tiffany.prescott@hacla.org,LA_OPCA@fbi.gov, tips.fbi.gov, USACAC.CV‑CivilRights@usdoj.gov, ciaran.mcevoy@usdoj.gov
+```
+<br />
+
+##### :round_pushpin: EMAIL "BCC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
 ```
 
 <br />
@@ -2057,7 +2053,7 @@ The hotline is not the final solution, but it is the first, critical step. We ar
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
@@ -2317,13 +2313,7 @@ Share this post, tag your friends, and tag the agencies listed above to amplify 
 ##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
-mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
-lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org,
-atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
-atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
-jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
-Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -2331,12 +2321,15 @@ Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, t
 ##### :round_pushpin: EMAIL "CC" SECTION:
 
 ```
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
-east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
-ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
-VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
-press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
-info@cangress.org, info@justcause.org, info@calorganize.org
+cityatty.help@lacity.org, controller.mejia@lacity.org, councilmember.hernandez@lacity.org, councilmember.blumenfield@lacity.org, contactCD4@lacity.org, councilmember.yaroslavsky@lacity.org, councilmember.padilla@lacity.org, councilmember.rodriguez@lacity.org, councilmember.harris-dawson@lacity.org, councilmember.price@lacity.org, cd10@lacity.org, cd10@lacity.org, councilmember.park@lacity.org, councilmember.Lee@lacity.org, councilmember.soto-martinez@lacity.org, Councilmember.Jurado@lacity.org, councilmember.mcosker@lacity.org, civilandhumanrights@lacity.org, CityClerk@lacity.org, cifd.info@lacity.org, owners.portal@hacla.org, EmpowerLA@LACity.org, opa@lacity.org, francisco.ortega@lacity.org, opacsc@lacity.org, ethics.commission@lacity.org, tiffany.prescott@hacla.org,LA_OPCA@fbi.gov, tips.fbi.gov, USACAC.CV‑CivilRights@usdoj.gov, ciaran.mcevoy@usdoj.gov
+```
+
+<br />
+
+##### :round_pushpin: EMAIL "BCC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
 ```
 
 <br />
@@ -2358,24 +2351,17 @@ The ambiguity in LAHD's policies is no longer tolerable.
 
 This is Phase 2 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
 
-For years, landlords and property management companies have exploited the undefined term "significant progress"
-to delay essential repairs, abuse tenants, and perpetuate the Constructive Eviction Loophole. This loophole has
-displaced families, endangered lives, and directly contributed to Los Angeles' worsening housing
-and homelessness crisis.
+For years, landlords and property management companies have exploited the undefined term "significant progress" to delay essential repairs, abuse tenants, and perpetuate the Constructive Eviction Loophole. This loophole has displaced families, endangered lives, and directly contributed to Los Angeles' worsening housing and homelessness crisis.
 
-We are demanding that the Los Angeles Housing Department immediately define "significant progress" as a clear,
- measurable percentage value. Without this, LAHD's policies remain toothless, unenforceable,
-and easily manipulated by slumlords.
+We are demanding that the Los Angeles Housing Department immediately define "significant progress" as a clear, measurable percentage value. Without this, LAHD's policies remain toothless, unenforceable, and easily manipulated by slumlords.
 
-This is no longer a niche issue. It is rapidly becoming a city-wide failure that will explode in scope if
-leadership continues to hesitate. Act now, or prepare to face a growing movement of tenants, advocates, and
-community leaders who will hold this department accountable for enabling abuse.
+This is no longer a niche issue. It is rapidly becoming a city-wide failure that will explode in scope if leadership continues to hesitate. Act now, or prepare to face a growing movement of tenants, advocates, and community leaders who will hold this department accountable for enabling abuse.
 
 Failure to act swiftly will not just be seen as negligence—it will be remembered as complicity.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
@@ -2748,13 +2734,7 @@ Tenant safety is at stake. This is about public health, dignity, and enforcing c
 ##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
-mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
-lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org,
-atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
-atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
-jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
-Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -2762,12 +2742,15 @@ Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, t
 ##### EMAIL "CC" SECTION:
 
 ```
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
-east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
-ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
-VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
-press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
-info@cangress.org, info@justcause.org, info@calorganize.org
+cityatty.help@lacity.org, controller.mejia@lacity.org, councilmember.hernandez@lacity.org, councilmember.blumenfield@lacity.org, contactCD4@lacity.org, councilmember.yaroslavsky@lacity.org, councilmember.padilla@lacity.org, councilmember.rodriguez@lacity.org, councilmember.harris-dawson@lacity.org, councilmember.price@lacity.org, cd10@lacity.org, cd10@lacity.org, councilmember.park@lacity.org, councilmember.Lee@lacity.org, councilmember.soto-martinez@lacity.org, Councilmember.Jurado@lacity.org, councilmember.mcosker@lacity.org, civilandhumanrights@lacity.org, CityClerk@lacity.org, cifd.info@lacity.org, owners.portal@hacla.org, EmpowerLA@LACity.org, opa@lacity.org, francisco.ortega@lacity.org, opacsc@lacity.org, ethics.commission@lacity.org, tiffany.prescott@hacla.org,LA_OPCA@fbi.gov, tips.fbi.gov, USACAC.CV‑CivilRights@usdoj.gov, ciaran.mcevoy@usdoj.gov
+```
+
+<br />
+
+##### :round_pushpin: EMAIL "BCC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
 ```
 
 <br />
@@ -2787,42 +2770,31 @@ Dear Recipients,
 
 This is Phase 3 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
 
-I am writing to formally request an immediate, independent analysis of the Los Angeles Housing Department's (LAHD)
-case and repair database, with a focus on how its current practices enable what has become known as
-"The Constructive Eviction Loophole."
+I am writing to formally request an immediate, independent analysis of the Los Angeles Housing Department's (LAHD) case and repair database, with a focus on how its current practices enable what has become known as "The Constructive Eviction Loophole."
 
 The urgency of this request cannot be overstated.
 
-As outlined in the 2018 audit conducted by then-Controller Ron Galperin, LAHD's inspection policy-specifically
-the undefined term "significant progress"-has allowed slumlords to indefinitely delay repairs and exploit
-vulnerable tenants. This loophole has resulted in wide-scale displacement, retaliation, and in some cases, death.
+As outlined in the 2018 audit conducted by then-Controller Ron Galperin, LAHD's inspection policy-specifically the undefined term "significant progress"-has allowed slumlords to indefinitely delay repairs and exploit vulnerable tenants. This loophole has resulted in wide-scale displacement, retaliation, and in some cases, death.
 
-The recent exposé by LAist (https://projects.laist.com/2020/pama/; LAist Article – June 2024) further
-demonstrates how systemic this issue is — from North Hollywood to Van Nuys to Woodman Gardens, tenants
-are being silenced, intimidated, and removed while LAHD inspectors look the other way or actively enable the process.
+The recent exposé by LAist (https://projects.laist.com/2020/pama/; LAist Article – June 2024) further demonstrates how systemic this issue is — from North Hollywood to Van Nuys to Woodman Gardens, tenants are being silenced, intimidated, and removed while LAHD inspectors look the other way or actively enable the process.
 
-We have seen tenants—elderly, disabled, and children—pushed into homelessness, and we have seen LAHD
-data manipulated to meet statistical quotas.
+We have seen tenants—elderly, disabled, and children—pushed into homelessness, and we have seen LAHD data manipulated to meet statistical quotas.
 
 What's needed now:
 
-- A full third-party forensic audit of LAHD's case and repair extension data, particularly those
-involving Inspectors such as Luke Deasy and James McDevitt.
+- A full third-party forensic audit of LAHD's case and repair extension data, particularly those involving Inspectors such as Luke Deasy and James McDevitt.
 
-- An investigation into whether LAHD's internal definitions and metrics have been intentionally
-left vague to allow manipulation.
+- An investigation into whether LAHD's internal definitions and metrics have been intentionally left vague to allow manipulation.
 
-- Immediate cross-agency review of all cases where tenant health and safety were ignored or
-downplayed in favor of landlord convenience.
+- Immediate cross-agency review of all cases where tenant health and safety were ignored or downplayed in favor of landlord convenience.
 
-We are requesting an independent, third-party audit of LAHD's case and repair extension data before
-this crisis grows beyond control. Patterns of abuse are hiding in plain sight — inside LAHD's own system.
+We are requesting an independent, third-party audit of LAHD's case and repair extension data before this crisis grows beyond control. Patterns of abuse are hiding in plain sight — inside LAHD's own system.
 
 The city must act now or prepare for public outrage and legal consequences.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
@@ -3175,13 +3147,7 @@ Please Share
 ##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
-mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org,
-lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org,
-councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com,
-oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com,
-matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com,
-Susanne.Rust@latimes.com,Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -3189,11 +3155,15 @@ Susanne.Rust@latimes.com,Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangr
 ##### :round_pushpin: EMAIL "CC" SECTION:
 
 ```
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org, east-hollywood@latenantsunion.org,
-echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com,
-mid-city@latenantsunion.org, VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
-press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org,
-info@justcause.org, info@calorganize.org
+cityatty.help@lacity.org, controller.mejia@lacity.org, councilmember.hernandez@lacity.org, councilmember.blumenfield@lacity.org, contactCD4@lacity.org, councilmember.yaroslavsky@lacity.org, councilmember.padilla@lacity.org, councilmember.rodriguez@lacity.org, councilmember.harris-dawson@lacity.org, councilmember.price@lacity.org, cd10@lacity.org, cd10@lacity.org, councilmember.park@lacity.org, councilmember.Lee@lacity.org, councilmember.soto-martinez@lacity.org, Councilmember.Jurado@lacity.org, councilmember.mcosker@lacity.org, civilandhumanrights@lacity.org, CityClerk@lacity.org, cifd.info@lacity.org, owners.portal@hacla.org, EmpowerLA@LACity.org, opa@lacity.org, francisco.ortega@lacity.org, opacsc@lacity.org, ethics.commission@lacity.org, tiffany.prescott@hacla.org,LA_OPCA@fbi.gov, tips.fbi.gov, USACAC.CV‑CivilRights@usdoj.gov, ciaran.mcevoy@usdoj.gov
+```
+
+<br />
+
+##### :round_pushpin: EMAIL "BCC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
 ```
 
 <br />
@@ -3211,47 +3181,30 @@ Phase 4 - URGENT REQUEST: Immediate Request for Review & Removal of Bad Actors i
 ```
 Dear Recipients,
 
-This is Phase 4 in the fight against the Constructive Eviction Loophole and systemic
-tenant abuse in Los Angeles.
+This is Phase 4 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
 
-I am writing to express urgent concern over ongoing systemic failures within the Los Angeles
-Housing Department (LAHD), specifically regarding the role of bad actors within the agency who
-appear to be working in alignment with slumlords—rather than protecting vulnerable tenants.
+I am writing to express urgent concern over ongoing systemic failures within the Los Angeles Housing Department (LAHD), specifically regarding the role of bad actors within the agency who appear to be working in alignment with slumlords—rather than protecting vulnerable tenants.
 
-Both independent investigations and firsthand documentation—including the 2020 LAist exposé
-on PAMA Management (projects.laist.com/2020/pama) and the City Attorney's 2022 lawsuit over
-gang-related violence at 13100 Vanowen—demonstrate a deeply rooted pattern of corruption,
-negligence, and tenant endangerment.
+Both independent investigations and firsthand documentation—including the 2020 LAist exposé on PAMA Management (projects.laist.com/2020/pama) and the City Attorney's 2022 lawsuit over gang-related violence at 13100 Vanowen—demonstrate a deeply rooted pattern of corruption, negligence, and tenant endangerment.
 
-We demand that the city immediately implement an independent audit and review process to
-identify, address, and remove compromised individuals within LAHD. The review should
-prioritize the following steps:
+We demand that the city immediately implement an independent audit and review process to identify, address, and remove compromised individuals within LAHD. The review should prioritize the following steps:
 
-1. Search city databases for addresses that match known red flags (repeat violations,
-violent incidents, repeated extensions without resolution).
+1. Search city databases for addresses that match known red flags (repeat violations, violent incidents, repeated extensions without resolution).
 
-2. Track and investigate LAHD inspectors repeatedly assigned to red-flagged cases, with
-special scrutiny toward those whose patterns of inaction or abuse align with landlord interests.
+2. Track and investigate LAHD inspectors repeatedly assigned to red-flagged cases, with special scrutiny toward those whose patterns of inaction or abuse align with landlord interests.
 
-3. Track ownership and property management companies tied to these properties to identify
-systemic abuse across multiple locations.
+3. Track ownership and property management companies tied to these properties to identify systemic abuse across multiple locations.
 
-4. Conduct wellness checks at all red-flagged addresses to assess current tenant safety
-and property conditions.
+4. Conduct wellness checks at all red-flagged addresses to assess current tenant safety and property conditions.
 
-5. Collect tenant statements and safety data from impacted sites, ensuring documentation
-of any patterns of neglect, harassment, or retaliation.
+5. Collect tenant statements and safety data from impacted sites, ensuring documentation of any patterns of neglect, harassment, or retaliation.
 
 6. Analyze the data to determine appropriate enforcement, disciplinary action, or
 prosecution where necessary.
 
-The constructive eviction loophole exploited through "unlimited repair case extensions"
-must be eliminated. The city cannot continue to ignore the abuse and terror that many
-tenants have suffered—often with video and photo proof—while LAHD staff provide
-landlords legal cover.
+The constructive eviction loophole exploited through "unlimited repair case extensions" must be eliminated. The city cannot continue to ignore the abuse and terror that many tenants have suffered—often with video and photo proof—while LAHD staff provide landlords legal cover.
 
-These issues go far beyond isolated incidents. They are the product of institutional
-rot and must be treated with the urgency they deserve.
+These issues go far beyond isolated incidents. They are the product of institutional rot and must be treated with the urgency they deserve.
 
 Tenants have died (15+). Others have been locked out, harassed, or forced into
 homelessness—often with no help from the very agencies meant to protect them.
@@ -3263,7 +3216,7 @@ and legal obligation.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
@@ -3560,12 +3513,7 @@ Proof in Link. Watch it. Share it:
 ##### :round_pushpin: EMAIL "TO" SECTION:
 
 ```
-service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov,
-mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org,
-hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org,
-tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com,
-alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com,
-ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
+service.CD2@lacity.org, mike.n.feuer@lacity.org, city.attorney@lacity.org, controller@controller.lacity.gov, mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@lacity.org, lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -3573,12 +3521,14 @@ ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leona
 ##### :round_pushpin: EMAIL "CC" SECTION:
 
 ```
-blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,
-east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org,
-ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,
-VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,
-press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net,
-info@cangress.org, info@justcause.org, info@calorganize.org
+cityatty.help@lacity.org, controller.mejia@lacity.org, councilmember.hernandez@lacity.org, councilmember.blumenfield@lacity.org, contactCD4@lacity.org, councilmember.yaroslavsky@lacity.org, councilmember.padilla@lacity.org, councilmember.rodriguez@lacity.org, councilmember.harris-dawson@lacity.org, councilmember.price@lacity.org, cd10@lacity.org, cd10@lacity.org, councilmember.park@lacity.org, councilmember.Lee@lacity.org, councilmember.soto-martinez@lacity.org, Councilmember.Jurado@lacity.org, councilmember.mcosker@lacity.org, civilandhumanrights@lacity.org, CityClerk@lacity.org, cifd.info@lacity.org, owners.portal@hacla.org, EmpowerLA@LACity.org, opa@lacity.org, francisco.ortega@lacity.org, opacsc@lacity.org, ethics.commission@lacity.org, tiffany.prescott@hacla.org,LA_OPCA@fbi.gov, tips.fbi.gov, USACAC.CV‑CivilRights@usdoj.gov, ciaran.mcevoy@usdoj.gov
+```
+<br />
+
+##### :round_pushpin: EMAIL "BCC" SECTION:
+
+```
+blc.la.tenantsunions@gmail.com, northeast.tenants@gmail.com, downtown@latenantsunion.org,east-hollywood@latenantsunion.org, echopark@latenantsunion.org, hollywood@latenantsunion.org, ktown@latenantsunion.org, lincolnheightstenantunion@gmail.com, mid-city@latenantsunion.org,VyBerep@latenantsunion.org, westsidelatu@gmail.com, info@uniondevecinos.net, info@latenantsunion.org,press@latenantsunion.org, losangeles@calorganize.org, info@tenants-together.org, info@saje.net, info@cangress.org, info@justcause.org, info@calorganize.org
 ```
 
 <br />
@@ -3596,14 +3546,12 @@ URGENT REQUEST: Immediate Request for Review & Removal of Bad Actors in LAHD
 ```
 Dear Recipients,
 
-Fifteen tenants are dead due to a loophole in LA's housing policy that allows slumlords to delay
-repairs and displace tenants indefinitely. This "Constructive Eviction Loophole" has been known
-since a 2018 LA Controller audit—but nothing has changed.
+Fifteen tenants are dead due to a loophole in LA's housing policy that allows slumlords to delay repairs and displace tenants indefinitely. This "Constructive Eviction Loophole" has been known since a 2018 LA Controller audit—but nothing has changed.
 
-LAHD continues to grant unlimited case extensions. "Significant progress" remains undefined.
-And tenants are paying the price—with their homes and their lives.
+LAHD continues to grant unlimited case extensions. "Significant progress" remains undefined. And tenants are paying the price—with their homes and their lives.
 
 We demand immediate action:
+
     1. End unlimited extensions
     2. Define "significant progress" clearly
     3. Give Tenants a Hotline to Report Abuse and Harassment
@@ -3613,12 +3561,18 @@ This is urgent. You can't delay reform any longer. We've lost lives already.
 
 We need answers. We need oversight. And we need action now.
 
-Thank you for your time, and I urge you to treat this request as both a moral and
-legal obligation.
-
 📂 For full documentation, case studies & sources on the loophole, visit:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#LAHDs_ROLE
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#LAHD_IS_COOKING_STATS
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole/?#VIDEO_PROOF
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
+
+Thank you for your time, and I urge you to treat this request as both a moral and
+legal obligation.
 
 On behalf of those silenced by the Constructive Eviction Loophole
 ```
