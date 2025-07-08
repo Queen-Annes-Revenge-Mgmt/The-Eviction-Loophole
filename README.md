@@ -1874,7 +1874,7 @@ You've all been made aware of The Contructive Eviction Loophole. Where is our In
 ##### :round_pushpin: INSTAGRAM MAIN POST
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
+<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to [@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br /><br />
 
@@ -1884,7 +1884,7 @@ This post will be the top-level message people see and share. Feel free to use t
       src="assets/imgs/tenant-abuse-hotline-now.png" 
       alt="Independent Tenant abuse hotline now" 
       title="Click to Enlarge"
-      style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
+      style="width:35%; min-width:35%; max-width:35%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
@@ -1894,8 +1894,7 @@ This post will be the top-level message people see and share. Feel free to use t
 
 We DEMAND an Independent Tenant Abuse Hotline NOW.
 
-For too long, city agencies like @lahd___ and @lacountydcba have failed to protect renters from
-slumlords—enabling violence, burnings, lockouts, and constructive eviction.
+For too long, city agencies like @lahd and @lacountydcba have failed to protect renters from slumlords—enabling violence, burnings, lockouts, and constructive eviction.
 
 📣 Here's how YOU can help: see 🔗 & tags in comments below 👇
 
@@ -1911,7 +1910,8 @@ slumlords—enabling violence, burnings, lockouts, and constructive eviction.
 
 ```
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
-👉 https://github.com/YourRepoLink
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 Includes research, case studies, and media documentation.
 
@@ -1927,27 +1927,25 @@ Includes research, case studies, and media documentation.
 
 ```
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13
-@cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @hugoforcd13 @imeldapad  @adrin.nazarian @cd2losangeles @cd1losangeles @bobblumenfield @cd4losangeles @cd5losangeles @cd6losangeles @mrodcd7 @mhdcd8 @currendpricejr @CW_Heather.Hutt @councilwomantracipark @councilmemberjohnlee @cd13losangeles @cd14losangeles @timmcoskerla
 
 📍 County Supervisors:
-@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
+@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell
 
 📊 Oversight & Accountability:
-@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller
+@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller @lacivilrights @laewdd
 
 🏘️ Housing & Safety:
-@lahd___ @annsewill @hacla1938 @losangelesdbs @ladbs_
+@lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
+@lacountydcba @lacountyhr @lapublichealth
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanetwork @saje_shiftpower @calorganize
+@latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
 
 📰 Media:
-@latimes @dillonliam @laist @curationsla
+@latimes @laistofficial @curationsla @dailynewsla @nbcla @lapublicpress @ktla5news @abc7la @kcalnews @foxla @cbsladavid @cecewoods @katecagle @mike.hixenbaugh @cbslakristine @mattgutmanabc
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
@@ -2168,7 +2166,7 @@ undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 
 ##### :round_pushpin: INSTAGRAM MAIN POST
 <hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
+<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to [@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
@@ -2178,7 +2176,7 @@ This post will be the top-level message people see and share. Feel free to use t
       src="assets/imgs/demand_significant_progress_br_define_as_percentage.png" 
       alt="Tenant abuse hotline now" 
       title="Click to Enlarge"
-      style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
+      style="width:40%; min-width:40%; max-width:40%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
@@ -2204,14 +2202,13 @@ We DEMAND "Significant Progress" be defined.
 
 ```
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
-👉 https://github.com/YourRepoLink
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 Includes research, case studies, and media documentation.
 
 #TenantAbuse #LAhousingCrisis #ExposeLAHD
 ```
-
-
 
 <br />
 
@@ -2221,32 +2218,28 @@ Includes research, case studies, and media documentation.
 
 ```
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7
-@hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds 
-@adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @hugoforcd13 @imeldapad  @adrin.nazarian @cd2losangeles @cd1losangeles @bobblumenfield @cd4losangeles @cd5losangeles @cd6losangeles @mrodcd7 @mhdcd8 @currendpricejr @CW_Heather.Hutt @councilwomantracipark @councilmemberjohnlee @cd13losangeles @cd14losangeles @timmcoskerla
 
 📍 County Supervisors:
-@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
+@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell
 
 📊 Oversight & Accountability:
-@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller
+@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller @lacivilrights @laewdd
 
 🏘️ Housing & Safety:
-@lahd___ @annsewill @hacla1938 @losangelesdbs @ladbs_
+@lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
+@lacountydcba @lacountyhr @lapublichealth
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanetwork @saje_shiftpower @calorganize
+@latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
 
 📰 Media:
-@latimes @dillonliam @laist @curationsla
+@latimes @laistofficial @curationsla @dailynewsla @nbcla @lapublicpress @ktla5news @abc7la @kcalnews @foxla @cbsladavid @cecewoods @katecagle @mike.hixenbaugh @cbslakristine @mattgutmanabc
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
-
 
 <br/>
 <p>
@@ -2575,7 +2568,7 @@ Focus on "unresolved" or "long open" cases
 ##### :round_pushpin: INSTAGRAM MAIN POST
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
+<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to [@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
@@ -2634,35 +2627,33 @@ It's time for #LA to stop protecting slumlords & start protecting people.
 
 ```
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
-👉 https://github.com/YourRepoLink
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 Includes research, case studies, and media documentation.
 
 #ExposeLAHD
 
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman
-@mr0dcd7 @hugoforcd13 @cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr
-@kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @hugoforcd13 @imeldapad  @adrin.nazarian @cd2losangeles @cd1losangeles @bobblumenfield @cd4losangeles @cd5losangeles @cd6losangeles @mrodcd7 @mhdcd8 @currendpricejr @CW_Heather.Hutt @councilwomantracipark @councilmemberjohnlee @cd13losangeles @cd14losangeles @timmcoskerla
 
 📍 County Supervisors:
-@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
+@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell
 
 📊 Oversight & Accountability:
-@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller
+@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller @lacivilrights @laewdd
 
 🏘️ Housing & Safety:
-@lahd___ @annsewill @hacla1938 @losangelesdbs @ladbs_
+@lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
+@lacountydcba @lacountyhr @lapublichealth
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanetwork @saje_shiftpower @calorganize
+@latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
 
 📰 Media:
-@latimes @dillonliam @laist @curationsla
+@latimes @laistofficial @curationsla @dailynewsla @nbcla @lapublicpress @ktla5news @abc7la @kcalnews @foxla @cbsladavid @cecewoods @katecagle @mike.hixenbaugh @cbslakristine @mattgutmanabc
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
@@ -2956,7 +2947,7 @@ Your silence is complicity
 ##### :round_pushpin: INSTAGRAM MAIN POST
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
+<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to [@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
@@ -2968,7 +2959,7 @@ Let's request all bad actors be removed and their cases re-opened:
       src="assets/imgs/remove-bad-actors-from-lahd.png" 
       alt="Remove Bad Actors From LAHD" 
       title="Click to Enlarge"
-      style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
+      style="width:40%; min-width:40%; max-width:40%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
@@ -2976,8 +2967,7 @@ Let's request all bad actors be removed and their cases re-opened:
 ```
 🛑 URGENT: REMOVE BAD ACTORS FROM LAHD 🛑
 
-Tenants in L.A. are being abused, harassed, and illegally pushed out while LAHD inspectors
-look the other way-or worse, work with landlords.
+Tenants in L.A. are being abused, harassed, and illegally pushed out while LAHD inspectors look the other way-or worse, work with landlords.
 
 It's time for a full review of LAHD's cases and staff.
 
@@ -2992,8 +2982,7 @@ Tag city officials below 👇
 #TenantJustice #LAHousingCrisis #EndConstructiveEviction #LAHD #TenantRights
 
 📢 Tagging those who need to see this:
-@lacontroller @lahd @mayorofla
-@latenantsunion @saje_la
+@lacontroller @lahd @mayorofla @rongalperinla @cityattorneyla 
 
 📣 Here's how YOU can help: see 🔗 & tags in comments below 👇
 
@@ -3020,34 +3009,30 @@ Proof in Link. Watch it. Share it.
 
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 Includes research, case studies, and media documentation #ExposeLAHD
 
 🌇 City Leadership - We need answers. Now.
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13
-@cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @hugoforcd13 @imeldapad  @adrin.nazarian @cd2losangeles @cd1losangeles @bobblumenfield @cd4losangeles @cd5losangeles @cd6losangeles @mrodcd7 @mhdcd8 @currendpricejr @CW_Heather.Hutt @councilwomantracipark @councilmemberjohnlee @cd13losangeles @cd14losangeles @timmcoskerla
 
 📍 County Supervisors:
-@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
+@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell
 
 📊 Oversight & Accountability:
-@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller
+@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller @lacivilrights @laewdd
 
 🏘️ Housing & Safety:
-@lahd___ @annsewill @hacla1938 @losangelesdbs @ladbs_
+@lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
+@lacountydcba @lacountyhr @lapublichealth
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanetwork @saje_shiftpower @calorganize
+@latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
 
 📰 Media:
-@latimes @dillonliam @laist @curationsla
-
-🔁 Please ❤️, save, and share this post! 15 Died to bring you this message
+@latimes @laistofficial @curationsla @dailynewsla @nbcla @lapublicpress @ktla5news @abc7la @kcalnews @foxla @cbsladavid @cecewoods @katecagle @mike.hixenbaugh @cbslakristine @mattgutmanabc
 
 #EndTenantAbuse #ConstructiveEviction
 ```
@@ -3364,7 +3349,7 @@ Slumlords aren't being stopped. They're being enabled.
 ##### :round_pushpin: INSTAGRAM MAIN POST
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to any LA City related post<br />
+<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to [@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
@@ -3374,7 +3359,7 @@ This post will be the top-level message people see and share. Feel free to use t
       src="assets/imgs/15-dead-close-the-constructive-eviction-loophole.png" 
       alt="15 Dead Close the Constructive Eviction Loophole" 
       title="Click to Enlarge"
-      style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
+      style="width:40%; min-width:40%; max-width:40%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
@@ -3382,8 +3367,7 @@ This post will be the top-level message people see and share. Feel free to use t
 ```
 🚨 URGENT: 15 Tenant Deaths Linked to Constructive Eviction Loophole – We Need Action NOW!
 
-LA's Housing Dept has enabled a deadly policy allowing corrupt landlords and
-negligent inspectors to displace families—15 have already died.
+LA's Housing Dept has enabled a deadly policy allowing corrupt landlords and negligent inspectors to displace families—15 have already died.
 
 Here's what you need to know:
 • Tenants at Woodman Gardens were ignored for years despite video evidence of collusion.  
@@ -3397,7 +3381,7 @@ We demand immediate change:
 3. Hold LAHD inspectors and landlords accountable.
 
 Tag city leaders to insist on real reform:
-@mayorofla @cityattorneyla
+@mayorofla @kennethmejiala @rongalperinla @cityattorneyla
 
 Please ACT NOW. People are dying.
 
@@ -3419,7 +3403,7 @@ Please ACT NOW. People are dying.
 ```
 📂 Read the full breakdown of the Constructive Eviction Loophole here:
 
-👉 https://github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 Includes research, case studies, and media documentation.
 
@@ -3435,27 +3419,25 @@ Includes research, case studies, and media documentation.
 
 ```
 🌇 City Leadership:
-@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @mr0dcd7 @hugoforcd13
-@cw_heatherhutt @mc0sker4la @isaackimcd6 @imeldapad @odestrileyjr @kdodds @adrin.nazarian @cd2losangeles
+@mayorofla @karenbassla @paulkrekorian @eunissesh @currendpricejr @nithyavraman @hugoforcd13 @imeldapad  @adrin.nazarian @cd2losangeles @cd1losangeles @bobblumenfield @cd4losangeles @cd5losangeles @cd6losangeles @mrodcd7 @mhdcd8 @currendpricejr @CW_Heather.Hutt @councilwomantracipark @councilmemberjohnlee @cd13losangeles @cd14losangeles @timmcoskerla
 
 📍 County Supervisors:
-@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell @kathrynbarger
+@lindseyphorvath @supjanicehahn @hildasolis @hollyjmitchell
 
 📊 Oversight & Accountability:
-@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller
+@kennethmejiala @rongalperinla @cityattorneyla @ladaoffice @lacontroller @lacivilrights @laewdd
 
 🏘️ Housing & Safety:
-@lahd___ @annsewill @hacla1938 @losangelesdbs @ladbs_
+@lahd @hacla1938 @dbsacityofangelsla @ladbs_
 
 ⚖️ Enforcement & Health:
-@lacountydcba @lacountydhr @lacountyhr @lapublichealth @hrc_la
+@lacountydcba @lacountyhr @lapublichealth
 
 📢 Tenant Advocacy:
-@latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanetwork @saje_shiftpower @calorganize
+@latenants @tenantstogether @educatedtenant @justice4renters @lacanetwork @saje_southla @empowerla @CIFDLA 
 
 📰 Media:
-@latimes @dillonliam @laist @curationsla
+@latimes @laistofficial @curationsla @dailynewsla @nbcla @lapublicpress @ktla5news @abc7la @kcalnews @foxla @cbsladavid @cecewoods @katecagle @mike.hixenbaugh @cbslakristine @mattgutmanabc
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
