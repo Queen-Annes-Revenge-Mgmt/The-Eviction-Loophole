@@ -2167,7 +2167,9 @@ undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 
 ##### :round_pushpin: INSTAGRAM MAIN POST
 <hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to [@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to 
+
+[@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
