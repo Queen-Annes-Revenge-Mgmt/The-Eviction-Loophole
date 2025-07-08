@@ -3622,32 +3622,24 @@ On behalf of those silenced by the Constructive Eviction Loophole
 # FINAL THOUGHTS
 ---
 
-    While this may seem isolated, it's a pattern, being used by cities across the country. 
-    That's why Constructive Evictions exist nation wide, some loose legal wording 
-    and a compromised agency or inspector is all it takes.
+While this may seem isolated, it's a pattern, being used by cities across the country.<br /><br />
 
-<br /><br />
+That's why Constructive Evictions exist nation wide, some loose legal wording and a compromised agency or inspector is all it takes.<br /><br />
+
 <p>
 <a id="WHAT_CAN_WE_DO_FROM_HERE"></a>
 </p>
 
 ## WHAT CAN WE DO FROM HERE
 
-    But if we gain access to their Tenant Housing Repair / Complaint Database, we can root 
-    slumlords out and remove them. 
+But if we gain access to their Tenant Housing Repair / Complaint Database, we can root slumlords out and remove them.<br /><br />
 
-    Check your city or county's housing inspection policies. Check for the wording outlining 
-    how Work Case Extensions are granted to landlords & property management groups.
+Check your city or county's housing inspection policies. Check for the wording outlining how Work Case Extensions are granted to landlords & property management groups.<br /><br />
 
-    Check your city or county's transparency on tenant repair work cases or complaints, that 
-    data should be publically available to us. If it isn't push your City Officials and 
-    request full transparency from your local housing deparmartments rental unit work 
-    repair or online complaint system. They store this data, you should have access to it.
-    
-    Please add your findings to the comments or message us, let's establish how far this 
-    pattern reaches or how others may have solved it.
+Check your city or county's transparency on tenant repair work cases or complaints, that data should be publically available to us. If it isn't push your City Officials and 
+request full transparency from your local housing deparmartments rental unit work repair or online complaint system. They store this data, you should have access to it.<br /><br />
 
-<br /><br />
+Please add your findings to the comments or message us, let's establish how far this pattern reaches or how others may have solved it.<br /><br />
 
 <p>
 <a id="OUR_CONTACT_INFO"></a>
