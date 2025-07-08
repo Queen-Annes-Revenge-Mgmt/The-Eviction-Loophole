@@ -1792,7 +1792,7 @@ To advocate effectively for the creation of an Independent Tenant Abuse Hotline 
 ##### :round_pushpin: TWITTER MAIN TWEET
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](#https://x.com/kennethmejiaLA), @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
