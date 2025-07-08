@@ -57,7 +57,7 @@
 
 9. [<span style="color:skyblue">WHY THIS IS NOT A CIVIL MATTER</span>](#WHY_THIS_IS_NOT_A_CIVIL_MATTER)
 
-10. [<span style="color:skyblue">CALL TO ACTION</span>](#CALL_TO_ACTION)
+10. [<span style="color:skyblue">CALL TO ACTION</span>](#CALL_TO_ACTION) 🚨
     
     * [<span style="color:white"><span style="color:yellow">WHAT</span> CAN <span style="color:yellow">YOU</span> DO <span style="color:yellow">TO FIGHT</span> SLUMLORDS <span style="color:yellow">FROM YOUR</span> DEVICE</span></span>](#WHAT_CAN_YOU_DO_TO_FIGHT_SLUMLORDS_FROM_YOUR_DEVICE)
 
@@ -1718,7 +1718,7 @@ Each city department, including <u>LAHD</u>, <u>Building & Safety</u>, <u>Sanita
 
 ---
 
-# <span style="color:skyblue">CALL TO ACTION</span>
+# <span style="color:skyblue">CALL TO ACTION</span> 🚨
 
 <p>
 <a id="WHAT_CAN_YOU_DO_TO_FIGHT_SLUMLORDS_FROM_YOUR_DEVICE"></a>
