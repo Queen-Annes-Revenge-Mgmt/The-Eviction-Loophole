@@ -1750,7 +1750,7 @@ Ask [LAHD to define "Significant Progress" with an actual percentage value](#PHA
 
 From tweets to emails, from shares to screenshots—every post chips away at the Constructive Eviction Loophole.<br /><br />
 
-<span style="color:yellow">Change doesn't begin in a courtroom. It begins here. Right now-at this very moment, with you and the next few decisions you make to share this data with others or not. To call for accountability, or not.<br /><br /> To do the right thing, or not.</span><br />
+<span style="color:yellow">Change doesn't begin in a courtroom. It begins here. Right now-at this very moment, with you and the next few decisions you make to share this data with others or not. To call for accountability, or not.<br /><br /> To call for leaders to do the right thing, or not.</span><br />
 </div><br />
 
 <hr style="border: none; border-top: 2px dashed gray;" />
