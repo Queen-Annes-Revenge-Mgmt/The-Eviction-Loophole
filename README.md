@@ -61,7 +61,7 @@
     
     * [<span style="color:white"><span style="color:yellow">WHAT</span> CAN <span style="color:yellow">YOU</span> DO <span style="color:yellow">TO FIGHT</span> SLUMLORDS <span style="color:yellow">FROM YOUR</span> DEVICE</span></span>](#WHAT_CAN_YOU_DO_TO_FIGHT_SLUMLORDS_FROM_YOUR_DEVICE)
 
-    * [<span style="color:white"><span style="color:yellow">PHASE 1</span>: REQUEST A <span style="color:yellow">TENANT ABUSE HOTLINE</span> BE <span style="color:yellow">CREATED</span></span>](#PHASE_1)
+    * [<span style="color:white"><span style="color:yellow">PHASE 1</span>: REQUEST AN INDEPENDENT <span style="color:yellow">TENANT ABUSE HOTLINE</span> BE <span style="color:yellow">CREATED</span></span>](#PHASE_1)
 
         * [<span style="color:white">SOCIAL MEDIA <span style="color:yellow">POSTS</span> FOR <span style="color:yellow">TENANT ABUSE HOTLINE</span></span>](#TENANT_ABUSE_HOTLINE_SOCIAL_MEDIA_POSTS)
             
@@ -1757,13 +1757,15 @@ Ask [LAHD to define "significant progress" with an actual percentage value](#PHA
 <a id="PHASE_1"></a>
 </p>
 
-## PHASE 1: REQUEST A TENANT ABUSE HOTLINE BE CREATED
+## PHASE 1: REQUEST AN INDEPENDENT TENANT ABUSE HOTLINE BE CREATED
 
 <br />
 <div>
-Please post or share these specific Tenant Abuse Hotline related posts to these related accounts across these various platforms.<br /><br />
+Please post or share these specific Independent Tenant Abuse Hotline related posts to these related accounts across these various platforms.<br /><br />
 
-To advocate effectively for the creation of a Tenant Abuse Hotline in Los Angeles (or elsewhere), we should strategically contact a comprehensive set of key officials, departments, media, and advocacy organizations - many of whom are already aware of the abuse. These individuals and groups span city leadership, housing authorities, oversight bodies, tenant unions, and media channels.<br />
+Currently LAHD handles the abuse hotline. This document serves to show how that's no longer a good idea.<br /><br />
+
+To advocate effectively for the creation of an Independent Tenant Abuse Hotline in Los Angeles (or elsewhere), we should strategically contact a comprehensive set of key officials, departments, media, and advocacy organizations - many of whom are already aware of the abuse. These individuals and groups span city leadership, housing authorities, oversight bodies, tenant unions, and media channels.<br />
 
 </div><br />
 
@@ -2096,8 +2098,8 @@ Please post or share these specific messages related to Defining "Significant Pr
 This tweet will be the top-level message people see and share.<br />
 
 ```
-Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable
-value. Without it, they get unlimited time to pretend to fix things.
+Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value.
+Without it, they get unlimited time to pretend to fix things.
 
 "Significant Progress" must be a percentage
 @lacontroller @PaulKrekorian @sergioperezLA
@@ -2177,8 +2179,7 @@ This post will be the top-level message people see and share. Feel free to use t
 
 ```
 🚨 Los Angeles tenants continue to suffer because LAHD still hasn't defined 'Significant Progress'
-with an actual value. Without a measurable % benchmark, slumlords get unlimited
-time to 'fake' compliance.
+with an actual value. Without a measurable % benchmark, slumlords get unlimited time to 'fake' compliance.
 
 We DEMAND "Significant Progress" be defined.
 
