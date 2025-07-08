@@ -1792,7 +1792,7 @@ To advocate effectively for the creation of an Independent Tenant Abuse Hotline 
 ##### :round_pushpin: TWITTER MAIN TWEET
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@sergioperezLA](https://x.com/sergioperezLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
@@ -1972,7 +1972,7 @@ This post will be the top-level message people see and share.<br />
 
 We demand an Independent Tenant Abuse Hotline – NOW.
 
-City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth, @LADistAttorney, and @LACityAttorney have ignored this crisis.
+City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth, @LADistAttorney, and @CityAttorneyLA have ignored this crisis.
 
 We call on our leadership to act:
 ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles),
@@ -2096,7 +2096,7 @@ Please post or share these specific messages related to Defining "Significant Pr
 ##### :round_pushpin: TWITTER MAIN TWEET
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@sergioperezLA](https://x.com/sergioperezLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
@@ -2112,19 +2112,26 @@ Without it, they get unlimited time to pretend to fix things.
 
 <br />
 
-##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Tenant & Community Orgs & Press):
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 2</b>: Post a Reply Tweet Tagging Key Groups<br />
+<b style="color:yellow">Step 2</b>: Post a Reply Tweet Tagging Key Groups and Adding Link to Sources. <br />
 
 Immediately reply to your main tweet and tag the following people.<br /><br />
 
 ```
-@Mike_Feuer @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA
-@LADAOffice @lacontroller @LACountyBOS How many more tenants must suffer while leaders hide behind
-undefined progress? We need a clear % to define 'Significant Progress' #LAHD
+15 Tenants have Died. Families pushed into homelessness 
+
+📂 Want proof? Receipts? Case studies?
+
+💻 Read about the Constructive Eviction Loophole here:
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
+
+#ExposeLAHD #LA #EvictionLoophole #LosAngeles
 ```
 <br />
+
 
 ##### :round_pushpin: TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs & Press):
 
@@ -2139,20 +2146,14 @@ undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 
 <br />
 
-##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Tenant & Community Orgs & Press):
+##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Relevant Officials):
 <hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 4</b>:  Add a Final Reply Tweet Directing to This Document<br /><br />
 
 ```
-15 Tenants have Died. Families pushed into homelessness. 
-
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole here:
-
-👉 github.com/YourRepoLink
-
-#ExposeLAHD #LA #EvictionLoophole #LosAngeles
+@Mike_Feuer @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA
+@LADAOffice @lacontroller @LACountyBOS How many more tenants must suffer while leaders hide behind
+undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 ```
 
 <br/>
@@ -2417,13 +2418,12 @@ Please encouage the city to perform these tasks against their work case / repair
 ##### :round_pushpin: TWITTER MAIN TWEET
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@sergioperezLA](https://x.com/sergioperezLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
 ```
-Slumlords can be found & removed, we need an independent audit of #LAHD's
-case / repair database to fix it
+Slumlords can be found & removed, we need an independent audit of #LAHD's case / repair database to fix it
 
 We need transparency & reform. LAHD's current system enables slumlords & buries tenant abuse.
 
@@ -2435,23 +2435,29 @@ We need transparency & reform. LAHD's current system enables slumlords & buries 
 <br />
 
 
-##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Media and Link Source):
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 2</b>: Post First Reply Tweet About LAHD Database Audits<br />
 
 Immediately reply to your main tweet and tag the following people.<br />
 
-```
-Search LAHD's case & repair database for addresses tied to repeated complaints,
-sewage, mold, gas & heating issues
+Add source link material<br />
 
-Focus on "unresolved" or "long open" cases
-
-@KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA
-@CityAttorneyLA @LACountyBOS
-#LAHD
 ```
+@latimes @LiamDillonLAT @LAist @CurationsLA
+
+15 Tenants have Died. Families pushed into homelessness.
+
+📂 Want proof? Receipts? Case studies?
+
+💻 Read about the Constructive Eviction Loophole: 👇
+
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
+
+#LosAngeles #EvictionLoophole
+```
+
 
 <br />
 
@@ -2478,10 +2484,9 @@ Review inspectors connected to persistent abuse
 <b style="color:yellow">Step 4</b>: Post Another Reply Tweet Asking to Track Slumlords<br />
 
 ```
-Connect red-flag addresses to landlords & property managers.
+Connect red-flag addresses to landlords & property managers
 
-@PAMAPropMgmt was tied to violence, evictions & tenant abuse in multiple cases.
-How many more firms operate like this with LAHD's blessing?
+@PAMAPropMgmt was tied to violence, evictions & tenant abuse in multiple cases. How many more firms operate like this with LAHD's blessing?
 
 @MayorOfLA @CD6LosAngeles @adrin_nazarian @LATenantsUnion @TenantsTogether
 ```
@@ -2496,9 +2501,7 @@ How many more firms operate like this with LAHD's blessing?
 ```
 Send independent welfare inspectors to red-flag properties
 
-These buildings aren't just breaking code - they're breaking people
-Mold, sewage, harassment - tenants are suffering
-@LApublichealth @lacountyHR
+These buildings aren't just breaking code - they're breaking people Mold, sewage, harassment - tenants are suffering @LApublichealth @lacountyHR
 
 @MayorOfLA @CD6LosAngeles @adrin_nazarian @LATenantsUnion @TenantsTogether
 ```
@@ -2532,8 +2535,7 @@ Their data = the truth
 ```
 Analyze the data
 
-Who's enabling abuse? Who's silencing reports? Which properties need
-emergency intervention? Once exposed, fix it
+Who's enabling abuse? Who's silencing reports? Which properties need emergency intervention? Once exposed, fix it
 
 #ConstructiveEviction #TenantRights #LosAngeles
 
@@ -2543,26 +2545,26 @@ emergency intervention? Once exposed, fix it
 
 <br />
 
-##### :round_pushpin: FINAL REPLY TWEET:
+
+##### :round_pushpin: FINAL REPLY TWEET (Tag Relevant Officials):
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 8</b>: Post Another Reply Tweet Adding Media<br />
 
 ```
-@latimes @LiamDillonLAT @LAist @CurationsLA
+Search LAHD's case & repair database for addresses tied to repeated complaints,
+sewage, mold, gas & heating issues
 
-15 Tenants have Died. Families pushed into homelessness.
+Focus on "unresolved" or "long open" cases
 
-📂 Want proof? Receipts? Case studies?
-
-💻 Read about the Constructive Eviction Loophole: 👇
-
-👉 github.com/YourRepoLink
-
-#LosAngeles #EvictionLoophole
+@KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA
+@CityAttorneyLA @LACountyBOS
+#LAHD
 ```
 
-<br/>
+
+
+<br />
 <p>
 <a id="REQUEST_INDEPENDENT_ANALYSIS_RELATED_INSTAGRAM_MESSAGE"></a>
 </p>
@@ -2699,7 +2701,7 @@ Tenant safety is at stake. This is about public health, dignity, and enforcing c
 
 📌 Tagging those who should be pushed:
 @lacontroller @CityAttorneyLA @CuratingLA @LosAngelesHousingDepartment @LACountyConsumerBusinessAffairs
-@LAHousAuth  @LADistAttorney @LACityAttorney
+@LAHousAuth  @LADistAttorney @CityAttorneyLA
 
 @MayorOfLA Councilmembers @krekorian @AdrinNazarian Hernandez (@cd1losangeles) Raman (@cd4losangeles)
 Soto-Martinez (@CD13LosAngeles) @TimMcOskerLA — step up.
@@ -2840,7 +2842,7 @@ On behalf of those silenced by the Constructive Eviction Loophole
 ##### :round_pushpin: TWITTER MAIN TWEET
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @kennethmejiaLA, @PaulKrekorian, @LAist, or @LAHD___'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@sergioperezLA](https://x.com/sergioperezLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
@@ -2937,7 +2939,7 @@ Your silence is complicity
 
 💻 Read about the Constructive Eviction Loophole: 👇
 
-👉 github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 #LosAngeles #EvictionLoophole
 ```
@@ -3267,12 +3269,13 @@ On behalf of those silenced by the Constructive Eviction Loophole
 ##### :round_pushpin: TWITTER MAIN TWEET
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to @MayorOfLA, @kennethmejiaLA, @LAist or @LAHD___'s pinned Tweets or most recent posts.<br />
+<b style="color:yellow">Step 1</b>: Post this main tweet (the "<span style="color:yellow">parent</span>" tweet) to your account or to [@kennethmejiaLA](https://x.com/kennethmejiaLA), [@sergioperezLA](https://x.com/sergioperezLA), [@PaulKrekorian](https://x.com/PaulKrekorian), [@LAist](https://x.com/LAist), [@MayorOfLA](https://x.com/MayorOfLA) or [@LAHD___](https://x.com/LAHD___)'s pinned Tweets or most recent posts.<br />
 
 This tweet will be the top-level message people see and share.<br />
 
 ```
-LA's Housing Dept has known about the Constructive Eviction Loophole since 2018.
+LA's Housing Dept has known about the Constructive Eviction Loophole since 2018
+
 15 tenants have died, slumlords & corrupt inspectors force families out illegally
 
 📢 This thread shows how LAHD's enabling abuse
@@ -3292,12 +3295,10 @@ LA's Housing Dept has known about the Constructive Eviction Loophole since 2018.
 Immediately reply to your main tweet and tag the following people.<br />
 
 ```
-Tenants at Woodman Gardens were ignored by officials even after showing video proof of
-LAHD inspectors working with slumlords. City records show-it's a pattern
+Tenants at Woodman Gardens were ignored by officials even after showing video proof of #LAHD inspectors working with slumlords. City records show-it's a pattern
 
 @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA
 @CityAttorneyLA @LACountyBOS
-#LAHD
 ```
 
 <br />
@@ -3308,12 +3309,11 @@ LAHD inspectors working with slumlords. City records show-it's a pattern
 <b style="color:yellow">Step 3</b>: Add Another Reply About the 15 Who Died<br />
 
 ```
-Mike Feuer once sued a landlord over this very loophole—where 15 died at
-a complex on Vanowen. His office has no record of it now.
+@Mike_Feuer once sued a landlord over this very loophole—where 15 died at a complex on Vanowen. His office has no record of it now.
 
 This erasure = lives lost.
 
-@MayorOfLA @CD2Krekorian @KennethMejiaLA @LACityAttorney @LAHD  
+@MayorOfLA @KennethMejiaLA @CityAttorneyLA @LAHD___  
 Do your job. Close this loophole. #JusticeForThe15
 ```
 <br />
@@ -3324,8 +3324,7 @@ Do your job. Close this loophole. #JusticeForThe15
 <b style="color:yellow">Step 4</b>: Post Another Reply Tweet About How A 2018 Audit Exposed This Loophole <br />
 
 ```
-The LA Controller's 2018 audit exposed how LAHD gives unlimited case extensions—letting
-slumlords ignore violations until tenants give up or get sick
+The LA Controller's 2018 audit exposed how LAHD gives unlimited case extensions—letting slumlords ignore violations until tenants give up or get sick
 
 Slumlords aren't being stopped. They're being enabled.
 
@@ -3348,7 +3347,7 @@ Slumlords aren't being stopped. They're being enabled.
 
 💻 Read about the Constructive Eviction Loophole: 👇
 
-👉 github.com/YourRepoLink
+👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 #LosAngeles #EvictionLoophole
 ```
