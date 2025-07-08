@@ -1809,37 +1809,15 @@ We demand an Independent Tenant Abuse Hotline @LAHD___ must stop enabling slumlo
 ```
 <br />
 
-##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Relevant Officials):
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Media):
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 2</b>: Reply to your own tweet to start a "<span style="color:yellow">thread</span>"<br />
 
-Each new tweet you post as a reply adds to the thread.<br />
+Each new tweet you post as a reply adds to the thread.
+
+Add source tweet and tag media.
 <br />
-
-```
-@KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LADAOffice @lacontroller @LACountyBOS
-
-You've all been made aware of The Contructive Eviction Loophole. Where is our Independent Tenant Abuse Hotline?
-```
-<br/>
-
-##### :round_pushpin: TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs):
-<hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br />
-<br />
-
-```
-@LATenantsUnion @TenantsTogether @SAJE_ShiftPower
-@LACANORG @Justice4Renters @CalOrganize
-
-Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD just redirects us to the courts.
-```
-<br />
-
-##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Media & Press):
-<hr style="border: none; border-top: 2px dashed gray;" />
-<b style="color:yellow">Step 4</b>: Add tweet to tag media & press<br />
 <br />
 
 ```
@@ -1854,6 +1832,39 @@ Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD jus
 👉 https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
 #ExposeLAHD #LA #EvictionLoophole #LosAngeles
+```
+<br/>
+
+
+##### :round_pushpin: TWITTER SECOND REPLY TWEET (Tag Tenant & Community Orgs):
+<hr style="border: none; border-top: 2px dashed gray;" />
+<b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br />
+<br />
+
+```
+@LATenantsUnion @TenantsTogether @SAJE_ShiftPower
+@LACANORG @Justice4Renters @CalOrganize
+
+Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD just redirects us to the courts.
+```
+<br />
+
+
+```
+
+```
+<br/>
+
+
+##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Relevant Officials):
+<hr style="border: none; border-top: 2px dashed gray;" />
+<b style="color:yellow">Step 4</b>: Add tweet to tag city officials<br />
+<br />
+
+```
+@KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LADAOffice @lacontroller @LACountyBOS
+
+You've all been made aware of The Contructive Eviction Loophole. Where is our Independent Tenant Abuse Hotline?
 ```
 
 <br/>
@@ -1939,7 +1950,7 @@ Includes research, case studies, and media documentation.
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
 @lacanorg @saje_shiftpower @calorganize
 
-📰 Media & Press:
+📰 Media:
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
@@ -2231,7 +2242,7 @@ Includes research, case studies, and media documentation.
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
 @lacanorg @saje_shiftpower @calorganize
 
-📰 Media & Press:
+📰 Media:
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
@@ -2539,7 +2550,7 @@ emergency intervention? Once exposed, fix it
 ##### :round_pushpin: FINAL REPLY TWEET:
 <hr style="border: none; border-top: 2px dashed gray;" />
 
-<b style="color:yellow">Step 8</b>: Post Another Reply Tweet Adding Media & Press<br />
+<b style="color:yellow">Step 8</b>: Post Another Reply Tweet Adding Media<br />
 
 ```
 @latimes @LiamDillonLAT @LAist @CurationsLA
@@ -2652,7 +2663,7 @@ Includes research, case studies, and media documentation.
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
 @lacanorg @saje_shiftpower @calorganize
 
-📰 Media & Press:
+📰 Media:
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
@@ -3034,7 +3045,7 @@ Includes research, case studies, and media documentation #ExposeLAHD
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
 @lacanorg @saje_shiftpower @calorganize
 
-📰 Media & Press:
+📰 Media:
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message
@@ -3447,7 +3458,7 @@ Includes research, case studies, and media documentation.
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
 @lacanorg @saje_shiftpower @calorganize
 
-📰 Media & Press:
+📰 Media:
 @latimes @liamdillonlat @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
