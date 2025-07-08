@@ -1881,7 +1881,7 @@ This post will be the top-level message people see and share. Feel free to use t
       src="assets/imgs/tenant-abuse-hotline-now.png" 
       alt="Independent Tenant abuse hotline now" 
       title="Click to Enlarge"
-      style="width:35%; min-width:35%; max-width:35%; height:auto; display:block; margin:0 auto;"
+      style="width:40%; min-width:40%; max-width:40%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
