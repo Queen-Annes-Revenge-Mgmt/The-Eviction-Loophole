@@ -1821,7 +1821,7 @@ Add source tweet and tag media.
 <br />
 
 ```
-@latimes @LiamDillonLAT @LAist @CurationsLA @tvanita
+@latimes @dillonliam @LAist @CurationsLA @tvanita
 
 15 Tenants have Died. Families pushed into homelessness
 
@@ -1843,7 +1843,7 @@ Add source tweet and tag media.
 
 ```
 @LATenantsUnion @TenantsTogether @SAJE_ShiftPower
-@LACANORG @Justice4Renters @CalOrganize
+@lacanetwork @Justice4Renters @CalOrganize
 
 Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD just redirects us to the courts.
 ```
@@ -1944,10 +1944,10 @@ Includes research, case studies, and media documentation.
 
 📢 Tenant Advocacy:
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanorg @saje_shiftpower @calorganize
+@lacanetwork @saje_shiftpower @calorganize
 
 📰 Media:
-@latimes @liamdillonlat @laist @curationsla
+@latimes @dillonliam @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
@@ -2009,7 +2009,7 @@ lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@l
 atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
 atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
 jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
-Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -2101,10 +2101,12 @@ Please post or share these specific messages related to Defining "Significant Pr
 This tweet will be the top-level message people see and share.<br />
 
 ```
-Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value.
-Without it, they get unlimited time to pretend to fix things.
+Slumlords exist because #LAHD refuses to define 'Significant Progress' with a measurable value
+
+Without it, they get unlimited time to pretend to fix things
 
 "Significant Progress" must be a percentage
+
 @lacontroller @PaulKrekorian @sergioperezLA
 🔗Below
 #TenantRights #LosAngeles
@@ -2139,8 +2141,8 @@ Immediately reply to your main tweet and tag the following people.<br /><br />
 <b style="color:yellow">Step 3</b>: Add tweet to tag tenant & community orgs<br /><br />
 
 ```
-@LATenantsUnion @TenantsTogether @SAJE_ShiftPower @LACANORG @Justice4Renters @CalOrganize @latimes
-@LiamDillonLAT @LAist @CurationsLA @tvanita How many more tenants must suffer while leaders hide behind
+@LATenantsUnion @TenantsTogether @SAJE_ShiftPower @lacanetwork @Justice4Renters @CalOrganize @latimes
+@dillonliam @LAist @CurationsLA @tvanita How many more tenants must suffer while leaders hide behind
 undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 ```
 
@@ -2237,10 +2239,10 @@ Includes research, case studies, and media documentation.
 
 📢 Tenant Advocacy:
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanorg @saje_shiftpower @calorganize
+@lacanetwork @saje_shiftpower @calorganize
 
 📰 Media:
-@latimes @liamdillonlat @laist @curationsla
+@latimes @dillonliam @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
@@ -2313,7 +2315,7 @@ lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@l
 atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
 atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
 jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
-Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -2445,7 +2447,7 @@ Immediately reply to your main tweet and tag the following people.<br />
 Add source link material<br />
 
 ```
-@latimes @LiamDillonLAT @LAist @CurationsLA
+@latimes @dillonliam @LAist @CurationsLA
 
 15 Tenants have Died. Families pushed into homelessness.
 
@@ -2486,7 +2488,7 @@ Review inspectors connected to persistent abuse
 ```
 Connect red-flag addresses to landlords & property managers
 
-@PAMAPropMgmt was tied to violence, evictions & tenant abuse in multiple cases. How many more firms operate like this with LAHD's blessing?
+PAMA Prop Mgmt was tied to violence, evictions & tenant abuse in multiple cases. How many firms operate like this with LAHD's blessing?
 
 @MayorOfLA @CD6LosAngeles @adrin_nazarian @LATenantsUnion @TenantsTogether
 ```
@@ -2520,7 +2522,7 @@ Let them anonymously report retaliation, threats, and LAHD negligence.
 
 Their data = the truth
 
-@LATenantsUnion @SAJE_LA @LAcontroller
+@LATenantsUnion @LAcontroller
 @LApublichealth
 @MayorOfLA @CD6LosAngeles @adrin_nazarian @LATenantsUnion @TenantsTogether
 ```
@@ -2539,7 +2541,7 @@ Who's enabling abuse? Who's silencing reports? Which properties need emergency i
 
 #ConstructiveEviction #TenantRights #LosAngeles
 
-@LATenantsUnion @SAJE_LA @LAcontroller
+@LATenantsUnion @LAcontroller
 @LApublichealth @MayorOfLA @adrin_nazarian @TenantsTogether
 ```
 
@@ -2552,16 +2554,14 @@ Who's enabling abuse? Who's silencing reports? Which properties need emergency i
 <b style="color:yellow">Step 8</b>: Post Another Reply Tweet Adding Media<br />
 
 ```
-Search LAHD's case & repair database for addresses tied to repeated complaints,
+Search #LAHD's case & repair database for addresses tied to repeated complaints,
 sewage, mold, gas & heating issues
 
 Focus on "unresolved" or "long open" cases
 
 @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA
 @CityAttorneyLA @LACountyBOS
-#LAHD
 ```
-
 
 
 <br />
@@ -2659,10 +2659,10 @@ Includes research, case studies, and media documentation.
 
 📢 Tenant Advocacy:
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanorg @saje_shiftpower @calorganize
+@lacanetwork @saje_shiftpower @calorganize
 
 📰 Media:
-@latimes @liamdillonlat @laist @curationsla
+@latimes @dillonliam @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
@@ -2737,7 +2737,7 @@ lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@l
 atty.rsvp@lacity.org, councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com,
 atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com,
 jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org,
-Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -2914,13 +2914,13 @@ The 6 Audit Areas of Concern, an independent analysis must:
 
 ```
 🚨Calling in support from 🚨 @LATenantsUnion @LACivilRights @PublicCounsel @ACLU_SoCal
-@kennethmejiaLA @HCD_California @adrin_nazarian
+@kennethmejiaLA @adrin_nazarian
 
 Your silence is complicity
 
 @LApublichealth @lacountyHR
 
-@MayorOfLA @CD6LosAngeles @adrin_nazarian @LATenantsUnion @TenantsTogether #LA
+@MayorOfLA @SAJE_ShiftPower @adrin_nazarian @LATenantsUnion @TenantsTogether #LA
 ```
 
 <br />
@@ -2931,7 +2931,7 @@ Your silence is complicity
 <b style="color:yellow">Step 6</b>: Final Tweet with Link to Sources<br />
 
 ```
-@latimes @LiamDillonLAT @LAist @CurationsLA
+@latimes @dillonliam @LAist @CurationsLA
 
 15 Tenants have Died. Families pushed into homelessness.
 
@@ -3041,10 +3041,10 @@ Includes research, case studies, and media documentation #ExposeLAHD
 
 📢 Tenant Advocacy:
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanorg @saje_shiftpower @calorganize
+@lacanetwork @saje_shiftpower @calorganize
 
 📰 Media:
-@latimes @liamdillonlat @laist @curationsla
+@latimes @dillonliam @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message
 
@@ -3153,7 +3153,7 @@ lapublichealth@lacity.org, hacla@hacla.org, info@housingrightscenter.org, info@l
 councilmember.nazarian@lacity.org, tips@laist.com, tips@latimes.com, atcomments@laist.com,
 oped@latimes.com, harriet.ryan@latimes.com, alene.tchekmedyian@latimes.com, jack.dolan@latimes.com,
 matt.hamilton@latimes.com, melody.gutierrez@latimes.com, ngerda@scpr.org, Connor.Sheets@latimes.com,
-Susanne.Rust@latimes.com,Jack.Leonard@latimes.com, tips@nbcla.com
+Susanne.Rust@latimes.com,Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
@@ -3339,7 +3339,7 @@ Slumlords aren't being stopped. They're being enabled.
 <b style="color:yellow">Step 5</b>: Post Another Reply Tweet with Links Containg Evidence<br />
 
 ```
-@latimes @LiamDillonLAT @LAist @CurationsLA
+@latimes @dillonliam @LAist @CurationsLA
 
 15 Tenants have Died. Families pushed into homelessness.
 
@@ -3451,10 +3451,10 @@ Includes research, case studies, and media documentation.
 
 📢 Tenant Advocacy:
 @latenantsunion @tenantstogether @educatedtenant @justice4renters @abundanthousingla
-@lacanorg @saje_shiftpower @calorganize
+@lacanetwork @saje_shiftpower @calorganize
 
 📰 Media:
-@latimes @liamdillonlat @laist @curationsla
+@latimes @dillonliam @laist @curationsla
 
 🔁 Please ❤️, save, and share this post! 15 Died to bring you this message.
 ```
@@ -3538,7 +3538,7 @@ mayor.helpdesk@lacity.org, lahd.lac@lacity.org, dcba@dcba.lacounty.gov, ladbs@la
 hacla@hacla.org, info@housingrightscenter.org, info@lafla.org, atty.rsvp@lacity.org, councilmember.nazarian@lacity.org,
 tips@laist.com, tips@latimes.com, atcomments@laist.com, oped@latimes.com, harriet.ryan@latimes.com,
 alene.tchekmedyian@latimes.com, jack.dolan@latimes.com, matt.hamilton@latimes.com, melody.gutierrez@latimes.com,
-ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com
+ngerda@scpr.org, Connor.Sheets@latimes.com, Susanne.Rust@latimes.com, Jack.Leonard@latimes.com, tips@nbcla.com, contact@cangress.org
 ```
 
 <br />
