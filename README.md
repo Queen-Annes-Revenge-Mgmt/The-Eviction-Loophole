@@ -1820,7 +1820,7 @@ Each new tweet you post as a reply adds to the thread.<br />
 ```
 @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LADAOffice @lacontroller @LACountyBOS
 
-You've all been made aware of The Contructive Eviction Loophole. Where is our Tenant Abuse Hotline?
+You've all been made aware of The Contructive Eviction Loophole. Where is our Independent Tenant Abuse Hotline?
 ```
 <br/>
 
@@ -1833,7 +1833,7 @@ You've all been made aware of The Contructive Eviction Loophole. Where is our Te
 @LATenantsUnion @TenantsTogether @SAJE_ShiftPower
 @LACANORG @Justice4Renters @CalOrganize
 
-Can you support the push to demand a dedicated Tenant Abuse Hotline?
+Can you support the push to demand a Independent Tenant Abuse Hotline?
 ```
 <br />
 
@@ -1875,7 +1875,7 @@ This post will be the top-level message people see and share. Feel free to use t
   <a href="assets/imgs/tenant-abuse-hotline-now.png" target="_blank">
     <img 
       src="assets/imgs/tenant-abuse-hotline-now.png" 
-      alt="Tenant abuse hotline now" 
+      alt="Independent Tenant abuse hotline now" 
       title="Click to Enlarge"
       style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
     >
@@ -1885,7 +1885,7 @@ This post will be the top-level message people see and share. Feel free to use t
 ```
 🚨 Los Angeles tenants deserve safety and justice.
 
-We DEMAND a Tenant Abuse Hotline NOW.
+We DEMAND an Independent Tenant Abuse Hotline NOW.
 
 For too long, city agencies like @lahd___ and @lacountydcba have failed to protect renters from
 slumlords—enabling violence, burnings, lockouts, and constructive eviction.
@@ -1962,10 +1962,10 @@ This post will be the top-level message people see and share.<br />
 
 ```
 🚨 Los Angeles tenants are suffering from harassment, violence, lockouts, and the Constructive Eviction loophole.
-We demand a Tenant Abuse Hotline – NOW.
 
-City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth,
- @LADistAttorney, and @LACityAttorney have ignored this crisis.
+We demand an Independent Tenant Abuse Hotline – NOW.
+
+City agencies like @LosAngelesHousingDepartment, @LACountyConsumerBusinessAffairs, @LAHousAuth, @LADistAttorney, and @LACityAttorney have ignored this crisis.
 
 We call on our leadership to act:
 ▶️ City of LA: @MayorOfLA, Councilmembers @krekorian, @AdrinNazarian, Hernandez (@cd1losangeles),
@@ -2023,7 +2023,7 @@ info@cangress.org, info@justcause.org, info@calorganize.org
 ##### :round_pushpin: EMAIL SUBJECT:
 
 ```
-Phase 1 - URGENT REQUEST: Immediate Action Required - Establish the Tenant Abuse Hotline to Fight Slumlords
+Phase 1 - URGENT REQUEST: Immediate Action Required - Establish an Independent Tenant Abuse Hotline to Fight Slumlords
 ```
 
 <br />
@@ -2033,21 +2033,19 @@ Phase 1 - URGENT REQUEST: Immediate Action Required - Establish the Tenant Abuse
 ```
 Dear Recipients,
 
-This is Phase 1 in the fight against the Constructive Eviction Loophole
-and systemic tenant abuse in Los Angeles.
+This is Phase 1 in the fight against the Constructive Eviction Loophole and systemic tenant abuse in Los Angeles.
 
-We are calling for the immediate creation of a Tenant Abuse Hotline.
+We are calling for the immediate creation of an Independent Tenant Abuse Hotline.
 
-Tenants need a direct, transparent way to report abuse without being ignored,
-redirected, or forced into the courts where slumlords already have the upper hand.
+Tenants need a direct, transparent way to report abuse without being ignored, redirected, or forced into the courts where slumlords already have the upper hand.
 
 The loophole is growing. Tenant abuse is not slowing down — it's escalating.
+
 The longer we delay, the more people are displaced, hurt, and silenced.
 
 If we do not act now, this issue will explode beyond control.
 
-The hotline is not the final solution, but it is the first, critical step.
-We are committed to following this through all remaining phases.
+The hotline is not the final solution, but it is the first, critical step. We are committed to following this through all remaining phases.
 
 📂 For full documentation, case studies & sources on the loophole, visit:
 
