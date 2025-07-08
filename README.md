@@ -1809,7 +1809,7 @@ We demand an Independent Tenant Abuse Hotline @LAHD___ must stop enabling slumlo
 ```
 <br />
 
-##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Media):
+##### :round_pushpin: TWITTER FIRST REPLY TWEET (Tag Source & Media):
 <hr style="border: none; border-top: 2px dashed gray;" />
 
 <b style="color:yellow">Step 2</b>: Reply to your own tweet to start a "<span style="color:yellow">thread</span>"<br />
@@ -1850,12 +1850,6 @@ Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD jus
 <br />
 
 
-```
-
-```
-<br/>
-
-
 ##### :round_pushpin: TWITTER THIRD REPLY TWEET (Tag Relevant Officials):
 <hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 4</b>: Add tweet to tag city officials<br />
@@ -1865,6 +1859,8 @@ Can you support the push to demand an Independent Tenant Abuse Hotline? LAHD jus
 @KarenBassLA @adrin_nazarian @cd2losangeles @LindseyPHorvath @RonGalperinLA @CityAttorneyLA @LADAOffice @lacontroller @LACountyBOS
 
 You've all been made aware of The Contructive Eviction Loophole. Where is our Independent Tenant Abuse Hotline?
+
+@LAHD___'s compromised
 ```
 
 <br/>
