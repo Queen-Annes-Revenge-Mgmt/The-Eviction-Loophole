@@ -2169,7 +2169,7 @@ undefined progress? We need a clear % to define 'Significant Progress' #LAHD
 <hr style="border: none; border-top: 2px dashed gray;" />
 <b style="color:yellow">Step 1</b>: Post this main message (the "<span style="color:yellow">parent</span>" post) to your account or to 
 
-[@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA), [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
+[@kennethmejiaLA](https://www.instagram.com/kennethmejiaLA) , [@sergioperez.la](https://www.instagram.com/sergioperez.la), [@PaulKrekorian](https://www.instagram.com/paulkrekorian), [@laistofficial](https://www.instagram.com/laistofficial/), or [@LAHD](https://www.instagram.com/LAHD)'s pinned posts.<br />
 
 This post will be the top-level message people see and share. Feel free to use this image for your post: <br />
 
@@ -2593,7 +2593,7 @@ Let's request an independent analysis of LAHD Repair Case Database:
       src="assets/imgs/Independendent-audit-of-lahd-repair-db.png" 
       alt="Request independent analysis of LAHD Repair Case Database" 
       title="Click to Enlarge"
-      style="width:25%; min-width:25%; max-width:25%; height:auto; display:block; margin:0 auto;"
+      style="width:40%; min-width:40%; max-width:40%; height:auto; display:block; margin:0 auto;"
     >
   </a>
 </div><br />
